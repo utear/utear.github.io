@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-1
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-2
+http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-3
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-4
+http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-6
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-7
+http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1D941LM.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-9
+http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-10
+http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-14
+http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
