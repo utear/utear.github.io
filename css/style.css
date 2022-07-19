@@ -4,8 +4,19 @@
 }
 
 .search-box {
-    margin-top: 50%;
-    width: 50%;
+    margin: 15% auto;
+}
+@media screen  and (min-width: 1920px){
+    .search-box {
+        width: 45%;
+    }
+}
+
+
+@media screen  and (max-width: 800px){
+    .search-box {
+        width: 80%;
+    }
 }
 
 header {
@@ -14,4 +25,27 @@ header {
 }
 .align-right {
     text-align: right;
+}
+
+header a {
+    margin-right: 12px;
+    color: #FFF;
+    line-height: 30px;
+}
+
+.search-box {
+    line-height: 35px;
+}
+
+.search-content {
+    line-height: 35px;
+    border-radius: 10px;
+    padding: 0 10px;
+    width: 80%;
+}
+
+.search-btn {
+    float: right;
+    line-height: 35px;
+    width: 80px;
 }
