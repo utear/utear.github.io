@@ -1,4 +1,4 @@
-* {
+*, body {
     margin: 0;
     padding: 0;
 }
@@ -6,4 +6,12 @@
 .search-box {
     margin-top: 50%;
     width: 50%;
+}
+
+header {
+    height: 30px;
+    background-color: black;
+}
+.align-right {
+    text-align: right;
 }
