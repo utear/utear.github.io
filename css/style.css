@@ -1,4 +1,4 @@
-*, body {
+* {
     margin: 0;
     padding: 0;
 }
@@ -37,15 +37,27 @@ header a {
     line-height: 35px;
 }
 
+input {
+    outline: none;
+}
 .search-content {
     line-height: 35px;
-    border-radius: 10px;
+    border-radius: 10px 0 0 10px;
     padding: 0 10px;
-    width: 80%;
+    border: #808080 2px solid;
+    border-right-width: 0;
+    width: calc(100% - 102px);
+}
+.search-content:focus {
+    border: #808080 2px solid;
+    border-right-width: 0;
 }
 
 .search-btn {
     float: right;
     line-height: 35px;
     width: 80px;
+    border: #808080 2px solid;
+    border-radius: 0 10px 10px 0;
+    cursor: pointer;
 }
