@@ -12,6 +12,12 @@
     }
 }
 
+@media screen and (min-width: 800px) {
+    .search-box {
+        width: 80%;
+    }
+}
+
 
 @media screen  and (max-width: 800px){
     .search-box {
