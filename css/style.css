@@ -1,4 +1,4 @@
-* {
+*, body {
     margin: 0;
     padding: 0;
 }
@@ -66,4 +66,15 @@ input {
     border: #808080 2px solid;
     border-radius: 0 10px 10px 0;
     cursor: pointer;
+}
+
+.nav-box {
+    padding: 10px;
+}
+.nav-content {
+    display: inline-flex;
+    padding: 3px 10px;
+    width: 18%;
+    border: 1px solid #EEE;
+    color: #000;
 }
