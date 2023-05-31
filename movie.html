@@ -12,29 +12,28 @@
 <main>
     <div class="nav-box">
         <h2>电影</h2>
-        <a class="nav-content" target="_blank" href="https://www.mozhatu.com/">莫扎兔</a>
-        <a class="nav-content" target="_blank" href="http://www.hdmoli.com/">HDmoli</a>
-        <a class="nav-content" target="_blank" href="https://www.libvio.app/">libvio</a>
-        <a class="nav-content" target="_blank" href="http://guapitv.xyz/">瓜皮</a>
-        <a class="nav-content" target="_blank" href="https://fozdrama.com/">峰禾营业</a>
-        <a class="nav-content" target="_blank" href="http://www.555dy.app.cn/">555dy</a>
-        <a class="nav-content" target="_blank" href="https://yyds.fans/index">yyds</a>
-        <a class="nav-content" target="_blank" href="http://www.4ltv.com/" >思乐TV</a>
-        <a class="nav-content" target="_blank" href="https://kuaizi.tv/" >人人影视</a>
-    </div>
-    
-    <div class="nav-box">
-        <h2>BT</h2>
-        <a class="nav-content" target="_blank" href="https://seedHub.info/">SeedHub</a>
-        <a class="nav-content" target="_blank" href="https://磁力猫.com/">cilimao</a>
-    </div>
-
-    <div class="nav-box">
-        <h2>aliyun</h2>
-        <a class="nav-content" target="_blank" href="https://u.gitcafe.net/">小纸条</a>
-        <a class="nav-content" target="_blank" href="https://yunpan1.com/">阿里小站</a>
+        
     </div>
     
 </main>
+<script>
+    fetch('./json/movie.json').then(response => {
+        return response.json();
+    }).then(jsondata => {
+        var mdata = '';
+        var x = document.getElementsByClassName('nav-box');
+        var movies = document.createElement('div');
+        console.log(movies);
+        x[0].appendChild(movies);
+
+        jsondata.forEach(j => {
+            var addr = document.createElement('a');
+            addr.href = j.address;
+            addr.className = 'nav-content ';
+            addr.textContent = j.name;
+            movies.append(addr);
+        });
+    });
+</script>
 </body>
 </html>

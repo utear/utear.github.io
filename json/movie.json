@@ -1,0 +1,27 @@
+[
+    {
+        "type": "movie",
+        "name": "莫扎兔",
+        "address": "https://www.mozhatu.com/"
+    },
+    {
+        "type": "movie",
+        "name": "HDmoli",
+        "address": "https://www.hdmoli.com/"
+    },
+    {
+        "type": "movie",
+        "name": "libvio",
+        "address": "https://www.libvio.top/"
+    },
+    {
+        "type": "movie",
+        "name": "seedHub",
+        "address": "https://seedHub.info/"
+    },
+    {
+        "type": "movie",
+        "name": "磁力猫",
+        "address": "https://磁力猫.com/"
+    }
+]
