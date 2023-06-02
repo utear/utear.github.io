@@ -74,7 +74,26 @@
         "name": "独播库",
         "address": "https://duboku.ru/"
     },
-    
+    {
+        "type": "movie",
+        "name": "MaGeDN",
+        "address": "https://loli.magedn.com/"
+    },
+    {
+        "type": "movie",
+        "name": "片吧",
+        "address": "https://www.yingbar.com/"
+    },
+    {
+        "type": "movie",
+        "name": "Nike",
+        "address": "https://www.ajeee.com/"
+    },
+    {
+        "type": "movie",
+        "name": "磁力熊",
+        "address": "https://www.cilixiong.com/"
+    },
     
     {
         "type": "BT",
@@ -95,5 +114,10 @@
         "type": "BT",
         "name": "btbtt",
         "address": "http://www.btbtt12.com/"
+    },
+    {
+        "type": "BT",
+        "name": "webmp4",
+        "address": "https://www.webmp4.com/"
     }
 ]
