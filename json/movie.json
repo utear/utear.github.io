@@ -21,7 +21,79 @@
     },
     {
         "type": "movie",
-        "name": "磁力猫",
-        "address": "https://磁力猫.com/"
+        "name": "gaze",
+        "address": "https://gaze.run/"
+    },
+    {
+        "type": "movie",
+        "name": "cokemv",
+        "address": "https://cokemv.me/"
+    },
+    {
+        "type": "movie",
+        "name": "zxzj",
+        "address": "https://zxzj.vip/"
+    },
+    {
+        "type": "movie",
+        "name": "ddys",
+        "address": "https://ddys.art/"
+    },
+    {
+        "type": "movie",
+        "name": "novipnoad",
+        "address": "https://www.novipnoad.com/"
+    },
+    {
+        "type": "movie",
+        "name": "泰剧鸟",
+        "address": "https://www.taijuniao.com/"
+    },
+    {
+        "type": "movie",
+        "name": "555dy",
+        "address": "https://555dy.cc/"
+    },
+    {
+        "type": "movie",
+        "name": "大米星球",
+        "address": "https://www.dmxq.fun/"
+    },
+    {
+        "type": "movie",
+        "name": "人人",
+        "address": "https://www.renren.pro/"
+    },
+    {
+        "type": "movie",
+        "name": "citydy",
+        "address": "https://www.citydy.com/"
+    },
+    {
+        "type": "movie",
+        "name": "独播库",
+        "address": "https://duboku.ru/"
+    },
+    
+    
+    {
+        "type": "BT",
+        "name": "btbt",
+        "address": "https://www.btbtba.com/"
+    },
+    {
+        "type": "BT",
+        "name": "片源",
+        "address": "https://pianyuanw.com/"
+    },
+    {
+        "type": "BT",
+        "name": "MP4",
+        "address": "https://www.mp4kan.com/"
+    },
+    {
+        "type": "BT",
+        "name": "btbtt",
+        "address": "http://www.btbtt12.com/"
     }
 ]
