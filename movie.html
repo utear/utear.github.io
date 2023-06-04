@@ -29,6 +29,7 @@
         jsondata.forEach(j => {
             var addr = document.createElement('a');
             addr.href = j.address;
+            addr.target = '_blank';
             addr.className = 'nav-content ';
             addr.textContent = j.name;
             movies.append(addr);
