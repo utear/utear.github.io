@@ -16,7 +16,7 @@
     
 </main>
 <script>
-    fetch('./json/movie.json').then(response => {
+    fetch('./json/type.json').then(response => {
         return response.json();
     }).then(types => {
         var x = document.getElementsByClassName('nav-box');
@@ -25,6 +25,9 @@
             t.id = type.type;
             console.log(t);
             x[0].appendChild(t);
+            var h2 = document.createElement('h2');
+            h2.textContent = type.name;
+            t.appendChild(h2);
         });
         fetch('./json/movie.json').then(response => {
             return response.json();
@@ -37,7 +40,7 @@
                 addr.target = '_blank';
                 addr.className = 'nav-content ';
                 addr.textContent = j.name;
-                type.append(addr);
+                type.appendChild(addr);
             });
         });
     })
