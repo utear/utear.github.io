@@ -129,5 +129,59 @@
         "type": "bt",
         "name": "btsearch",
         "address": "https://btsearch.love/"
+    },
+
+
+    {
+        "type": "tv",
+        "name": "IPTV search",
+        "address": "https://www.foodieguide.com.iptvsearch/"
+    },
+    {
+        "type": "tv",
+        "name": "IPTV",
+        "address": "http://tonkiang.us/"
+    },
+
+
+    {
+        "type": "pan",
+        "name": "雨呢网盘",
+        "address": "https://pan.clun.top/"
+    },
+    {
+        "type": "tv",
+        "name": "Arley’s Drive",
+        "address": "https://pan.arley.cn/en/"
+    },
+    {
+        "type": "tv",
+        "name": "A番剧",
+        "address": "http://abnormalize.icu/"
+    },
+    {
+        "type": "tv",
+        "name": "游戏社",
+        "address": "https://zi0.cc/"
+    },
+    {
+        "type": "tv",
+        "name": "asca0121",
+        "address": "https://asca0121.toc.icu/"
+    },
+    {
+        "type": "tv",
+        "name": "6r",
+        "address": "https://dl.6r.pw:6080/"
+    },
+    {
+        "type": "tv",
+        "name": "bdys",
+        "address": "https://bdys.top/"
+    },
+    {
+        "type": "tv",
+        "name": "azad",
+        "address": "https://alist.azad.asia/"
     }
 ]
