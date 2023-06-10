@@ -11,7 +11,6 @@
 </header>
 <main>
     <div class="nav-box">
-        <h2>电影</h2>
         
     </div>
     
@@ -19,22 +18,30 @@
 <script>
     fetch('./json/movie.json').then(response => {
         return response.json();
-    }).then(jsondata => {
-        var mdata = '';
+    }).then(types => {
         var x = document.getElementsByClassName('nav-box');
-        var movies = document.createElement('div');
-        console.log(movies);
-        x[0].appendChild(movies);
-
-        jsondata.forEach(j => {
-            var addr = document.createElement('a');
-            addr.href = j.address;
-            addr.target = '_blank';
-            addr.className = 'nav-content ';
-            addr.textContent = j.name;
-            movies.append(addr);
+        types.forEach(type => {
+            var t = document.createElement('div');
+            t.id = t.type;
+            console.log(t);
+            x[0].appendChild(t);
         });
-    });
+        fetch('./json/movie.json').then(response => {
+            return response.json();
+        }).then(jsondata => {
+            var mdata = '';
+            jsondata.forEach(j => {
+                var type = document.getElementById(j.type);
+                var addr = document.createElement('a');
+                addr.href = j.address;
+                addr.target = '_blank';
+                addr.className = 'nav-content ';
+                addr.textContent = j.name;
+                type.append(addr);
+            });
+        });
+    })
+    
 </script>
 </body>
 </html>

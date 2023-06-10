@@ -1,0 +1,10 @@
+[
+    {
+        "type": "movie",
+        "name": "电影"
+    },
+    {
+        "type": "bt",
+        "name": "BT"
+    }
+]
