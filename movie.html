@@ -22,7 +22,7 @@
         var x = document.getElementsByClassName('nav-box');
         types.forEach(type => {
             var t = document.createElement('div');
-            t.id = t.type;
+            t.id = type.type;
             console.log(t);
             x[0].appendChild(t);
         });
