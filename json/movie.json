@@ -96,28 +96,38 @@
     },
     
     {
-        "type": "BT",
+        "type": "bt",
         "name": "btbt",
         "address": "https://www.btbtba.com/"
     },
     {
-        "type": "BT",
+        "type": "bt",
         "name": "片源",
         "address": "https://pianyuanw.com/"
     },
     {
-        "type": "BT",
+        "type": "bt",
         "name": "MP4",
         "address": "https://www.mp4kan.com/"
     },
     {
-        "type": "BT",
+        "type": "bt",
         "name": "btbtt",
         "address": "http://www.btbtt12.com/"
     },
     {
-        "type": "BT",
+        "type": "bt",
         "name": "webmp4",
         "address": "https://www.webmp4.com/"
+    },
+    {
+        "type": "bt",
+        "name": "unblockit",
+        "address": "https://unblockit.mov/"
+    },
+    {
+        "type": "bt",
+        "name": "btsearch",
+        "address": "https://btsearch.love/"
     }
 ]
