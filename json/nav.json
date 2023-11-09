@@ -1,5 +1,20 @@
 [
     {
+        "type": "nav",
+        "name": "硬核网站",
+        "address": "https://yinghe.app/"
+    },
+    {
+        "type": "nav",
+        "name": "摸鱼",
+        "address": "https://moyu.games/"
+    },
+    {
+        "type": "nav",
+        "name": "libvio",
+        "address": "https://www.libvio.top/"
+    },
+    {
         "type": "movie",
         "name": "莫扎兔",
         "address": "https://www.mozhatu.com/"

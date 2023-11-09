@@ -1,5 +1,9 @@
 [
     {
+        "type": "nav",
+        "name": "导航"
+    },
+    {
         "type": "movie",
         "name": "电影"
     },
@@ -15,4 +19,5 @@
         "type": "pan",
         "name": "网盘"
     }
+    
 ]

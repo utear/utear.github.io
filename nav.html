@@ -9,66 +9,43 @@
 <header class="align-right">
     <a href="./index.html">首页</a>
 </header>
+
 <main>
     <div class="nav-box">
-        <h2>导航</h2>
-        <a class="nav-content" target="_blank" href="https://jubt.site/">jubt</a>
-        <a class="nav-content" target="_blank" href="http://ilxdh.com/">lxdh</a>
-        <a class="nav-content" target="_blank" href="https://www.24kdh.com/">24khd</a>
-        <a class="nav-content" target="_blank" href="http://www.anliqu.com/">anliqu</a>
-        <a class="nav-content" target="_blank" href="https://www.code-nav.cn/">编程导航h</a>
-        <a class="nav-content" target="_blank" href="http://www.nav.52geo.cn/">地理导航</a>
-        <a class="nav-content" target="_blank" href="https://www.cxy521.com/">程序员</a>
-        <a class="nav-content" target="_blank" href="https://sci-hub.tech/" >sci-hub</a>
-        <a class="nav-content" target="_blank" href="https://549.tv/" >影视森林</a>
+        
     </div>
     
-    <div class="nav-box">
-        <h2>编程</h2>
-        <a class="nav-content" target="_blank" href="https://www.linuxcool.com/">linux命令</a>
-        <a class="nav-content" target="_blank" href="https://devdocs.io/">开发api</a>
-        <a class="nav-content" target="_blank" href="https://www.runoob.com/">菜鸟学习</a>
-        <a class="nav-content" target="_blank" href="https://www.quanzhanketang.com/">全栈课堂</a>
-        <a class="nav-content" target="_blank" href="https://www.w3schools.com/">w3schools</a>
-    </div>
-
-    <div class="nav-box">
-        <h2>学术</h2>
-        <a class="nav-content" target="_blank" href="https://www.medreading.cn/">医学文献</a>
-        <a class="nav-content" target="_blank" href="https://www.rwtext.com/cx.html">瑞文文摘</a>
-    </div>
-
-    <div class="nav-box">
-        <h2>软件</h2>
-        <a class="nav-content" target="_blank" href="https://www.fy6b.com/">枫音软件</a>
-        <a class="nav-content" target="_blank" href="https://www.423down.com/">423down</a>
-        <a class="nav-content" target="_blank" href="https://www.vxat.com/">VXAT</a>
-        <a class="nav-content" target="_blank" href="https://icu.su/">不死鸟</a>
-        <a class="nav-content" target="_blank" href="https://www.i3zh.com/">i3综合</a>
-        <a class="nav-content" target="_blank" href="https://www.vxat.com/">VXAT</a>
-    </div>
-
-    <div class="nav-box">
-        <h2>Github好项目</h2>
-        <a class="nav-content" target="_blank" href="https://github.com/521xueweihan/HelloGitHub">helloGithub</a>
-        <a class="nav-content" target="_blank" href="https://www.423down.com/">423down</a>
-        <a class="nav-content" target="_blank" href="https://www.vxat.com/">VXAT</a>
-    </div>
-
-    <div class="nav-box">
-        <h2>国家学习平台</h2>
-        <a class="nav-content" target="_blank" href="https://www.zxx.edu.cn">国家中小学校验平台</a>
-        <a class="nav-content" target="_blank" href="https://le.ouchn.cn/home/">国家终身教育平台</a>
-        <a class="nav-content" target="_blank" href="http://www.docuchina.cn/">中国纪录片下载</a>
-        <a class="nav-content" target="_blank" href="https://www.smartedu.cn/">中小学教育</a>
-    </div>
-    
-    <div class="nav-box">
-        <h2>国家查询服务</h2>
-        <a class="nav-content" target="_blank" href="https://www.gsxt.gov.cn/index.html">国家企业信用公示系统</a>
-        <a class="nav-content" target="_blank" href="https://le.ouchn.cn/home/">国家终身教育平台</a>
-        <a class="nav-content" target="_blank" href="http://www.docuchina.cn/">中国纪录片下载</a>
-    </div>
 </main>
+<script>
+    fetch('./json/type.json').then(response => {
+        return response.json();
+    }).then(types => {
+        var x = document.getElementsByClassName('nav-box');
+        types.forEach(type => {
+            var t = document.createElement('div');
+            t.id = type.type;
+            console.log(t);
+            x[0].appendChild(t);
+            var h2 = document.createElement('h2');
+            h2.textContent = type.name;
+            t.appendChild(h2);
+        });
+        fetch('./json/nav.json').then(response => {
+            return response.json();
+        }).then(jsondata => {
+            var mdata = '';
+            jsondata.forEach(j => {
+                var type = document.getElementById(j.type);
+                var addr = document.createElement('a');
+                addr.href = j.address;
+                addr.target = '_blank';
+                addr.className = 'nav-content ';
+                addr.textContent = j.name;
+                type.appendChild(addr);
+            });
+        });
+    })
+    
+</script>
 </body>
 </html>
