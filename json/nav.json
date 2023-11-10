@@ -24,6 +24,21 @@
         "name": "549",
         "address": "https://549.tv/"
     },
+    {
+        "type": "nav",
+        "name": "医学文档",
+        "address": "https://www.medreading.cn/"
+    },
+    {
+        "type": "nav",
+        "name": "w3schools",
+        "address": "https://www.quanzhanketang.com/"
+    },
+    {
+        "type": "nav",
+        "name": "瑞文",
+        "address": "https://www.rwtext.com/cx.html"
+    },
 
     {
         "type": "movie",
@@ -190,5 +205,26 @@
         "type": "tool",
         "name": "微信文件传输",
         "address": "https://filehelper.weixin.qq.com"
+    },
+
+    {
+        "type": "code",
+        "name": "linux命令",
+        "address": "https://www.linuxcool.com/"
+    },
+    {
+        "type": "code",
+        "name": "dev",
+        "address": "https://devdocs.io/"
+    },
+    {
+        "type": "code",
+        "name": "菜鸟",
+        "address": "https://www.runoob.com/"
+    },
+    {
+        "type": "code",
+        "name": "w3schools",
+        "address": "https://www.w3schools.com/"
     }
 ]
