@@ -11,18 +11,19 @@
     },
     {
         "type": "nav",
-        "name": "libvio",
-        "address": "https://www.libvio.top/"
+        "name": "noisedh",
+        "address": "https://www.noisedh.cn/"
     },
     {
-        "type": "movie",
-        "name": "莫扎兔",
-        "address": "https://www.mozhatu.com/"
+        "type": "nav",
+        "name": "cxy521",
+        "address": "http://cxy521.com/"
     },
+
     {
         "type": "movie",
         "name": "HDmoli",
-        "address": "https://www.hdmoli.com/"
+        "address": "https://www.hdmoli.pro/"
     },
     {
         "type": "movie",
@@ -34,61 +35,30 @@
         "name": "seedHub",
         "address": "https://seedHub.info/"
     },
-    {
-        "type": "movie",
-        "name": "gaze",
-        "address": "https://gaze.run/"
-    },
-    {
-        "type": "movie",
-        "name": "cokemv",
-        "address": "https://cokemv.me/"
-    },
-    {
-        "type": "movie",
-        "name": "zxzj",
-        "address": "https://zxzj.vip/"
-    },
+    
     {
         "type": "movie",
         "name": "ddys",
         "address": "https://ddys.art/"
     },
-    {
-        "type": "movie",
-        "name": "novipnoad",
-        "address": "https://www.novipnoad.com/"
-    },
-    {
-        "type": "movie",
-        "name": "泰剧鸟",
-        "address": "https://www.taijuniao.com/"
-    },
+
     {
         "type": "movie",
         "name": "555dy",
-        "address": "https://555dy.cc/"
+        "address": "https://555dy.shop/"
     },
     {
         "type": "movie",
         "name": "大米星球",
         "address": "https://www.dmxq.fun/"
     },
+
     {
         "type": "movie",
-        "name": "人人",
-        "address": "https://www.renren.pro/"
+        "name": "4kvm",
+        "address": "https://www.4kvm.net/"
     },
-    {
-        "type": "movie",
-        "name": "citydy",
-        "address": "https://www.citydy.com/"
-    },
-    {
-        "type": "movie",
-        "name": "独播库",
-        "address": "https://duboku.ru/"
-    },
+
     {
         "type": "movie",
         "name": "MaGeDN",
@@ -101,14 +71,15 @@
     },
     {
         "type": "movie",
-        "name": "Nike",
-        "address": "https://www.ajeee.com/"
+        "name": "厂长资源",
+        "address": "www.cz01.vip"
     },
     {
         "type": "movie",
-        "name": "磁力熊",
-        "address": "https://www.cilixiong.com/"
+        "name": "gaze",
+        "address": "https://gaze.run/"
     },
+
     
     {
         "type": "bt",
@@ -198,5 +169,16 @@
         "type": "pan",
         "name": "azad",
         "address": "https://alist.azad.asia/"
+    },
+
+    {
+        "type": "tool",
+        "name": "下载",
+        "address": "https://d.serctl.com"
+    },
+    {
+        "type": "tool",
+        "name": "微信文件传输",
+        "address": "https://filehelper.weixin.qq.com"
     }
 ]

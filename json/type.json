@@ -18,6 +18,10 @@
     {
         "type": "pan",
         "name": "网盘"
+    },
+    {
+        "type": "tool",
+        "name": "工具"
     }
     
 ]
