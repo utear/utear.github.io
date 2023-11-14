@@ -134,7 +134,7 @@
     {
         "type": "bt",
         "name": "unblockit",
-        "address": "https://unblockit.mov/"
+        "address": "https://unblockit.foo/"
     },
     {
         "type": "bt",
