@@ -29,11 +29,7 @@
         "name": "医学文档",
         "address": "https://www.medreading.cn/"
     },
-    {
-        "type": "nav",
-        "name": "w3schools",
-        "address": "https://www.quanzhanketang.com/"
-    },
+    
     {
         "type": "nav",
         "name": "瑞文",
@@ -216,6 +212,21 @@
         "type": "code",
         "name": "dev",
         "address": "https://devdocs.io/"
+    },
+    {
+        "type": "nav",
+        "name": "w3schools",
+        "address": "https://www.w3schools.com"
+    },
+    {
+        "type": "nav",
+        "name": "w3schools",
+        "address": "https://www.w3schools.cn"
+    },
+    {
+        "type": "nav",
+        "name": "w3schools",
+        "address": "https://www.quanzhanketang.com/"
     },
     {
         "type": "code",
