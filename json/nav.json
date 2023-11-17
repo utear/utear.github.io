@@ -26,6 +26,12 @@
     },
     {
         "type": "nav",
+        "name": "Y4",
+        "address": "https://ys.rulsdh.com"
+    },
+
+    {
+        "type": "nav",
         "name": "医学文档",
         "address": "https://www.medreading.cn/"
     },
@@ -149,7 +155,11 @@
         "name": "IPTV",
         "address": "http://tonkiang.us/"
     },
-
+    {
+        "type": "tv",
+        "name": "肥猫",
+        "address": "https://肥猫.love"
+    },
 
     {
         "type": "pan",
@@ -235,7 +245,9 @@
     },
     {
         "type": "code",
-        "name": "w3schools",
-        "address": "https://www.w3schools.com/"
+        "name": "github host",
+        "address": "https://51.ruyo.net/test/github_hosts.html"
     }
+
+    
 ]
