@@ -247,6 +247,17 @@
         "type": "code",
         "name": "github host",
         "address": "https://51.ruyo.net/test/github_hosts.html"
+    },
+
+    {
+        "type": "game",
+        "name": "共创世界",
+        "address": "https://www.ccw.site/"
+    },
+    {
+        "type": "game",
+        "name": "poki",
+        "address": "https://poki.com/"
     }
 
     

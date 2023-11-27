@@ -27,5 +27,9 @@
         "type": "code",
         "name": "编程"
     }
-    
+    ,
+    {
+        "type": "game",
+        "name": "游戏"
+    }
 ]
