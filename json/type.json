@@ -31,5 +31,9 @@
     {
         "type": "game",
         "name": "游戏"
+    },
+    {
+        "type": "proxy",
+        "name": "代理"
     }
 ]

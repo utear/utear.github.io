@@ -163,7 +163,7 @@
     {
         "type": "tv",
         "name": "肥猫",
-        "address": "https://肥猫.love"
+        "address": "https://小白.love"
     },
 
     {
@@ -186,21 +186,7 @@
         "name": "游戏社",
         "address": "https://zi0.cc/"
     },
-    {
-        "type": "pan",
-        "name": "asca0121",
-        "address": "https://asca0121.toc.icu/"
-    },
-    {
-        "type": "pan",
-        "name": "6r",
-        "address": "https://dl.6r.pw:6080/"
-    },
-    {
-        "type": "pan",
-        "name": "bdys",
-        "address": "https://bdys.top/"
-    },
+
     {
         "type": "pan",
         "name": "azad",
@@ -263,6 +249,16 @@
         "type": "game",
         "name": "poki",
         "address": "https://poki.com/"
+    },
+    {
+        "type": "proxy",
+        "name": "ghproxy",
+        "address": "https://gh.ghproxy.com"
+    },
+    {
+        "type": "proxy",
+        "name": "moeyy",
+        "address": "https://moeyy.cn/gh-proxy"
     }
 
     
