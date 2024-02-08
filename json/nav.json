@@ -41,6 +41,16 @@
         "name": "瑞文",
         "address": "https://www.rwtext.com/cx.html"
     },
+    {
+        "type": "nav",
+        "name": "不死鸟",
+        "address": "https://iui.su"
+    },
+    {
+        "type": "nav",
+        "name": "海阔世界",
+        "address": "https://haikuoshijie.cn"
+    },
 
     {
         "type": "movie",
@@ -109,9 +119,14 @@
     {
         "type": "movie",
         "name": "cokemv",
-        "address": "https://cokemv.net/"
+        "address": "https://www.cokemv.fun/"
     },
 
+    {
+        "type": "bt",
+        "name": "btjia",
+        "address": "https://www.1lou.me/"
+    },
     
     {
         "type": "bt",
@@ -165,7 +180,22 @@
         "name": "肥猫",
         "address": "https://小白.love"
     },
+    {
+        "type": "tv",
+        "name": "饭太硬",
+        "address": "https://饭太硬.top"
+    },
+    {
+        "type": "tv",
+        "name": "lige",
+        "address": "https://www.lige.fit"
+    },
 
+    {
+        "type": "pan",
+        "name": "七米蓝",
+        "address": "https://al.chirmyram.com/"
+    },
     {
         "type": "pan",
         "name": "雨呢网盘",
