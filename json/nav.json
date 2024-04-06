@@ -22,13 +22,9 @@
     {
         "type": "nav",
         "name": "549",
-        "address": "https://549.tv/"
+        "address": "http://www.549.tv/"
     },
-    {
-        "type": "nav",
-        "name": "Y4",
-        "address": "https://ys.rulsdh.com"
-    },
+    
 
     {
         "type": "nav",
@@ -60,18 +56,18 @@
     {
         "type": "movie",
         "name": "libvio",
-        "address": "https://www.libvio.top/"
+        "address": "www.libfabu.com"
     },
     {
         "type": "movie",
         "name": "seedHub",
-        "address": "https://seedHub.info/"
+        "address": "https://www.seedhub.cc/"
     },
     
     {
         "type": "movie",
         "name": "ddys",
-        "address": "https://ddys.art/"
+        "address": "https://ddys.best/"
     },
 
     {
@@ -82,24 +78,13 @@
     {
         "type": "movie",
         "name": "大米星球",
-        "address": "https://www.dmxq.fun/"
+        "address": "https://www.damiq.online/"
     },
 
-    {
-        "type": "movie",
-        "name": "4kvm",
-        "address": "https://www.4kvm.net/"
-    },
-
-    {
-        "type": "movie",
-        "name": "MaGeDN",
-        "address": "https://loli.magedn.com/"
-    },
     {
         "type": "movie",
         "name": "片吧",
-        "address": "https://www.yingbar.com/"
+        "address": "https://www.pbpb.tv/"
     },
     {
         "type": "movie",
@@ -122,41 +107,11 @@
         "address": "https://www.cokemv.fun/"
     },
 
-    {
-        "type": "bt",
-        "name": "btjia",
-        "address": "https://www.1lou.me/"
-    },
-    
-    {
-        "type": "bt",
-        "name": "btbt",
-        "address": "https://www.btbtba.com/"
-    },
-    {
-        "type": "bt",
-        "name": "片源",
-        "address": "https://pianyuanw.com/"
-    },
-    {
-        "type": "bt",
-        "name": "MP4",
-        "address": "https://www.mp4kan.com/"
-    },
-    {
-        "type": "bt",
-        "name": "btbtt",
-        "address": "http://www.btbtt12.com/"
-    },
-    {
-        "type": "bt",
-        "name": "webmp4",
-        "address": "https://www.webmp4.com/"
-    },
+
     {
         "type": "bt",
         "name": "unblockit",
-        "address": "https://unblockit.foo/"
+        "address": "https://unblockit.africa/"
     },
     {
         "type": "bt",
@@ -196,21 +151,13 @@
         "name": "七米蓝",
         "address": "https://al.chirmyram.com/"
     },
-    {
-        "type": "pan",
-        "name": "雨呢网盘",
-        "address": "https://pan.clun.top/"
-    },
+
     {
         "type": "pan",
         "name": "Arley’s Drive",
         "address": "https://pan.arley.cn/en/"
     },
-    {
-        "type": "pan",
-        "name": "A番剧",
-        "address": "http://abnormalize.icu/"
-    },
+
     {
         "type": "pan",
         "name": "游戏社",
