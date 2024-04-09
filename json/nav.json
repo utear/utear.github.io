@@ -180,6 +180,11 @@
         "name": "微信文件传输",
         "address": "https://filehelper.weixin.qq.com"
     },
+    {
+        "type": "tool",
+        "name": "pdf",
+        "address": "https://pdfprocess.net/?lang=zh_CN"
+    },
 
     {
         "type": "code",
