@@ -1,247 +1,71 @@
 [
-    {
-        "type": "nav",
-        "name": "硬核网站",
-        "address": "https://yinghe.app/"
-    },
-    {
-        "type": "nav",
-        "name": "摸鱼",
-        "address": "https://moyu.games/"
-    },
-    {
-        "type": "nav",
-        "name": "noisedh",
-        "address": "https://www.noisedh.cn/"
-    },
-    {
-        "type": "nav",
-        "name": "cxy521",
-        "address": "http://cxy521.com/"
-    },
-    {
-        "type": "nav",
-        "name": "549",
-        "address": "http://www.549.tv/"
-    },
+    { "type": "nav", "name": "硬核网站", "address": "https://yinghe.app/", "desc": "" },
+    { "type": "nav", "name": "摸鱼", "address": "https://moyu.games/", "desc": "" },
+    { "type": "nav", "name": "noisedh", "address": "https://www.noisedh.cn/", "desc": "" },
+    { "type": "nav", "name": "cxy521", "address": "http://cxy521.com/", "desc": "" },
+    { "type": "nav", "name": "549", "address": "http://www.549.tv/", "desc": "" },
+    { "type": "nav", "name": "医学文档", "address": "https://www.medreading.cn/", "desc": "" },
+    { "type": "nav", "name": "瑞文", "address": "https://www.rwtext.com/cx.html", "desc": "" },
+    { "type": "nav", "name": "不死鸟", "address": "https://iui.su", "desc": "" },
+    { "type": "nav", "name": "海阔世界", "address": "https://haikuoshijie.cn", "desc": "" },
+
+    { "type": "movie", "name": "HDmoli", "address": "https://www.hdmoli.pro/", "desc": "" },
+    { "type": "movie", "name": "libvio", "address": "www.libfabu.com", "desc": "" },
+   
+    { "type": "movie", "name": "ddys", "address": "https://ddys.best/", "desc": "" },
+    { "type": "movie", "name": "555dy", "address": "https://555dy.shop/", "desc": "" },
+    { "type": "movie", "name": "大米星球", "address": "https://www.damiq.online/", "desc": "" },
+    { "type": "movie", "name": "片吧", "address": "https://www.pbpb.tv/", "desc": "" },
+    { "type": "movie", "name": "厂长资源", "address": "www.cz01.vip", "desc": "" },
+    { "type": "movie", "name": "gaze", "address": "https://gaze.run/", "desc": "" },
+    { "type": "movie", "name": "soupian", "address": "https://soupian.pro/", "desc": "" },
+    { "type": "movie", "name": "cokemv", "address": "https://www.cokemv.fun/", "desc": "" },
+    { "type": "movie", "name": "影猫仓库", "address": "https://ymck.pro/", "desc": "" },
+    { "type": "movie", "name": "rarbt", "address": "https://rarbt.fun/", "desc": "" },
+    { "type": "movie", "name": "熊猫", "address": "https://xmvod520.com/", "desc": "" },
+    { "type": "movie", "name": "123series", "address": "https://123-series.com/", "desc": "" },
+
+
+    { "type": "bt", "name": "unblockit", "address": "https://unblockit.africa/", "desc": "" },
+    { "type": "bt", "name": "btsearch", "address": "https://btsearch.love/", "desc": "" },
+    { "type": "bt", "name": "btjia", "address": "https://www.1lou.me", "desc": "" },
+    { "type": "bt", "name": "rarbg", "address": "https://rargb.to", "desc": "" },
+    { "type": "bt", "name": "rarbg", "address": "https://rargb.to", "desc": "" },
+    { "type": "bt", "name": "seedHub", "address": "https://www.seedhub.cc/", "desc": "" },
+    { "type": "bt", "name": "uump4", "address": "https://www.uump4.cc/", "desc": "" },
+    { "type": "bt", "name": "6v", "address": "https://www.66s6.cc/", "desc": "" },
+    { "type": "bt", "name": "edown", "address": "https://www.etdown.net/", "desc": "" },
+    { "type": "bt", "name": "yinfans", "address": "https://www.yinfans.me/", "desc": "" },
+
+
+    { "type": "tv", "name": "IPTV search", "address": "https://www.foodieguide.com/iptvsearch/", "desc": "" },
+    { "type": "tv", "name": "IPTV", "address": "http://tonkiang.us/", "desc": "" },
+    { "type": "tv", "name": "肥猫", "address": "https://小白.love", "desc": "" },
+    { "type": "tv", "name": "饭太硬", "address": "https://饭太硬.top", "desc": "" },
+    { "type": "tv", "name": "lige", "address": "https://www.lige.fit", "desc": "" },
+
+    { "type": "pan", "name": "七米蓝", "address": "https://al.chirmyram.com/", "desc": "" },
+    { "type": "pan", "name": "Arley’s Drive", "address": "https://pan.arley.cn/en/", "desc": "" },
+    { "type": "pan", "name": "游戏社", "address": "https://zi0.cc/", "desc": "" },
+    { "type": "pan", "name": "azad", "address": "https://alist.azad.asia/", "desc": "" },
+
+    { "type": "tool", "name": "下载", "address": "https://d.serctl.com", "desc": "" },
+    { "type": "tool", "name": "微信文件传输", "address": "https://filehelper.weixin.qq.com", "desc": "" },
+    { "type": "tool", "name": "pdf", "address": "https://pdfprocess.net/?lang=zh_CN", "desc": "" },
+
+    { "type": "code", "name": "linux命令", "address": "https://www.linuxcool.com/", "desc": "" },
+    { "type": "code", "name": "dev", "address": "https://devdocs.io/", "desc": "" },
+    { "type": "code", "name": "w3schools", "address": "https://www.w3schools.com", "desc": "" },
+    { "type": "code", "name": "w3schools", "address": "https://www.w3schools.cn", "desc": "" },
+    { "type": "code", "name": "w3schools", "address": "https://www.quanzhanketang.com/", "desc": "" },
+    { "type": "code", "name": "菜鸟", "address": "https://www.runoob.com/", "desc": "" },
+    { "type": "code", "name": "github host", "address": "https://51.ruyo.net/test/github_hosts.html", "desc": "" },
+
+    { "type": "game", "name": "共创世界", "address": "https://www.ccw.site/", "desc": "" },
+    { "type": "game", "name": "poki", "address": "https://poki.com/", "desc": "" },
     
-
-    {
-        "type": "nav",
-        "name": "医学文档",
-        "address": "https://www.medreading.cn/"
-    },
-    
-    {
-        "type": "nav",
-        "name": "瑞文",
-        "address": "https://www.rwtext.com/cx.html"
-    },
-    {
-        "type": "nav",
-        "name": "不死鸟",
-        "address": "https://iui.su"
-    },
-    {
-        "type": "nav",
-        "name": "海阔世界",
-        "address": "https://haikuoshijie.cn"
-    },
-
-    {
-        "type": "movie",
-        "name": "HDmoli",
-        "address": "https://www.hdmoli.pro/"
-    },
-    {
-        "type": "movie",
-        "name": "libvio",
-        "address": "www.libfabu.com"
-    },
-    {
-        "type": "movie",
-        "name": "seedHub",
-        "address": "https://www.seedhub.cc/"
-    },
-    
-    {
-        "type": "movie",
-        "name": "ddys",
-        "address": "https://ddys.best/"
-    },
-
-    {
-        "type": "movie",
-        "name": "555dy",
-        "address": "https://555dy.shop/"
-    },
-    {
-        "type": "movie",
-        "name": "大米星球",
-        "address": "https://www.damiq.online/"
-    },
-
-    {
-        "type": "movie",
-        "name": "片吧",
-        "address": "https://www.pbpb.tv/"
-    },
-    {
-        "type": "movie",
-        "name": "厂长资源",
-        "address": "www.cz01.vip"
-    },
-    {
-        "type": "movie",
-        "name": "gaze",
-        "address": "https://gaze.run/"
-    },
-    {
-        "type": "movie",
-        "name": "soupian",
-        "address": "https://soupian.pro/"
-    },
-    {
-        "type": "movie",
-        "name": "cokemv",
-        "address": "https://www.cokemv.fun/"
-    },
-
-
-    {
-        "type": "bt",
-        "name": "unblockit",
-        "address": "https://unblockit.africa/"
-    },
-    {
-        "type": "bt",
-        "name": "btsearch",
-        "address": "https://btsearch.love/"
-    },
-
-
-    {
-        "type": "tv",
-        "name": "IPTV search",
-        "address": "https://www.foodieguide.com/iptvsearch/"
-    },
-    {
-        "type": "tv",
-        "name": "IPTV",
-        "address": "http://tonkiang.us/"
-    },
-    {
-        "type": "tv",
-        "name": "肥猫",
-        "address": "https://小白.love"
-    },
-    {
-        "type": "tv",
-        "name": "饭太硬",
-        "address": "https://饭太硬.top"
-    },
-    {
-        "type": "tv",
-        "name": "lige",
-        "address": "https://www.lige.fit"
-    },
-
-    {
-        "type": "pan",
-        "name": "七米蓝",
-        "address": "https://al.chirmyram.com/"
-    },
-
-    {
-        "type": "pan",
-        "name": "Arley’s Drive",
-        "address": "https://pan.arley.cn/en/"
-    },
-
-    {
-        "type": "pan",
-        "name": "游戏社",
-        "address": "https://zi0.cc/"
-    },
-
-    {
-        "type": "pan",
-        "name": "azad",
-        "address": "https://alist.azad.asia/"
-    },
-
-    {
-        "type": "tool",
-        "name": "下载",
-        "address": "https://d.serctl.com"
-    },
-    {
-        "type": "tool",
-        "name": "微信文件传输",
-        "address": "https://filehelper.weixin.qq.com"
-    },
-    {
-        "type": "tool",
-        "name": "pdf",
-        "address": "https://pdfprocess.net/?lang=zh_CN"
-    },
-
-    {
-        "type": "code",
-        "name": "linux命令",
-        "address": "https://www.linuxcool.com/"
-    },
-    {
-        "type": "code",
-        "name": "dev",
-        "address": "https://devdocs.io/"
-    },
-    {
-        "type": "code",
-        "name": "w3schools",
-        "address": "https://www.w3schools.com"
-    },
-    {
-        "type": "code",
-        "name": "w3schools",
-        "address": "https://www.w3schools.cn"
-    },
-    {
-        "type": "code",
-        "name": "w3schools",
-        "address": "https://www.quanzhanketang.com/"
-    },
-    {
-        "type": "code",
-        "name": "菜鸟",
-        "address": "https://www.runoob.com/"
-    },
-    {
-        "type": "code",
-        "name": "github host",
-        "address": "https://51.ruyo.net/test/github_hosts.html"
-    },
-
-    {
-        "type": "game",
-        "name": "共创世界",
-        "address": "https://www.ccw.site/"
-    },
-    {
-        "type": "game",
-        "name": "poki",
-        "address": "https://poki.com/"
-    },
-    {
-        "type": "proxy",
-        "name": "ghproxy",
-        "address": "https://gh.ghproxy.com"
-    },
-    {
-        "type": "proxy",
-        "name": "moeyy",
-        "address": "https://moeyy.cn/gh-proxy"
-    }
+    { "type": "proxy", "name": "ghproxy", "address": "https://gh.ghproxy.com", "desc": "" },
+    { "type": "proxy", "name": "moeyy", "address": "https://moeyy.cn/gh-proxy", "desc": "" }
 
     
 ]
