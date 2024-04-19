@@ -1,39 +1,11 @@
 [
-    {
-        "type": "nav",
-        "name": "导航"
-    },
-    {
-        "type": "movie",
-        "name": "电影"
-    },
-    {
-        "type": "bt",
-        "name": "BT"
-    },
-    {
-        "type": "tv",
-        "name": "IPTV"
-    },
-    {
-        "type": "pan",
-        "name": "网盘"
-    },
-    {
-        "type": "tool",
-        "name": "工具"
-    },
-    {
-        "type": "code",
-        "name": "编程"
-    }
-    ,
-    {
-        "type": "game",
-        "name": "游戏"
-    },
-    {
-        "type": "proxy",
-        "name": "代理"
-    }
+    { "type": "nav",  "name": "导航" },
+    { "type": "movie",  "name": "电影" },
+    { "type": "bt",  "name": "BT" },
+    { "type": "tv",  "name": "IPTV" },
+    { "type": "pan",  "name": "网盘" },
+    { "type": "tool",  "name": "工具" },
+    { "type": "code",  "name": "编程" },
+    { "type": "game",  "name": "游戏" },
+    { "type": "proxy",  "name": "代理" }
 ]
