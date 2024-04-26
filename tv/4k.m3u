@@ -1,4 +1,6 @@
-#EXTINF:-1 group-title="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
+#EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
+http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
 https://tv.cry33.com/ys4k.php?id=16-4k
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV4K
 https://tv.cry33.com/ys4k.php?id=4k
