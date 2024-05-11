@@ -45,6 +45,7 @@
     { "type": "tv", "name": "肥猫", "address": "https://小白.love", "desc": "" },
     { "type": "tv", "name": "饭太硬", "address": "https://饭太硬.top", "desc": "" },
     { "type": "tv", "name": "lige", "address": "https://www.lige.fit", "desc": "" },
+    { "type": "tv", "name": "影视TV", "address": "https://www.100km.top/", "desc": "" },
 
     { "type": "pan", "name": "七米蓝", "address": "https://al.chirmyram.com/", "desc": "" },
     { "type": "pan", "name": "Arley’s Drive", "address": "https://pan.arley.cn/en/", "desc": "" },
@@ -66,7 +67,8 @@
     { "type": "game", "name": "共创世界", "address": "https://www.ccw.site/", "desc": "" },
     { "type": "game", "name": "poki", "address": "https://poki.com/", "desc": "" },
     
-    { "type": "proxy", "name": "ghproxy", "address": "https://gh.ghproxy.com", "desc": "" },
+    { "type": "proxy", "name": "ghproxy", "address": "https://mirror.ghproxy.com/", "desc": "" },
+    { "type": "proxy", "name": "ghproxy.org", "address": "https://ghproxy.org/", "desc": "" },
     { "type": "proxy", "name": "moeyy", "address": "https://moeyy.cn/gh-proxy", "desc": "" }
 
     
