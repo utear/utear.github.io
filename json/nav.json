@@ -61,7 +61,6 @@
     { "type": "code", "name": "w3schools", "address": "https://www.w3schools.cn", "desc": "" },
     { "type": "code", "name": "w3schools", "address": "https://www.quanzhanketang.com/", "desc": "" },
     { "type": "code", "name": "菜鸟", "address": "https://www.runoob.com/", "desc": "" },
-    { "type": "code", "name": "github host", "address": "https://51.ruyo.net/test/github_hosts.html", "desc": "" },
 
     { "type": "game", "name": "共创世界", "address": "https://www.ccw.site/", "desc": "" },
     { "type": "game", "name": "poki", "address": "https://poki.com/", "desc": "" },
