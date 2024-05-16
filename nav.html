@@ -11,40 +11,95 @@
 </header>
 
 <main>
-    <div class="nav-box">
-        
+    <div class="nav-boxs">
+       <div class="nav-type"></div>
+       <div class="nav-box"></div>
     </div>
     
 </main>
 <script>
+    var typeMap = {};
+    var typeNode = '';
     fetch('./json/type.json').then(response => {
         return response.json();
     }).then(types => {
-        var x = document.getElementsByClassName('nav-box');
+        var x = document.getElementsByClassName('nav-type');
+        var all = document.createElement('div');
+        all.classList = 'nav-type-li';
+        all.data = '';
+        all.textContent = '全部';
+        x[0].appendChild(all);
+
         types.forEach(type => {
             var t = document.createElement('div');
-            t.id = type.type;
+            t.classList = 'nav-type-li ';
+            t.data = type.type;
+            t.textContent = type.name;
             console.log(t);
             x[0].appendChild(t);
-            var h2 = document.createElement('h2');
-            h2.textContent = type.name;
-            t.appendChild(h2);
+            typeMap[type.type] = type.name;
         });
+        
+        var navTypeLi = document.getElementsByClassName('nav-type-li');
+        for (var i=0;i < navTypeLi.length; i++) {
+            navTypeLi[i].addEventListener('click', function(e) {
+                typeNode = this.data;
+                loadData();
+            });
+        }
+        loadData();
+    });
+
+    function loadData() {
         fetch('./json/nav.json').then(response => {
             return response.json();
         }).then(jsondata => {
-            var mdata = '';
+            var box = document.getElementsByClassName('nav-box');
+            box[0].innerHTML = '';
             jsondata.forEach(j => {
-                var type = document.getElementById(j.type);
-                var addr = document.createElement('a');
-                addr.href = j.address;
-                addr.target = '_blank';
-                addr.className = 'nav-content ';
-                addr.textContent = j.name;
-                type.appendChild(addr);
+                if (typeNode == '' || (typeNode != '' && typeNode == j.type)) {
+                    var addr = document.createElement('div');
+                    addr.classList = 'nav-contents';
+                    var type = document.createElement('div');
+                    type.classList = 'nav-content nav-content-type';
+                    type.data = j.type;
+                    type.textContent = typeMap[j.type];
+                    addr.appendChild(type);
+
+                    var type = document.createElement('div');
+                    type.classList = 'nav-content nav-content-name';
+                    type.textContent = j.name;
+                    addr.appendChild(type);
+
+                    var type = document.createElement('div');
+                    var a = document.createElement('a');
+                    type.classList = 'nav-content nav-content-address';
+                    a.textContent = j.address;
+                    a.href = j.address;
+                    a.target = '_blank';
+                    type.appendChild(a);
+                    addr.appendChild(type);
+
+
+                    var type = document.createElement('div');
+                    type.classList = 'nav-content nav-content-desc';
+                    type.textContent = j.desc;
+                    addr.appendChild(type);
+                    
+                    box[0].appendChild(addr);
+                }
+                
             });
+
+            var navTypeLi = document.getElementsByClassName('nav-content-type');
+            for (var i=0;i < navTypeLi.length; i++) {
+                navTypeLi[i].addEventListener('click', function(e) {
+                    typeNode = this.data;
+                    loadData();
+                });
+            }
         });
-    })
+    }
     
 </script>
 </body>

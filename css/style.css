@@ -69,12 +69,54 @@ input {
 }
 
 .nav-box {
-    padding: 10px;
+    margin: 1em;
+}
+.nav-contents {
+    border: #808080 solid 1px;
 }
 .nav-content {
     display: inline-flex;
-    padding: 3px 10px;
-    width: 18%;
-    border: 1px solid #EEE;
     color: #000;
+    padding: 0.5em;
 }
+
+.nav-content-type {
+    width: 10%;
+    cursor: pointer;
+}
+
+.nav-content-name {
+    width: 20%;
+}
+
+@media screen and (max-width: 800px) {
+    .nav-content-address {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .nav-content-address {
+        width: 30%;
+    }
+    .nav-content-desc {
+        width: 30%;
+    }
+    .nav-content-desc> a {
+        overflow: hidden;
+    }
+}
+
+
+.nav-type {
+    display: inline-flex;
+    border: #808080 1px solid;
+    margin-top: 5px;
+    margin-left: 1em;
+}
+.nav-type-li {
+    border: #808080 1px solid;
+    padding: 5px 8px;
+    cursor: pointer;
+}
+
