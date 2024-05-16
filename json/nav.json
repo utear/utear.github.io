@@ -49,6 +49,7 @@
     { "type": "pan", "name": "Arley’s Drive", "address": "https://pan.arley.cn/en/", "desc": "" },
     { "type": "pan", "name": "游戏社", "address": "https://zi0.cc/", "desc": "" },
     { "type": "pan", "name": "azad", "address": "https://alist.azad.asia/", "desc": "" },
+    { "type": "pan", "name": "mediy", "address": "https://pan.mediy.cn/", "desc": "" },
 
     { "type": "tool", "name": "下载", "address": "https://d.serctl.com", "desc": "" },
     { "type": "tool", "name": "微信文件传输", "address": "https://filehelper.weixin.qq.com", "desc": "" },
