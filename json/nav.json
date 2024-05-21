@@ -67,6 +67,7 @@
     
     { "type": "proxy", "name": "ghproxy", "address": "https://mirror.ghproxy.com/", "desc": "" },
     { "type": "proxy", "name": "ghproxy.org", "address": "https://ghproxy.org/", "desc": "" },
+    { "type": "proxy", "name": "ghproxy.net", "address": "https://ghproxy.net/", "desc": "" },
     { "type": "proxy", "name": "moeyy", "address": "https://moeyy.cn/gh-proxy", "desc": "" }
 
     
