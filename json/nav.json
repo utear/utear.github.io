@@ -66,6 +66,9 @@
 
     { "type": "game", "name": "共创世界", "address": "https://www.ccw.site/", "desc": "" },
     { "type": "game", "name": "poki", "address": "https://poki.com/", "desc": "" },
+    { "type": "game", "name": "crazygame", "address": "https://www.crazygames.com/", "desc": "" },
+    { "type": "game", "name": "yikm", "address": "https://www.yikm.net/", "desc": "" },
+    { "type": "game", "name": "gameflare", "address": "https://www.gameflare.com/", "desc": "" },
     
     { "type": "proxy", "name": "ghproxy", "address": "https://mirror.ghproxy.com/", "desc": "" },
     { "type": "proxy", "name": "ghproxy.org", "address": "https://ghproxy.org/", "desc": "" },
