@@ -7,5 +7,6 @@
     { "type": "tool",  "name": "工具" },
     { "type": "code",  "name": "编程" },
     { "type": "game",  "name": "游戏" },
+    { "type": "ai",  "name": "ai" },
     { "type": "proxy",  "name": "代理" }
 ]
