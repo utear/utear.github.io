@@ -71,6 +71,8 @@
     { "type": "game", "name": "crazygame", "address": "https://www.crazygames.com/", "desc": "" },
     { "type": "game", "name": "yikm", "address": "https://www.yikm.net/", "desc": "" },
     { "type": "game", "name": "gameflare", "address": "https://www.gameflare.com/", "desc": "" },
+
+    { "type": "ai", "name": "gemini", "address": "https://gemini.ai4you.top/", "desc": "谷歌人工智能" },
     
     { "type": "proxy", "name": "ghproxy", "address": "https://mirror.ghproxy.com/", "desc": "" },
     { "type": "proxy", "name": "ghproxy.org", "address": "https://ghproxy.org/", "desc": "" },
