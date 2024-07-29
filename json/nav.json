@@ -34,7 +34,6 @@
     { "type": "bt", "name": "btsearch", "address": "https://btsearch.love/", "desc": "" },
     { "type": "bt", "name": "btjia", "address": "https://www.1lou.me", "desc": "" },
     { "type": "bt", "name": "rarbg", "address": "https://rargb.to", "desc": "" },
-    { "type": "bt", "name": "rarbg", "address": "https://rargb.to", "desc": "" },
     { "type": "bt", "name": "seedHub", "address": "https://www.seedhub.cc/", "desc": "" },
     { "type": "bt", "name": "uump4", "address": "https://www.uump4.cc/", "desc": "" },
     { "type": "bt", "name": "6v", "address": "https://www.66s6.cc/", "desc": "" },
@@ -73,12 +72,17 @@
     { "type": "game", "name": "gameflare", "address": "https://www.gameflare.com/", "desc": "" },
 
     { "type": "ai", "name": "gemini", "address": "https://gemini.ai4you.top/", "desc": "谷歌人工智能" },
+    { "type": "ai", "name": "veed", "address": "https://www.veed.io/", "desc": "视频生成" },
+    { "type": "ai", "name": "farfalle", "address": "https://www.farfalle.dev/", "desc": "搜索" },
+     { "type": "ai", "name": "工具集", "address": "https://ai-bot.cn/ai-app-store/", "desc": "导航" },
+     { "type": "ai", "name": "aihub", "address": "https://www.aihub.cn/", "desc": "导航" },
     
     { "type": "proxy", "name": "ghproxy", "address": "https://mirror.ghproxy.com/", "desc": "" },
     { "type": "proxy", "name": "ghproxy.org", "address": "https://ghproxy.org/", "desc": "" },
     { "type": "proxy", "name": "ghproxy.net", "address": "https://ghproxy.net/", "desc": "" },
     { "type": "proxy", "name": "gh-proxy", "address": "https://gh-proxy.com/", "desc": "" },
-    { "type": "proxy", "name": "moeyy", "address": "https://moeyy.cn/gh-proxy", "desc": "" }
+    { "type": "proxy", "name": "moeyy", "address": "https://moeyy.cn/gh-proxy", "desc": "" },
+    { "type": "proxy", "name": "999", "address": "https://gh.api.99988866.xyz/", "desc": ""}
 
     
 ]
