@@ -1,18 +1,6 @@
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
-https://tv.cry33.com/ys4k.php?id=16-4k
 
-#EXTINF:-1 group-title="央视" tvg-name="CCTV4K" group-title="央视",CCTV4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="央视" tvg-name="CCTV4K" group-title="央视",CCTV4K
-https://tv.cry33.com/ys4k.php?id=4k
-#EXTINF:-1 group-title="央视" tvg-name="CCTV8K" group-title="央视",CCTV8K
-https://tv.cry33.com/ys4k.php?id=8k
-
-#EXTINF:-1 group-title="央视" tvg-name="CCTV4K" group-title="央视",CCTV4K
-http://159.75.85.63:5679/cctv4k.php
 
 #EXTINF:-1 tvg-name="LoveNrture" group-title="·4K",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
