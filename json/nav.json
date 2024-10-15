@@ -10,6 +10,7 @@
     { "type": "nav", "name": "海阔世界", "address": "https://haikuoshijie.cn", "desc": "" },
     { "type": "nav", "name": "fofa", "address": "https://fofa.info/", "desc": "" },
     { "type": "nav", "name": "视频导航", "address": "https://fmhy.net/videopiracyguide", "desc": "国外网站" },
+    { "type": "nav", "name": "屏幕", "address": "https://panelook.cn", "desc": "" },
 
     { "type": "movie", "name": "HDmoli", "address": "https://www.hdmoli.pro/", "desc": "" },
     { "type": "movie", "name": "libvio", "address": "https://lib.ifabu.vip/", "desc": "" },
@@ -27,6 +28,12 @@
     { "type": "movie", "name": "熊猫", "address": "https://xmvod520.com/", "desc": "" },
     { "type": "movie", "name": "123series", "address": "https://123-series.com/", "desc": "" },
     { "type": "movie", "name": "braflix", "address": "https://www.braflix.video/", "desc": "国外网站" },
+    { "type": "movie", "name": "jumi", "address": "https://jumi.tv/", "desc": "jumi" },
+    { "type": "movie", "name": "youplex", "address": "https://youplex.site/", "desc": "" },
+    { "type": "movie", "name": "netflix", "address": "https://www.netflixgc.com/", "desc": "" },
+    { "type": "movie", "name": "dianying", "address": "https://www.dianyi.ng/", "desc": "" },
+    { "type": "movie", "name": "jqqzx", "address": "https://www.jqqzx.com/", "desc": "" },
+    { "type": "movie", "name": "nunflix", "address": "https://nunflix.live/", "desc": "" },
     
 
     { "type": "bt", "name": "bt tracker", "address": "https://tk.sleele.com/", "desc": "" },
@@ -41,7 +48,7 @@
     { "type": "bt", "name": "yinfans", "address": "https://www.yinfans.me/", "desc": "" },
     { "type": "bt", "name": "dy2016", "address": "https://www.dy2160.com/", "desc": "" },
     { "type": "bt", "name": "bt111", "address": "https://www.bttt11.com/", "desc": "" },
-
+    { "type": "bt", "name": "rarbg", "address": "https://www.rarbg.tw/", "desc": "" },
 
     { "type": "tv", "name": "IPTV search", "address": "https://www.foodieguide.com/iptvsearch/", "desc": "" },
     { "type": "tv", "name": "IPTV", "address": "http://tonkiang.us/", "desc": "" },
@@ -57,6 +64,7 @@
     { "type": "tool", "name": "下载", "address": "https://d.serctl.com", "desc": "" },
     { "type": "tool", "name": "微信文件传输", "address": "https://filehelper.weixin.qq.com", "desc": "" },
     { "type": "tool", "name": "pdf", "address": "https://pdfprocess.net/?lang=zh_CN", "desc": "" },
+    { "type": "tool", "name": "电视盒子系统", "address": "https://www.ecoo.top", "desc": "" },
 
     { "type": "code", "name": "linux命令", "address": "https://www.linuxcool.com/", "desc": "" },
     { "type": "code", "name": "dev", "address": "https://devdocs.io/", "desc": "" },
