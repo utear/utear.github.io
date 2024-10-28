@@ -79,7 +79,7 @@
     { "type": "game", "name": "yikm", "address": "https://www.yikm.net/", "desc": "" },
     { "type": "game", "name": "gameflare", "address": "https://www.gameflare.com/", "desc": "" },
 
-    { "type": "ai", "name": "gemini", "address": "https://gemini.ai4you.top/", "desc": "谷歌人工智能" },
+
     { "type": "ai", "name": "veed", "address": "https://www.veed.io/", "desc": "视频生成" },
     { "type": "ai", "name": "farfalle", "address": "https://www.farfalle.dev/", "desc": "搜索" },
      { "type": "ai", "name": "工具集", "address": "https://ai-bot.cn/ai-app-store/", "desc": "导航" },
