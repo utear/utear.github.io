@@ -12,6 +12,7 @@
     { "type": "nav", "name": "视频导航", "address": "https://fmhy.net/videopiracyguide", "desc": "国外网站" },
     { "type": "nav", "name": "屏幕", "address": "https://panelook.cn", "desc": "" },
 
+    { "type": "movie", "name": "wdoo", "address": "https://wdoo.net/", "desc": "" },
     { "type": "movie", "name": "HDmoli", "address": "https://www.hdmoli.pro/", "desc": "" },
     { "type": "movie", "name": "libvio", "address": "https://lib.ifabu.vip/", "desc": "" },
     { "type": "movie", "name": "0100", "address": "https://www.0100.top/", "desc": "" },
