@@ -242,7 +242,7 @@ http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=2510710360&k=689e494c226aa7038
 rtmp://tv.pull.hebtv.com/jishi/weishipindao?t=2510710360&k=6cdf3c059a496f8c8375f86e1fb53346
 #EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://live.fanmingming.com/tv/河北经济.png" group-title="经济",河北
 http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
-#EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://live.fanmingming.com/tv/河北经济.png" group-title="经济",河北
+
 #EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://live.fanmingming.com/tv/河北经济.png" group-title="经济",河北
 http://tv.pull.hebtv.com/jishi/jingjishenghuo.flv?t=2510710360&k=fa8a788d96df5d75e67186f6b6864b40
 #EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://live.fanmingming.com/tv/河北经济.png" group-title="经济",河北
@@ -271,3 +271,7 @@ http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb394
 http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=2510710360&k=3656451936184a7500239d3ba501cf7f
 #EXTINF:-1 tvg-id="河北公共" tvg-name="河北公共" tvg-logo="https://live.fanmingming.com/tv/河北公共.png" group-title="公共",河北
 rtmp://tv.pull.hebtv.com/jishi/gonggongpindao?t=2510710360&k=6201048dbf6392c9f95d779a8783ce96
+#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://live.fanmingming.com/tv/河北影视.png" group-title="影视",河北
+http://111.225.115.25:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://live.fanmingming.com/tv/河北经济.png" group-title="经济",河北
+http://111.225.115.25:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
