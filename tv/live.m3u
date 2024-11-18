@@ -1,4 +1,25 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4K",CCTV-1 综合
+http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?icpid=4&from=1&hms_devid=6885?$4K超高清
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="4K",CCTV-2 财经
+http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="4K",CCTV-3 综艺
+http://223.105.252.60/PLTV/4/224/3221228499/index.m3u8?icpid=4&from=1&hms_devid=6885?$4K超高清
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="4K",CCTV-5 体育
+http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?icpid=4&from=1&hms_devid=6887?$4K超高清
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K",CCTV-16 奥林匹克
+http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?$4K超高清
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K",CCTV4K
+http://223.105.252.59/PLTV/4/224/3221228228/index.m3u8?icpid=4&from=1&hms_devid=6885?$4K超高清
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K",CCTV4K
+http://223.105.252.59/PLTV/4/224/3221228472/index.m3u8?$4K超高清
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K",纯享4K
+http://223.105.252.57/PLTV/3/224/3221228242/1.m3u8?icpid=3&from=1&hms_devid=6886?$4K超高清
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="4K",CCTV8K
+http://223.105.252.57/PLTV/3/224/3221228165/1.m3u8?icpid=3&from=1&hms_devid=6886?$4K超高清
+
+
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?icpid=4&from=1&hms_devid=6885?$4K超高清
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
