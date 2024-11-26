@@ -1,5 +1,7 @@
 [
   {"name": "cry33.com", "address": "http://117.72.68.25:9230/latest.txt", "desc": "txt直播源"},
   {"name": "4k", "address": "http://imycube.github.io/tv/4k.m3u", "desc": "4k直播源"},
-  {"name": "yuanzl", "address": "https://yuanzl77.github.io/", "desc": "4k直播源"}
+  {"name": "yuanzl", "address": "https://yuanzl77.github.io/", "desc": "4k直播源"},
+  {"name": "午夜二锅头", "address": "https://gitee.com/zhang988/ipv6/blob/master/IPV6", "desc": ""},
+  {"name": "lqtv", "address": "https://a.lqtv.top/", "desc": "lqtv.github.io"}
 ]
