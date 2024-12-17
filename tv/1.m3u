@@ -1,41 +1,40 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道", CCTV1
-http://119.62.109.200:9901/tsfile/live/0001_1.m3u8
+http://101.65.33.182:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道", CCTV2
-http://119.62.11.157:9901/tsfile/live/0002_1.m3u8
+http://101.66.199.35:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道", CCTV3
-http://119.62.109.200:9901/tsfile/live/0003_1.m3u8
+http://101.66.199.35:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道", CCTV4
-http://14.204.106.74:9901/tsfile/live/0004_1.m3u8
+http://220.164.192.48:50085/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道", CCTV5
-http://119.62.11.157:9901/tsfile/live/0005_1.m3u8
+http://221.213.69.82:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道", CCTV5+
-http://0a736a.tv.netsite.cc/proxy/485668034/485668034.m3u8
+http://d0bf2d.tv.netsite.cc/proxy/485668034/485668034.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道", CCTV6
-http://119.62.11.157:9901/tsfile/live/0006_1.m3u8
+http://119.62.109.200:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道", CCTV7
-http://14.204.106.74:9901/tsfile/live/0007_1.m3u8
+https://tvbox.nat.netsite.cc:8043/proxy/1163485033/1163485033.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道", CCTV8
-http://119.62.11.157:9901/tsfile/live/0008_1.m3u8
+http://221.213.69.82:9901/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道", CCTV9
-http://221.213.69.82:9901/tsfile/live/0009_1.m3u8
+http://101.65.33.182:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道", CCTV10
 http://101.66.198.158:9901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道", CCTV11
-http://iptv.887979.xyz/ysptp/cctv11.m3u8
+https://tvbox.nat.netsite.cc:8043/proxy/421024024/421024024.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道", CCTV12
-http://119.62.109.200:9901/tsfile/live/0012_1.m3u8
+http://220.164.192.48:50085/tsfile/live/0013_1.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道", CCTV13
-http://39.164.160.249:9901/tsfile/live/0013_1.m3u8
+https://tvbox.nat.netsite.cc:8043/proxy/1942371728/1942371728.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道", CCTV14
-http://14.204.106.74:9901/tsfile/live/0014_1.m3u8
+http://119.62.109.200:9901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道", CCTV15
-http://0a736a.tv.netsite.cc/proxy/323678478/323678478.m3u8
+http://d0bf2d.tv.netsite.cc/proxy/323678478/323678478.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道", CCTV16
 http://119.62.109.200:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道", CCTV17
-https://tvbox.nat.netsite.cc:8043/proxy/199561397/199561397.m3u8
+http://220.164.192.48:50085/tsfile/live/0018_1.m3u8
 
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="64" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/安徽卫视.png" group-title="卫视频道", 安徽卫视
 http://101.66.198.158:9901/tsfile/live/0130_1.m3u8
