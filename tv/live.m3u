@@ -67,7 +67,7 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$1.6M_72
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226007/index.m3u8$1.6M_720
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png", group-title="央视",CCTV5
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226469/index.m3u8$4.0M_1080
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png", group-title="央视,CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png", group-title="央视",CCTV10
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8$4.0M_1080
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png", group-title="央视",CCTV11
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8$1.6M_720
