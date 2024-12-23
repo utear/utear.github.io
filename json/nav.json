@@ -87,6 +87,7 @@
      { "type": "ai", "name": "aihub", "address": "https://www.aihub.cn/", "desc": "导航" },
 
     { "type": "proxy", "name": "github", "address": "https://github.akams.cn/", "desc": "" },
+    { "type": "proxy", "name": "ur1", "address": "https://github.ur1.fun/", "desc": "" },
     { "type": "proxy", "name": "ghproxy", "address": "https://ghp.ci/", "desc": "" },
     { "type": "proxy", "name": "ghproxy.net", "address": "https://ghproxy.net/", "desc": "" },
     { "type": "proxy", "name": "gh-proxy", "address": "https://gh-proxy.com/", "desc": "" },
