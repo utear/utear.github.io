@@ -85,7 +85,8 @@
     { "type": "ai", "name": "farfalle", "address": "https://www.farfalle.dev/", "desc": "搜索" },
      { "type": "ai", "name": "工具集", "address": "https://ai-bot.cn/ai-app-store/", "desc": "导航" },
      { "type": "ai", "name": "aihub", "address": "https://www.aihub.cn/", "desc": "导航" },
-    
+
+    { "type": "proxy", "name": "github", "address": "https://github.akams.cn/", "desc": "" },
     { "type": "proxy", "name": "ghproxy", "address": "https://ghp.ci/", "desc": "" },
     { "type": "proxy", "name": "ghproxy.net", "address": "https://ghproxy.net/", "desc": "" },
     { "type": "proxy", "name": "gh-proxy", "address": "https://gh-proxy.com/", "desc": "" },
