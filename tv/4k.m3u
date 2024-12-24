@@ -14,7 +14,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010001/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4K",CCTV-1 综合
 http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?icpid=4&from=1&hms_devid=6885?$4K超高清
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="4K",CCTV-1 综合
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4K",CCTV-1 综合
 http://223.105.252.59/PLTV/4/224/3221228581/index.m3u8?$4K超高清
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="4K",CCTV-3 综艺
 http://223.105.252.60/PLTV/4/224/3221228499/index.m3u8?icpid=4&from=1&hms_devid=6885?$4K超高清
