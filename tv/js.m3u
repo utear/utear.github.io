@@ -1,10 +1,22 @@
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",group-title="CCTV",CCTV1
-http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",group-title="CCTV",CCTV3
-http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png",group-title="CCTV",CCTV5
-http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png",group-title="CCTV",CCTV6
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4K",CCTV-1 综合
+http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?icpid=4&from=1&hms_devid=6885?$4K超高清
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="4K",CCTV-3 综艺
+http://223.105.252.60/PLTV/4/224/3221228499/index.m3u8?icpid=4&from=1&hms_devid=6885?$4K超高清
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="4K",CCTV-5 体育
+http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?icpid=4&from=1&hms_devid=6887?$4K超高清
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png",group-title="4K",CCTV6
 http://ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png",group-title="CCTV",CCTV8
-http://ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="4K",CCTV-8
+http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K",CCTV-16 奥林匹克
+http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?$4K超高清
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K",CCTV4K
+http://223.105.252.59/PLTV/4/224/3221228228/index.m3u8?icpid=4&from=1&hms_devid=6885?$4K超高清
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K",CCTV4K
+http://223.105.252.59/PLTV/4/224/3221228472/index.m3u8?$4K超高清
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K",纯享4K
+http://223.105.252.57/PLTV/3/224/3221228242/1.m3u8?icpid=3&from=1&hms_devid=6886?$4K超高清
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="4K",CCTV8K
+http://223.105.252.57/PLTV/3/224/3221228165/1.m3u8?icpid=3&from=1&hms_devid=6886?$4K超高清
