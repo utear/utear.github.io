@@ -38,6 +38,18 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227034/1.m3u8?GuardEncType
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227023/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsOnjStoSIBiRDXRm4N42Zw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227038/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnNP_kmf5g3OZQXDWZHNpOA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
@@ -110,121 +122,220 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDD-WqVkjs3cnfSInf6A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227022/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EMkWp5fwJWRSC2qPwffoOzQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="体验频道",优漫卡通
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227007/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhHDWGhkwx_zJcJUYE9TAaA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="体验频道",哈哈炫动
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227025/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7RoPnbSvRPd3KyTpQ76WpA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.cn/tv/优购物.png" group-title="体验频道",优购物
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226386/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EM87pGmpUFywKpSY4lOHrFQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.cn/tv/央广购物.png" group-title="体验频道",央广购物
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227001/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX1FjruLJHCK_AUQtyT2cVw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.cn/tv/央广购物.png" group-title="体验频道",央广购物
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226996/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey_PNZmequ7u7FOxWDCAaLA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="快乐购" tvg-logo="https://live.fanmingming.cn/tv/快乐购.png" group-title="体验频道",快乐购
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227032/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6KOfSXtMZyt4SBfaYJNrxA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.cn/tv/优购物.png" group-title="体验频道",优购物
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226971/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7-81a6Uw5wuXgzjImTJdIg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="风尚购物" tvg-logo="https://live.fanmingming.cn/tv/风尚购物.png" group-title="体验频道",风尚购物
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226345/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E-GNr_ncTz5EPhq3qvFvk0Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.cn/tv/央广购物.png" group-title="体验频道",央广购物
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226993/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB-SX9XhyWukO8tjFAsqmXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.cn/tv/优购物.png" group-title="体验频道",优购物
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E4qx6LIAaTCBQ7eh1B37enQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.cn/tv/优购物.png" group-title="体验频道",优购物
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eox74V0m2rGUsyoy5A8iEcw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://live.fanmingming.cn/tv/超级电视剧.png" group-title="体验频道",超级电视剧
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EVGh4wVrIL86YabiEzt0u5Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.cn/tv/超级电影.png" group-title="体验频道",超级电影
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="体验频道",睛彩竞技
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELNKCwls2CgCuSsq57Mh8ug%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="体验频道",睛彩篮球
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EKXl4MjVH6lXYRTccqcbi4w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.cn/tv/超级体育.png" group-title="体验频道",超级体育
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETVADpDcwLMjKKWF--XtEOg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://live.fanmingming.cn/tv/超级综艺.png" group-title="体验频道",超级综艺
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYioXJd79dXZ_L0XAyn5Oqg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="睛彩体育" tvg-logo="https://live.fanmingming.cn/tv/睛彩体育.png" group-title="体验频道",睛彩体育
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELNKCwls2CgCuSsq57Mh8ug%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://live.fanmingming.cn/tv/精品萌宠.png" group-title="体验频道",精品萌宠
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EvfRMC51wpBEwf_3ooIvthw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="体验频道",黑莓动画
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.cn/tv/古装剧场.png" group-title="体验频道",古装剧场
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E-5s4GUWW-btT1rNpig0Z_Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://live.fanmingming.cn/tv/动作电影.png" group-title="体验频道",动作电影
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBow_B3ta32lPIHmLzLPzVQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.cn/tv/军旅剧场.png" group-title="体验频道",军旅剧场
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfN0xtIcVecPauWX6HCC38w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.cn/tv/家庭剧场.png" group-title="体验频道",家庭剧场
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EftyW3kjTIOj5n2P8RZkDxQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://live.fanmingming.cn/tv/惊悚悬疑.png" group-title="体验频道",惊悚悬疑
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsZ9kjVUW6IQXTWQniX9Byg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="未知" tvg-logo="https://live.fanmingming.cn/tv/未知.png" group-title="体验频道",未知
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226982/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E3-4ssTWVRRSna2CFQXnugg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="未知2" tvg-logo="https://live.fanmingming.cn/tv/未知2.png" group-title="体验频道",未知2
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfLBCW0GUL1k986fkoE_7hA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="体验频道",黑莓电影
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://live.fanmingming.cn/tv/爱情喜剧.png" group-title="体验频道",爱情喜剧
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ea1N_KgA8ifZhGjOaqvKIMg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://live.fanmingming.cn/tv/精品大剧.png" group-title="体验频道",精品大剧
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E3L0P9l_fI2y0M6HyVzY8Ag%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://live.fanmingming.cn/tv/中国功夫.png" group-title="体验频道",中国功夫
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEWe2gbwg0iLJum2oZPyg5Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/金牌综艺.png" group-title="体验频道",金牌综艺
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://live.fanmingming.cn/tv/军事评论.png" group-title="体验频道",军事评论
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqRd0uU_hKSUti2u5P6u77Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="体验频道",哒啵赛事
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErjVvYM0ZqthE-XIiqeoM2g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.cn/tv/哒啵电竞.png" group-title="体验频道",哒啵电竞
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EyKHPEcCpKH4LmXqAQnvIbg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://live.fanmingming.cn/tv/精品纪录.png" group-title="体验频道",精品纪录
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EytT16QRYWEl2rKz4kPSdcQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://live.fanmingming.cn/tv/怡伴健康.png" group-title="体验频道",怡伴健康
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjNp5Bk4D1QoMTHkXgT3WLA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.cn/tv/精品体育.png" group-title="体验频道",精品体育
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://live.fanmingming.cn/tv/潮妈辣婆.png" group-title="体验频道",潮妈辣婆
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_buXEAIzLX9DkyCQHTUDaw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://live.fanmingming.cn/tv/农业致富.png" group-title="体验频道",农业致富
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUhRIwwqVhPIhuesQTtJ55Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://live.fanmingming.cn/tv/炫舞未来.png" group-title="体验频道",炫舞未来
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg4-11jnFsVKreoQSmD_yXg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://live.fanmingming.cn/tv/精品萌宠.png" group-title="体验频道",精品萌宠
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EvfRMC51wpBEwf_3ooIvthw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="体验频道",睛彩青少
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAWLGkc6X5Fh9eyLXH5iy4A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/中国教育1台.png",中国教育1台
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.cn/tv/中国教育2台.png",中国教育2台
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
-#EXTINF:-1 tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.cn/tv/中国教育3台.png",中国教育3台
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/中国教育4台.png",中国教育4台
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png",CGTN
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtg-APxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd-%2CEND
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png",CGTN阿拉伯语
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227023/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsOnjStoSIBiRDXRm4N42Zw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN0Rjp499O2_vHkE1RKEoQC%2CEND
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png",CGTN俄语
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227038/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnNP_kmf5g3OZQXDWZHNpOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONS2RAhxb5u6NYaMGGM23S%2CEND
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png",CGTN法语
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227034/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnmNWt4gIKrkCWjuWofLapQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIdWbuxQqiCSe0m2VF_WFN%2CEND
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png",CGTN纪录
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226901/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIDa9eQPW7MPnVG3tWV9L_A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM7UiApo13jd7QHhKfvQCvE%2CEND
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png",CGTN西班牙语
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227030/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWR3JI0iklU2klIzSzhH6nA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNcVQYgQEjmQ1Kehqyp6Sje%2CEND
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://live.fanmingming.cn/tv/北京财经.png",北京财经
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
-#EXTINF:-1 tvg-name="北京国际" tvg-logo="https://live.fanmingming.cn/tv/北京国际.png",北京国际
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
-#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://live.fanmingming.cn/tv/北京生活.png",北京生活
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
-#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.cn/tv/北京文艺.png",北京文艺
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.cn/tv/北京新闻.png",北京新闻
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.cn/tv/北京影视.png",北京影视
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台",澳门Macau
+http://61.244.22.4/ch3/ch3.live/index.m3u8
+#EXTINF:-1 group-title="港澳台",澳门Macau
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 group-title="港澳台",澳门Macau
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳台",澳门Macau
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳台",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="港澳台",澳门葡语
+http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 group-title="港澳台",澳门葡语
+http://61.244.22.4/ch2/ch2.live/index.m3u8
+#EXTINF:-1 group-title="港澳台",澳门体育
+http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
+#EXTINF:-1 group-title="港澳台",澳门体育 (720p)
+http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳台",澳门卫视
+http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 group-title="港澳台",澳门信息
+http://61.244.22.4/ch5/info_ch5.live/master.m3u8
+#EXTINF:-1 group-title="港澳台",澳门信息
+http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
+#EXTINF:-1 group-title="港澳台",澳门资讯
+http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
+#EXTINF:-1 group-title="港澳台",澳门综艺
+http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",澳门综艺
+http://61.244.22.4/ch6/hd_ch6.live/master.m3u8
+#EXTINF:-1 group-title="港澳台",澳视澳门
+http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳台",澳视澳门
+http://61.244.22.4/ch1/ch1.live/master.m3u8
+#EXTINF:-1 group-title="港澳台",澳视澳门 (720p) [Not 24/7]
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳台",澳视葡文
+http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 group-title="港澳台",澳视卫星 (720p) [Not 24/7]
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/live.m3u8
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
+#EXTINF:-1 group-title="港澳台",澳亚卫视 [Not 24/7]
+http://live.mastvnet.com/4rlff1m/live.m3u8
+#EXTINF:-1 group-title="港澳台",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=01
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=1
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=11
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",中视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=02
+#EXTINF:-1 group-title="港澳台",中视新闻 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="港澳台",中视新闻 HD
+https://ytm2.yuanhsing.cf/twctvnews.m3u8
+#EXTINF:-1 group-title="港澳台",三立iNEWS
+http://tv.redrainl.site:9500/live.m3u8?c=51
+#EXTINF:-1 group-title="港澳台",三立iNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="港澳台",三立iNEWS
+https://ytm2.yuanhsing.cf/setmoney159.m3u8
+#EXTINF:-1 group-title="港澳台",三立NEWS+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 group-title="港澳台",三立NEWS+
+https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+#EXTINF:-1 group-title="港澳台",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="港澳台",寰宇新闻
+https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+#EXTINF:-1 group-title="港澳台",镜新闻Mnews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="港澳台",镜新闻Mnews
+https://ytm2.yuanhsing.cf/mnews.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=3
+#EXTINF:-1 group-title="港澳台",东森財经 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="港澳台",东森財经 HD
+https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+#EXTINF:-1 group-title="港澳台",原住民族电视台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",中视 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+#EXTINF:-1 group-title="港澳台",东森超视34.5
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",东森购物2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+#EXTINF:-1 group-title="港澳台",东森购物3
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 group-title="港澳台",华视综合娱乐
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="港澳台",华视综合娱乐
+https://ytm2.yuanhsing.cf/ctsprog.m3u8
+#EXTINF:-1 group-title="港澳台",The K-POP
+https://git.io/JgYAE
+#EXTINF:-1 group-title="港澳台",The K-POP
+https://ytm2.yuanhsing.cf/TheKPOP.m3u8
+#EXTINF:-1 group-title="港澳台",The K-POP2
+https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
+#EXTINF:-1 group-title="港澳台",時尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",時尚台FTV
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台",時尚台FTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 group-title="港澳台",時尚台FTV4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",MOMO購物1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 group-title="港澳台",MOMO購物2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1 group-title="港澳台",Viva 美好購物1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+#EXTINF:-1 group-title="港澳台",Viva 美好購物2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+#EXTINF:-1 group-title="港澳台",EF运通
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+#EXTINF:-1 group-title="港澳台",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1 group-title="港澳台",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="港澳台",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",大爱1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 group-title="港澳台",大爱1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1 group-title="港澳台",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港澳台",大爱1台
+https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港澳台",大爱2台
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港澳台",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港澳台",大爱2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1 group-title="港澳台",幸福空间居家台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 group-title="港澳台",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="港澳台",唯心電视
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="港澳台",唯心電视
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 group-title="港澳台",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="港澳台",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播4K「IPV4」
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播4K「IPV4」
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
