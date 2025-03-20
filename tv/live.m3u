@@ -10,7 +10,7 @@ http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/inde
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="CCTV5.png", group-title="HLJ",CCTV-5
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="CCTV5.png", group-title="HLJ",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="CCTV5plus.png", group-title="HLJ",CCTV-5+
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="CCTV6.png", group-title="HLJ",CCTV-6
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
