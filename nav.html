@@ -107,9 +107,9 @@
     function changeSkin() {
         var skins = document.getElementById("skins");
         if (skins.classList.contains("skin")) {
-            skins.attr("class", "skin");
+            skins.setAttribute("class", "skin-dark");
         } else {
-            skins.attr("class", "skin-dark");
+            skins.setAttribute("class", "skin");
         }
     }
     
