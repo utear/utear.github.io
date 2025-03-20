@@ -120,3 +120,7 @@ input {
     cursor: pointer;
 }
 
+.skin-dark {
+    background-color: #000;
+    color: #FFF;
+}

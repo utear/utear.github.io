@@ -5,9 +5,12 @@
     <title> Nav </title>
     <link rel="stylesheet" type="text/css" href="./css/style.css" />
 </head>
-<body>
+<body id="skins" class="skin">
 <header class="align-right">
-    <a href="./index.html">首页</a>
+    <a href="./index.html">首页</a> 
+    <a href="/linux-command">linux 命令</a>
+
+    <button class="changeSkin">skin</button>
 </header>
 
 <main>
@@ -101,6 +104,12 @@
         });
     }
     
+    var skins = document.getElementById("skins");
+    if (skins.classList.contains("skin")) {
+        skins.attr("class", "skin");
+    } else {
+        skins.attr("class", "skin-dark");
+    }
 </script>
 </body>
 </html>
