@@ -102,7 +102,7 @@ def job():
 
 # 设置定时任务，每小时执行一次（如果需要定时功能，取消下面这行注释并确保已安装 schedule 模块）
 # schedule.every().day.at("22:30").do(job)
-# schedule.every().minute.do(job)
+schedule.every().minute.do(job)
 
 if __name__ == "__main__":
     job()
