@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8" />
+    <meta title="player index"/>
+
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/video-js.css" />
+    <script src="./js/video.js" ></script>
+    <script src="./js/hls.js" ></script>
+</head>
+<body class="bg-black">
+  <div class="main">
+    <h1> Player <input id="videoUrl" class="width-70" value="" /> <button type="button" onclick="playerVideo()">播放</button> </h1>
+
+    <div class="width-100">
+        <!-- 视频播放器容器 -->
+        <video id="my-player" class="video-js vjs-default-skin" controls preload="auto" width="640" height="360">
+          <p class="vjs-no-js">
+            To view this video please enable JavaScript, and consider upgrading to a
+            web browser that
+            <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+          </p>
+        </video>
+    </div>
+  </div>
+<script>
+let options = {
+    controls: true,
+    playbackRates: [0.75, 1, 1.5, 2, 3],
+    poster: './video/video.jpg',
+    sources: []
+};
+
+let myPlayer = videojs('my-player', options, function onPlayerReady() {
+  videojs.log('播放器准备好了!');
+
+  // In this context, `this` is the player that was created by Video.js.
+  this.play().catch(err => {
+    console.log('需用户交互后才可播放');
+    // 可提示用户点击页面以启用播放
+  });
+
+  this.on('ended', function() {
+    videojs.log('播放结束!');
+  });
+});
+
+function playerVideo() {
+  // 设置视频源为M3U8地址
+
+  var video = document.getElementById('my-player');
+  var videoSrc = document.getElementById("videoUrl").value;
+  //
+  // First check for native browser HLS support
+  //
+ if (Hls.isSupported()) {
+    var hls = new Hls();
+    hls.loadSource(videoSrc);
+    hls.attachMedia(video);
+  }
+}
+
+</script>
+</body>
+</html>

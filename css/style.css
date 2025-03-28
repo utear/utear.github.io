@@ -141,3 +141,10 @@ input {
 .right-10 {
     margin-right: 10px;
 }
+.width-100 {
+    width: 100%;
+}
+.main{
+    width: 96%;
+    margin: 0 auto;
+}
