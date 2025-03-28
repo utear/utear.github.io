@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> gemini </title>
+    <style rel="stylesheet">
+        *,body{
+            margin: 0;
+            padding: 0;
+        }
+        .full{
+            height: 100vh;
+        }
+        .height-90 {
+            height: 90%;
+        }
+        .height-100 {
+            height: 100%;
+        }
+        .skin {
+            background-color: #e0e0e0;
+            color: #444;
+        }
+        .skin-1 {
+            background-color: #202020;
+            color: #f5f5f5;
+        }
+        .header {
+            background-color: black; 
+            color: white;
+            padding: 0.5em; 
+        }
+        .clear {
+            clear: both;
+        }
+        .model-list {
+            
+        }
+        .btn {
+            padding: 0.2em;
+            cursor: pointer;
+        }
+        .btn-primary {
+            background-color: rgb(90, 158, 240);
+        }
+        .btn-grey {
+            background-color: grey;
+            color: #eee;
+        }
+        .right-margin {
+            margin-right: 1em;
+        }
+        .right{
+            float: right;
+            display: inline-flex;
+        }
+        .height-30 {
+            height: 2em;
+        }
+        .height-full {
+            height: calc(100% - 2em);
+        }
+        .main{
+            width: 100%;
+            height: calc(100vh - 3em);
+            display: inline-flex;
+        }
+        .dark {
+            background-color: #626060;
+            color: #EEE;
+        }
+        .width-20 {
+            width: 20%;
+        }
+        .width-80 {
+            width: 80%;
+        }
+        .width-90 {
+            width: 90%;
+        }
+        .width-100 {
+            width: 100%;
+        }
+        .width-full {
+            width: calc(100%-2em);
+        }
+        .border{
+            border: #b1b1b1 solid 1px;
+            border-radius: 0.5em;
+        }
+        .border-right {
+            border-right: #6e6e6e solid 2px;
+        }
+        .border-top {
+            border-top: #b1b1b1 solid 2px;
+        }
+        .padding-1{
+            padding: 1em;
+        }
+        .messages{
+            height: 80%;
+        }
+        .message-content{
+            overflow-y: auto;
+        }
+        .query{
+            height: 20%;
+            
+        }
+        .query-content{
+            display: inline-flex;
+        }
+        .btn-send{
+            width: 10em;
+            height: 100%;
+        }
+        .scorlly{
+            overflow-y: auto;
+        }
+        .margin-left-1 {
+            margin-left: 0.2em;
+        }
+        .input-container {
+            display: flex;
+            align-items: center;
+            background-color: #f0f0f0;
+            border-radius: 10px;
+            padding: 5px;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            border: none;
+            outline: none;
+            background: transparent;
+            padding: 8px;
+            font-size: 14px;
+        }
+
+        .function-buttons {
+            display: flex;
+            align-items: center;
+        }
+
+        .button {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 30px;
+            height: 30px;
+            margin: 0 5px;
+            border-radius: 50%;
+            background-color: #ffffff;
+            cursor: pointer;
+        }
+
+        .button img {
+            width: 16px;
+            height: 16px;
+        }
+
+        .button span {
+            margin-left: 5px;
+        }
+
+        .send-button {
+            width: auto;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body class="skin">
+<div class="full">
+    <div id="header" class="header">
+        <div class="right">
+            <div id="models" class="model-list right-margin"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="main">
+        <div class="left-content height-100 width-20 border-right">
+            <div class="chat-box"></div>
+        </div>
+        <div class="right-content height-100 width-80">
+            <div class="messages">
+                <div class="padding-1 height-100">
+                    <div class="height-full border scorlly">
+                        <div id="messages" class="message-content padding-1"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="query" class="query width-100 border-top">
+                <!-- <div class="padding-1 height-full">
+                    <div class="query-content width-100 height-100">
+                        <textarea id="messageInput" class="width-80 height-100 border" row="3"> </textarea>
+                        <div id="query" class="width-20"> 
+                            <button onclick="sendMessage()" class="btn btn-send border margin-left-1">发送</button>
+                        </div>
+                    </div>
+                </div> -->
+                <div class="padding-1 height-full">
+                    <div class="input-container height-100">
+                        <input id="messageInput" type="text" placeholder="发消息、输入 @ 选择技能或 / 选择文件" />
+                        <div class="function-buttons">
+                          <!-- <span class="button" title="深度思考">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24"><path fill="currentColor" d="M12 14.12a2.12 2.12 0 1 0 0-4.24 2.12 2.12 0 0 0 0 4.24"></path><path fill="currentColor" fill-rule="evenodd" d="M1.562 5.92c-.147-.979-.102-2.372.942-3.416s2.438-1.089 3.416-.942c1.029.155 2.12.585 3.177 1.138A23 23 0 0 1 12 4.542 23 23 0 0 1 14.904 2.7c1.057-.553 2.148-.983 3.177-1.138.978-.147 2.372-.102 3.416.942s1.089 2.438.942 3.416c-.155 1.029-.585 2.12-1.138 3.177a23 23 0 0 1-1.842 2.904 23 23 0 0 1 1.842 2.903c.553 1.057.983 2.148 1.138 3.177.147.978.102 2.372-.942 3.416s-2.437 1.089-3.416.942c-1.029-.155-2.12-.585-3.177-1.138a23 23 0 0 1-2.903-1.842 23 23 0 0 1-2.904 1.842c-1.057.554-2.148.983-3.177 1.138-.979.147-2.372.102-3.416-.942s-1.089-2.437-.942-3.416c.155-1.029.585-2.12 1.138-3.177a23 23 0 0 1 1.842-2.903A23 23 0 0 1 2.7 9.097C2.147 8.04 1.717 6.949 1.562 5.92m2.442-1.917c.936-.936 3.4-.104 6.267 1.907a37 37 0 0 0-2.27 2.092 37 37 0 0 0-2.09 2.27C3.898 7.403 3.066 4.94 4.003 4.002M9.5 9.502c-.83.83-1.592 1.672-2.272 2.499.68.827 1.442 1.668 2.273 2.499A35 35 0 0 0 12 16.772 35 35 0 0 0 14.5 14.5a35 35 0 0 0 2.273-2.5A35 35 0 0 0 14.5 9.502 35 35 0 0 0 12 7.23a35 35 0 0 0-2.499 2.273M4.003 19.998c-.936-.937-.104-3.4 1.907-6.268.644.76 1.344 1.521 2.092 2.269a37 37 0 0 0 2.27 2.092c-2.868 2.011-5.332 2.843-6.269 1.907m15.994 0c-.936.936-3.4.104-6.267-1.907A37 37 0 0 0 16 15.999a37 37 0 0 0 2.092-2.27c2.011 2.868 2.843 5.332 1.906 6.268M16 8.001a37 37 0 0 1 2.092 2.269c2.01-2.867 2.843-5.33 1.906-6.267-.936-.937-3.4-.105-6.267 1.906.76.644 1.521 1.344 2.269 2.092" clip-rule="evenodd"></path></svg>
+                            深度思考
+                          </span> -->
+                          <span class="button" title="附件" onclick="uploadFile">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M9.035 15.956a1.29 1.29 0 0 0 1.821-.004l6.911-6.911a3.15 3.15 0 0 0 0-4.457l-.034-.034a3.15 3.15 0 0 0-4.456 0l-7.235 7.234a5.031 5.031 0 0 0 7.115 7.115l6.577-6.577a1.035 1.035 0 0 1 1.463 1.464l-6.576 6.577A7.1 7.1 0 0 1 4.579 10.32l7.235-7.234a5.22 5.22 0 0 1 7.382 0l.034.034a5.22 5.22 0 0 1 0 7.383l-6.91 6.91a3.36 3.36 0 0 1-4.741.012l-.006-.005-.012-.011a3.346 3.346 0 0 1 0-4.732L12.76 7.48a1.035 1.035 0 0 1 1.464 1.463l-5.198 5.198a1.277 1.277 0 0 0 0 1.805z" clip-rule="evenodd"></path></svg>
+                          </span>
+                          <span class="button" title="图片" onclick="uploadFile">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M15.524 3.4 2 7.024l2.847 10.625.754-.202V9.11a2 2 0 0 1 2-2h8.915zm3.064 3.71h3.014a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2h-14a2 2 0 0 1-2-2v-.593l-.237.064a2 2 0 0 1-2.45-1.414L.07 7.54a2 2 0 0 1 1.414-2.449l13.523-3.623a2 2 0 0 1 2.45 1.414zm-10.986 2h14v7.865L18.3 14.429a1.67 1.67 0 0 0-2.09.045l-3.432 2.886-1.363-1.167a1.67 1.67 0 0 0-2.151-.015l-1.662 1.385zm4.125 5.25a1.625 1.625 0 1 0 0-3.25 1.625 1.625 0 0 0 0 3.25" clip-rule="evenodd"></path></svg>
+                          </span>
+                          <span class="button" title="剪切">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M18.042 1.706a1 1 0 0 0-1.392.245l-4.74 6.77-4.74-6.77A1 1 0 0 0 5.53 3.098l5.158 7.366-2.715 3.878a4.002 4.002 0 0 0-3.697 7.023 4 4 0 0 0 5.335-5.876l2.297-3.281 2.298 3.28a4.002 4.002 0 0 0 5.335 5.877 4 4 0 0 0-3.697-7.023l-2.715-3.878 5.158-7.366a1 1 0 0 0-.246-1.392M8.21 19.236a2 2 0 1 0-3.277-2.294 2 2 0 0 0 3.277 2.294m7.4 0a2 2 0 1 1 3.277-2.295 2 2 0 0 1-3.276 2.295" clip-rule="evenodd"></path></svg>
+                          </span>
+                          <span class="button" title="语音输入" onclick="voice">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M12 2.5A2.5 2.5 0 0 1 14.5 5v6a2.5 2.5 0 0 1-5 0V5A2.5 2.5 0 0 1 12 2.5M7.5 5a4.5 4.5 0 0 1 9 0v6a4.5 4.5 0 1 1-9 0zm-2 4a1 1 0 0 0-2 0v2c0 4.213 3.26 7.928 7.5 8.44V21H7.3a1 1 0 1 0 0 2h9.4a1 1 0 1 0 0-2H13v-1.56c4.24-.512 7.5-4.227 7.5-8.44V9a1 1 0 1 0-2 0v2c0 3.46-2.915 6.5-6.5 6.5S5.5 14.46 5.5 11z" clip-rule="evenodd"></path></svg>
+                          </span>
+                          <span class="button send-button" title="发送" onclick="sendMessage()">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 28 28"><path d="M14.007 28q-2.881 0-5.418-1.11a14.3 14.3 0 0 1-4.453-3.026 14.5 14.5 0 0 1-3.04-4.453Q0 16.875 0 13.993q0-2.868 1.095-5.404Q2.191 6.053 4.121 4.12A14.5 14.5 0 0 1 8.59 1.095Q11.124 0 13.993 0t5.404 1.095q2.536 1.096 4.467 3.026A14.2 14.2 0 0 1 26.89 8.59Q28 11.124 28 13.993q0 2.881-1.095 5.418a14.3 14.3 0 0 1-3.027 4.453 14.2 14.2 0 0 1-4.467 3.026Q16.876 28 14.007 28m.015-6.917q.518 0 .835-.317.332-.332.332-.836v-6.816l-.13-2.969 1.37 1.672 1.599 1.643q.316.33.807.331.475 0 .792-.303a.99.99 0 0 0 .332-.763q0-.475-.332-.807L14.944 7.22q-.433-.447-.922-.447-.476 0-.908.447L8.43 11.918q-.317.317-.317.807 0 .461.317.763.318.303.778.303.49 0 .807-.331l1.629-1.658 1.326-1.642-.116 2.954v6.816q0 .504.332.836.331.317.836.317"></path></svg>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            <div class="clear"></div>
+        </div>
+        
+    </div>
+</div>
+
+
+<script>
+var webUrl = 'https://ugemini.deno.dev';
+var geminiKey = 'AIzaSyBrauu8yf2zTxV3v-C2fSnSkDuIvMrkgDA';
+var selectOption = 'gemini-2.0-flash-exp';
+
+const headers = new Headers();
+// headers.append('Content-Type', 'application/json');
+headers.append('Authorization', 'Bearer ' + geminiKey);
+
+function loadModels() {
+    fetch(webUrl + '/v1/models', {
+        method: 'GET',
+        headers: headers,
+    }).then(res => {
+        console.log(res.status);
+        if (res.status == 200) {
+            res.text().then(r => {
+                var modelDiv = '<select id="modelList" name="models" class="dark height-30 border" onchange="changeSelectOption()">'; 
+                var rr = JSON.parse(r);
+                
+                rr.data.filter(item => item.id == selectOption).forEach(item => {
+                    var checked = item.id == selectOption? 'checked': '';
+                    if (checked) {
+                        modelDiv += '<option value="'+ item.id + '" checked="' + checked + '">'+ item.id + '</option>';
+                    } else {
+                        modelDiv += '<option value="'+ item.id + '" >'+ item.id + '</option>';
+                    }
+                });
+                modelDiv += '</select>';
+                document.getElementById('models').innerHTML = modelDiv;
+            })
+        }
+    })
+}
+
+loadModels();
+
+
+var socketUrl = 'wss://ugemini.deno.dev/ws/google.ai.generativelanguage.v1alpha.GenerativeService.BidiGenerateContent';
+
+function getAiOption() {
+    
+    if (selectOption.indexOf('gemini-2.0-flash') > -1) {
+        return {
+            "setup":{
+                "model":"models/" + selectOption,
+                "generationConfig":{
+                    "responseModalities":"text",
+                    "speechConfig":{
+                        "voiceConfig":{"prebuiltVoiceConfig":{"voiceName":"Aoede"}}
+                    }
+                },
+                "systemInstruction":{
+                    "parts":[
+                        {"text":"You are my helpful assistant. You can see and hear me, and respond with voice and text. If you are asked about things you do not know, you can use the google search tool to find the answer."}
+                    ]
+                },
+                "tools":[
+                    {"googleSearch":{}},
+                    {"functionDeclarations":[
+                        {"name":"get_weather_on_date",
+                        "description":"Get the weather forecast for a specific location and date",
+                        "parameters":{
+                            "type":"object",
+                            "properties":{
+                                "location":{"type":"string","description":"The location to get weather for (city name)"},
+                                "date":{"type":"string","description":"The date to get weather for (YYYY-MM-DD format)"}
+                            },
+                            "required":["location","date"]
+                        }}
+                    ]}
+                ]
+            }
+        }
+    }
+    return {
+        "setup":{
+            "model":"models/" + selectOption,
+            "generationConfig":{
+                "responseModalities":"text",
+                "speechConfig":{
+                    "voiceConfig":{"prebuiltVoiceConfig":{"voiceName":"Aoede"}}
+                }
+            },
+            "systemInstruction":{
+                "parts":[
+                    {"text":"You are my helpful assistant. If you are asked about things you do not know, you can use the google search tool to find the answer."}
+                ]
+            },
+            "tools":[
+                {"googleSearch":{}}
+            ]
+        }
+    }
+}
+
+
+var queryOption = {"clientContent":{"turns":[{"role":"user","parts":[{"text":"你好"}]}],"turnComplete":true}};
+
+var socket;
+function initWebsocket() {
+    // 创建 WebSocket 连接
+    socket = new WebSocket(socketUrl + "?key=" + geminiKey);
+    // 连接成功时触发
+    socket.onopen = function () {
+        console.log('WebSocket 连接已建立');
+        document.getElementById('messages').innerHTML += '<p>连接已建立</p>';
+
+        console.log(JSON.stringify(getAiOption()))
+        socket.send(JSON.stringify(getAiOption()));
+    };
+
+    var messageContent = 'ai: ';
+    // 接收到服务器消息时触发
+    socket.onmessage = function (event) {
+        var message = document.getElementById('messages');
+        event.data.text().then(r => {
+            var msg = JSON.parse(r);
+            console.log(msg);
+            if (msg.serverContent && msg.serverContent.modelTurn) {
+                for (i of msg.serverContent.modelTurn.parts) {
+                    messageContent += i.text;
+                }
+            }
+            if (msg.toolCall) {
+                for (i of msg.toolCall.functionCalls) {
+                    messageContent += i.name;
+                }
+                message.innerHTML += messageContent;
+                messageContent = '';
+            }
+            if (msg.serverContent && msg.serverContent.turnComplete) {
+                message.innerHTML += messageContent;
+                messageContent = 'ai: ';
+            }
+        });
+    };
+
+
+    // 连接关闭时触发
+    socket.onclose = function () {
+        console.log('WebSocket 连接已关闭');
+        document.getElementById('messages').innerHTML += '<p>连接已关闭</p>';
+    };
+
+    socket.addEventListener('beforeSend', function(event) {
+        event.target.setRequestHeader('Authorization', 'Bearer ' + token);
+        event.target.setRequestHeader('Custom-Header', 'value');
+        event.target.setRequestHeader('origin', webUrl);
+    });
+
+    
+}
+
+initWebsocket();
+
+function connect() {
+    if (socket.readyState == 1) {
+        socket.close(1000, '正常关闭');
+    }
+    // 创建 WebSocket 连接
+    initWebsocket();
+}
+
+// 发送消息的函数
+function sendMessage() {
+    const message = document.getElementById('messageInput').value;
+    if (message) {
+        queryOption.clientContent.turns[0].parts[0].text = message;
+        socket.send(JSON.stringify(queryOption));
+        document.getElementById('messages').innerHTML += `<p>发送: ${message}</p>`;
+        document.getElementById('messageInput').value = '';
+    }
+} 
+
+function changeSelectOption() {
+    var selectElement = document.getElementById('modelList');
+    var selectedIndex = selectElement.selectedIndex;
+    var selectedOption = selectElement.options[selectedIndex];
+    var selectedValue = selectedOption.value;
+    selectOption = selectedValue;
+    console.log(selectOption);
+    connect();
+}
+
+</script>
+</body>
+
+</html>
