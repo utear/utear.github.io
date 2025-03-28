@@ -2,13 +2,16 @@
     margin: 0;
     padding: 0;
 }
-
-.search-box {
-    margin: 15% auto;
+body{
+    height: 100vh;
 }
+
 @media screen  and (min-width: 1920px){
     .search-box {
         width: 45%;
+    }
+    .search-box {
+        margin: 15% auto;
     }
 }
 
@@ -16,12 +19,18 @@
     .search-box {
         width: 60%;
     }
+    .search-box {
+        margin: 20% auto;
+    }
 }
 
 
 @media screen  and (max-width: 800px){
     .search-box {
-        width: 60%;
+        width: 80%;
+    }
+    .search-box {
+        margin: 45% auto;
     }
 }
 
