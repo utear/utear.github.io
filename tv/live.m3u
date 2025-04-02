@@ -251,70 +251,13 @@ http://60.4.7.6:8008/rtp/239.253.92.90:8020
 #EXTINF:-1  group-title="mylist" tvg-logo="",湖南卫视高清
 http://60.4.7.6:8008/rtp/239.253.92.84:8015
 
-
-#EXTINF:-1  group-title="4K" tvg-logo="",翡翠台4K
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-#EXTINF:-1  group-title="4K" tvg-logo="",4K SKY SPORTS MAIN EVENT 1
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SKY SPORTS FOOTBALL 4K
-http://extraott.com:80/live/6772191932/1654508883/153695.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SKY SPORTS MAIN EVENT 4K
-http://extraott.com:80/live/6772191932/1654508883/153691.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SKY SPORTS PREMIER LEAGUE 4K
-http://extraott.com:80/live/6772191932/1654508883/153693.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SKY SPORTS ACTION 4K
-http://extraott.com:80/live/6772191932/1654508883/153703.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SKY SPORTS ARENA 4K
-http://extraott.com:80/live/6772191932/1654508883/191465.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SKY SPORTS NEWS 4K
-http://extraott.com:80/live/6772191932/1654508883/153707.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SKY SPORTS RACING 4K
-http://extraott.com:80/live/6772191932/1654508883/153709.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SUPERSPORT VARIETY 3 4K
-http://extraott.com:80/live/6772191932/1654508883/190009.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",PREMIER SPORTS 1 4K
-http://extraott.com:80/live/6772191932/1654508883/153723.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",PREMIER SPORTS 2 4K
-http://extraott.com:80/live/6772191932/1654508883/153724.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",翡翠台4K
-https://cdn.163189.xyz/live/fct4k/stream.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",翡翠台 4K
-http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SKY SPORTS F1 4K
-http://extraott.com:80/live/6772191932/1654508883/191464.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SUPERSPORT PREMIER LEAGUE 4K
-http://extraott.com:80/live/6772191932/1654508883/190004.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SUPERSPORT FOOTBALL 4K
-http://extraott.com:80/live/6772191932/1654508883/190006.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SUPERSPORT VARIETY 1 4K
-http://extraott.com:80/live/6772191932/1654508883/190007.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SUPERSPORT VARIETY 4 4K
-http://extraott.com:80/live/6772191932/1654508883/190010.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",翡翠台4K
-http://cdn.132.us.kg/live/fct4k/stream.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",苏州4k
-https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="https://www.iptv-search.com/static/channellogo/img/CCTV4.png",CCTV4
-http://xiaoya.crccxw.top:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",咪咕直播 4K
-http://www.xzbn.site:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
-#EXTINF:-1  group-title="4K" tvg-logo="https://www.iptv-search.com/static/channellogo/img/CCTV4.png",CCTV4
-http://39.77.34.83:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="https://www.iptv-search.com/static/channellogo/img/CCTV4.png",CCTV4
-http://117.14.55.26:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SUPERSPORT ACTION 4K
-http://extraott.com:80/live/6772191932/1654508883/190015.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",SUPERSPORT VARIETY 2 4K
-http://extraott.com:80/live/6772191932/1654508883/190008.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",玉林综合
-http://51742.hlsplay.aodianyun.com/tv_radio_51742/tv_channel_3289.m3u8?auth_key=4846965841-0-0-9764667fa15da8675d9343a9d685e93b&extra_key=3G7phQNujucfjDfVZX7XtFsfMjeELWIZpjNRADdYpRWOUdAykIw7RkxbAmiF9U934MKf8LNlRPUVp9ooT4UEvKJQlaJrZuMqJnw-UvayII5G4kw7jFgAqhhjpD4DC7gyZEtynT7zMnF8xzE3J1g6soaagSkmkag_tsjqRTH1zeM
 #EXTINF:-1  group-title="4K" tvg-logo="",百事通4K备
 http://218.1.237.199:4022/udp/239.45.3.107:5140
 #EXTINF:-1  group-title="4K" tvg-logo="",百事通4K
 http://218.1.237.199:4022/udp/239.45.1.42:5140
-#EXTINF:-1  group-title="4K" tvg-logo="https://www.iptv-search.com/static/channellogo/img/CCTV4.png",CCTV4
+#EXTINF:-1  group-title="4K" tvg-logo="CCTV4K.png",CCTV4K
 http://huashetou.fun:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="https://www.iptv-search.com/static/channellogo/img/CCTV4.png",CCTV4
+#EXTINF:-1  group-title="4K" tvg-logo="CCTV4K.png",CCTV4K
 http://nas.suntao.online:35455/gaoma/cctv4k.m3u8
 #EXTINF:-1  group-title="4K" tvg-logo="",CCTV16奥林匹克4K
 http://27.16.132.100:8686/rtp/239.69.1.249:11136
@@ -322,17 +265,11 @@ http://27.16.132.100:8686/rtp/239.69.1.249:11136
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
 #EXTINF:-1  group-title="4K" tvg-logo="",北京IPTV 4K超清
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
-#EXTINF:-1  group-title="4K" tvg-logo="",爱上4K17M2160
-http://171.213.135.54:9100/udp/239.93.1.251:8224
-#EXTINF:-1  group-title="4K" tvg-logo="https://www.iptv-search.com/static/channellogo/img/ah4k.png",爱上4K
-http://171.213.135.54:9100/udp/239.93.0.97:5140
-#EXTINF:-1  group-title="4K" tvg-logo="",4K SKY SPORTS MAIN EVENT 1
-https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",CCTV164K
+#EXTINF:-1  group-title="4K" tvg-logo="",CCTV16-4K
 http://115.237.61.231:8888/udp/233.50.201.63:5140
-#EXTINF:-1  group-title="4K" tvg-logo="https://www.iptv-search.com/static/channellogo/img/CCTV4.png",CCTV4
+#EXTINF:-1  group-title="4K" tvg-logo="CCTV4K.png",CCTV4K
 http://lt.hxtre.com:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="https://www.iptv-search.com/static/channellogo/img/CCTV4.png",CCTV4
+#EXTINF:-1  group-title="4K" tvg-logo="CCTV4K",CCTV4K
 https://stream1.freetv.fun/cctv4k-2.ctv
 #EXTINF:-1  group-title="4K" tvg-logo="",WWE NETWORK 4K
 http://extraott.com:80/live/6772191932/1654508883/153736.m3u8
@@ -340,26 +277,10 @@ http://extraott.com:80/live/6772191932/1654508883/153736.m3u8
 http://171.110.10.138:8181/tsfile/live/1068_1.m3u8
 #EXTINF:-1  group-title="4K" tvg-logo="https://www.iptv-search.com/static/channellogo/img/cx4k.png",纯享4K
 http://home.wwang.pw:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
-#EXTINF:-1  group-title="4K" tvg-logo="https://i.imgur.com/vQuyyWO.png",Fashion TV UHD (2160p)
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="https://i.imgur.com/xy7W0wD.png",Persiana 4Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="https://i.imgur.com/skkDR7q.png",НТС (Севастополь) (1080p) [Not 24/7]
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
+
 #EXTINF:-1  group-title="4K" tvg-logo="https://i.imgur.com/JEDlYlh.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",4K Travel TV
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="https://i.imgur.com/e5W91v2.png",Humor Mill TV (1080p)
-https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",EUROSPORT 1 4K
-http://extraott.com:80/live/6772191932/1654508883/190459.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="",EUROSPORT 2 4K
-http://extraott.com:80/live/6772191932/1654508883/190461.m3u8
-#EXTINF:-1  group-title="4K" tvg-logo="https://www.iptv-search.com/static/channellogo/img/hxjc4k.png",欢笑剧场4K
-http://121.237.246.194:8888/rtp/239.49.8.231:6000
+
 #EXTINF:-1  group-title="4K" tvg-logo="",4K现场高清
 http://121.237.246.194:8888/rtp/239.49.8.222:6000
 #EXTINF:-1  group-title="4K" tvg-logo="",4K花园高清
