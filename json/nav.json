@@ -93,7 +93,11 @@
     { "type": "proxy", "name": "moeyy", "address": "https://ghproxy.homeboyc.cn/", "desc": "" },
     { "type": "proxy", "name": "moeyy", "address": "https://tool.mintimate.cn/gh/", "desc": "" },
 
-    { "type": "proxy", "name": "moeyy", "address": "https://git.886.be/", "desc": "" }
+    { "type": "proxy", "name": "moeyy", "address": "https://git.886.be/", "desc": "" },
+    { "type": "proxy", "name": "gh", "address": "https://ui.ghproxy.cc/", "desc": "" },
+    { "type": "proxy", "name": "gh", "address": "https://gh-proxy.ygxz.in/", "desc": "" },
+    { "type": "proxy", "name": "gh", "address": "https://gh-proxy.net/", "desc": "" },
+    { "type": "proxy", "name": "gh", "address": "https://goppx.com/", "desc": "" }
 
     
 ]
