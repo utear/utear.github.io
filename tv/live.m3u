@@ -548,6 +548,78 @@ http://101.18.30.19:808/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="云南移动" tvg-logo="",保定新闻综合
 http://101.18.30.19:808/tsfile/live/1006_1.m3u8
 
+#EXTINF:-1 tvg-id="西安新闻综合" tvg-name="西安新闻综合" tvg-logo="西安新闻综合.png" group-title="西安",西安新闻综合
+https://xatv-yt.xiancity.cn/live/1/index.m3u8
+#EXTINF:-1 tvg-id="西安都市频道" tvg-name="西安都市频道" tvg-logo="西安都市频道.png" group-title="西安",西安都市频道
+https://xatv-yt.xiancity.cn/live/2/index.m3u8
+#EXTINF:-1 tvg-id="西安商务资讯" tvg-name="西安商务资讯" tvg-logo="西安商务资讯.png" group-title="西安",西安商务资讯
+https://xatv-yt.xiancity.cn/live/3/index.m3u8
+#EXTINF:-1 tvg-id="西安戏剧影视" tvg-name="西安戏剧影视" tvg-logo="西安戏剧影视.png" group-title="西安",西安戏剧影视
+https://xatv-yt.xiancity.cn/live/4/index.m3u8
+#EXTINF:-1 tvg-id="西安丝路频道" tvg-name="西安丝路频道" tvg-logo="西安丝路频道.png" group-title="西安",西安丝路频道
+https://xatv-yt.xiancity.cn/live/5/index.m3u8
+#EXTINF:-1 tvg-id="西安移动电视" tvg-name="西安移动电视" tvg-logo="西安移动电视.png" group-title="西安",西安移动电视
+https://xatv-yt.xiancity.cn/live/7/index.m3u8
+
+#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="浙江",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="浙江",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="浙江",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="浙江",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="浙江",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
+http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
+http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江教科影院.png" group-title="浙江",浙江教科影院
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
+http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江公共新闻.png" group-title="浙江",浙江公共新闻
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江少儿.png" group-title="浙江",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/中国蓝新闻.png" group-title="浙江",中国蓝新闻
+http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江国际.png" group-title="浙江",浙江国际
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江好易购.png" group-title="浙江",浙江好易购
+http://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江浙江之声.png" group-title="浙江",浙江浙江之声
+http://ali-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江新闻广播.png" group-title="浙江",浙江新闻广播
+http://ali-m-l.cztv.com/channels/lantian/fm988/128k.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江广播经济.png" group-title="浙江",浙江广播经济
+http://ali-m-l.cztv.com/channels/lantian/fm95/128k.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江民生资讯.png" group-title="浙江",浙江民生资讯
+http://ali-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江音乐调频.png" group-title="浙江",浙江音乐调频
+http://ali-m-l.cztv.com/channels/lantian/fm968/128k.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江交通之声.png" group-title="浙江",浙江交通之声
+http://ali-m-l.cztv.com/channels/lantian/fm93/128k.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江旅游之声.png" group-title="浙江",浙江旅游之声
+http://ali-m-l.cztv.com/channels/lantian/fm1045/128k.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/浙江城市之声.png" group-title="浙江",浙江城市之声
+http://ali-m-l.cztv.com/channels/lantian/fm107/128k.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/杭州余杭平安.png" group-title="浙江",杭州余杭平安
+http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/杭州余杭未来.png" group-title="浙江",杭州余杭未来
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.bgithub.xyz/linitfor/epg/main/logo/杭州余杭综合.png" group-title="浙江",杭州余杭综合
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+
 
 #EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-name="NewTV爱情喜剧" tvg-logo="NewTV爱情喜剧.png" group-title="📽NewTV频道",NewTV爱情喜剧
 http://39.134.65.166/PLTV/88888888/224/3221225533/1.m3u8
