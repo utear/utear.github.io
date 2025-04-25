@@ -755,24 +755,6 @@ http://101.18.30.19:808/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="云南移动" tvg-logo="",保定新闻综合
 http://101.18.30.19:808/tsfile/live/1006_1.m3u8
 
-#EXTINF:-1 tvg-name="北京卫视4K超高清" tvg-logo="https://gh-proxy.com/https://raw.bgithub.xyz/fanmingming/live/main/tv/北京卫视.png" group-title="北京",北京卫视4K超高清
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1745287211&sign=afbcc89f68a54d949127f0da96ddce62
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.bgithub.xyz/fanmingming/live/main/tv/北京卫视.png" group-title="北京",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745287208&sign=2d5ca1c2bb164a248e97c28426b5dc04
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.bgithub.xyz/fanmingming/live/main/tv/北京新闻.png" group-title="北京",北京新闻
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1745287210&sign=473e67d228a539287ec269c9c60c2236
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://gh-proxy.com/https://raw.bgithub.xyz/fanmingming/live/main/tv/北京影视.png" group-title="北京",北京影视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1745287209&sign=8d8268eca6eac5749e3defb738590f74
-#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://gh-proxy.com/https://raw.bgithub.xyz/fanmingming/live/main/tv/北京生活.png" group-title="北京",北京生活
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1745287210&sign=624084eeaf39e70762684200312055b0
-#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://gh-proxy.com/https://raw.bgithub.xyz/fanmingming/live/main/tv/北京文艺.png" group-title="北京",北京文艺
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1745287209&sign=96723eae5eb1441eb566acc4c00cc99f
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://gh-proxy.com/https://raw.bgithub.xyz/fanmingming/live/main/tv/北京财经.png" group-title="北京",北京财经
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1745287210&sign=d733b0f251bb3bbf3493515ecb45ddb8
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.com/https://raw.bgithub.xyz/fanmingming/live/main/tv/北京纪实科教.png" group-title="北京",北京纪实科教
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1745287209&sign=67c25ee0d601ce757a85f4430aa85333
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.bgithub.xyz/fanmingming/live/main/tv/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1745287211&sign=40c24009ed583f7d7a0f33e9a96b8de0
 
 #EXTINF:-1 tvg-id="西安新闻综合" tvg-name="西安新闻综合" tvg-logo="西安新闻综合.png" group-title="西安",西安新闻综合
 https://xatv-yt.xiancity.cn/live/1/index.m3u8
@@ -786,6 +768,13 @@ https://xatv-yt.xiancity.cn/live/4/index.m3u8
 https://xatv-yt.xiancity.cn/live/5/index.m3u8
 #EXTINF:-1 tvg-id="西安移动电视" tvg-name="西安移动电视" tvg-logo="西安移动电视.png" group-title="西安",西安移动电视
 https://xatv-yt.xiancity.cn/live/7/index.m3u8
+
+#EXTINF:-1 tvg-id="洛阳综合" tvg-name="洛阳综合" tvg-logo="洛阳综合.png" group-title="洛阳",洛阳综合
+https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
+#EXTINF:-1 tvg-id="洛阳科教" tvg-name="洛阳综合" tvg-logo="洛阳综合.png" group-title="洛阳",洛阳科教
+https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
+#EXTINF:-1 tvg-id="洛阳科教" tvg-name="洛阳综合" tvg-logo="洛阳综合.png" group-title="洛阳",洛阳文旅
+https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
