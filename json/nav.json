@@ -51,7 +51,7 @@
     { "type": "tv", "name": "IPTV search", "address": "https://www.iptv-search.com/zh-hans/", "desc": "" },
     { "type": "tv", "name": "IPTV", "address": "http://tonkiang.us/", "desc": "" },
     { "type": "tv", "name": "tvbox线路", "address": "https://utear.github.io/tvbox.html", "desc": "" },
-    { "type": "tv", "name": "影视TV", "address": "https://www.100km.top/", "desc": "" },
+
 
     { "type": "pan", "name": "七米蓝", "address": "https://al.chirmyram.com/", "desc": "" },
     { "type": "pan", "name": "Arley’s Drive", "address": "https://pan.arley.cn/en/", "desc": "" },
