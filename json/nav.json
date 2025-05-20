@@ -35,6 +35,7 @@
 
     { "type": "bt", "name": "bt tracker", "address": "https://tk.sleele.com/", "desc": "" },
     { "type": "bt", "name": "unblockit", "address": "https://unblockit.pages.dev/", "desc": "" },
+    { "type": "bt", "name": "unblockit", "address": "https://unblockits.com/", "desc": "" },
     { "type": "bt", "name": "btsearch", "address": "https://btsearch.love/", "desc": "" },
     { "type": "bt", "name": "btjia", "address": "https://www.1lou.me", "desc": "" },
     { "type": "bt", "name": "rarbg", "address": "https://rargb.to", "desc": "" },
