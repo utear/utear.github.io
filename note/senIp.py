@@ -64,13 +64,8 @@ def get_ip_address():
         ipv6_addresses = ipv6_pattern.findall(output)
         # 提取完整的 IPv6 地址，并只保留以 2409 开头的地址
         ipv6_addrs = [addr[0] for addr in ipv6_addresses if addr[0] and '%' not in addr[0] and addr[0].startswith('2409')]
-<<<<<<< HEAD
         #return '\n'.join(ipv6_addrs)
         return ipv6_addrs[-1] if ipv6_addrs else ''
-=======
-        # return '\n'.join(ipv6_addrs)
-        return ipv6_addrs[-1] if ipv6_addrs else ''  # 返回最后一个地址，若列表为空则返回空字符串
->>>>>>> 1be197b (add logo)
     except Exception as e:
         print(f"执行命令时出现错误: {e}")
         return None
