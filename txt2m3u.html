@@ -79,7 +79,7 @@
     function convertToM3U() {
       const txtInput = document.getElementById('txtInput').value;
       const lines = txtInput.split('\n');
-      let m3uOutput = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://epg.pw/xmltv/epg_lite.xml" \n';
+      let m3uOutput = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","https://epg.112114.xyz/pp.xml","https://epg.pw/xmltv/epg_lite.xml" \n';
       let currentGroup = null;
       for (const line of lines) {
         const trimmedLine = line.trim();
