@@ -18,6 +18,10 @@ http://cdn.132.us.kg/live/fct4k/stream.m3u8
 http://111.29.9.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K",纯享·4K「IPV6」
 http://111.29.9.44:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="深圳4K" tvg-name="深圳4K" tvg-logo="https://epg.iill.top/logo/深圳4K.png" group-title="4K",深圳4K
+http://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
+#EXTINF:-1 tvg-id="深圳4K" tvg-name="深圳4K" tvg-logo="https://epg.iill.top/logo/深圳4K.png" group-title="4K",深圳4K
+线路2,http://livepull-tcyzb.sztv.com.cn/live/sz4Kpgm.m3u8
 
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K",华数·4K「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
