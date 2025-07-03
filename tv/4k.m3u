@@ -27,3 +27,5 @@ http://livepull-tcyzb.sztv.com.cn/live/sz4Kpgm.m3u8
 http://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="苏州" tvg-name="苏州_4k" tvg-logo="苏州_4k.png" group-title="4K",苏州_4k
 http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="北京卫视4k" tvg-name="北京卫视4K" tvg-logo="北京卫视4K.png" group-title="4K",北京卫视4K
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
