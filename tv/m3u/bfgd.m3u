@@ -1,0 +1,277 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","https://epg.112114.xyz/pp.xml","https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="CCTV1.png",CCTV-1HD
+http://120.76.248.139/live/bfgd/4200000484.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="CCTV1.png",CCTV-1HD
+http://120.76.248.139/live/bfgd/4200000488.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="CCTV1.png",CCTV-1HD
+http://120.76.248.139/live/bfgd/4200000489.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="CCTV1.png",CCTV-1HD
+http://120.76.248.139/live/bfgd/4200000201.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="CCTV2.png",CCTV-2HD
+http://120.76.248.139/live/bfgd/4200000061.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="CCTV3.png",CCTV-3HD
+http://120.76.248.139/live/bfgd/4200000062.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="CCTV4.png",CCTV-4HD
+http://120.76.248.139/live/bfgd/4200000063.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="CCTV5.png",CCTV-5HD
+http://120.76.248.139/live/bfgd/4200000064.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="CCTV5.png",CCTV-5+HD
+http://120.76.248.139/live/bfgd/4200000246.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="CCTV6.png",CCTV-6HD
+http://120.76.248.139/live/bfgd/4200000065.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="CCTV7.png",CCTV-7HD
+http://120.76.248.139/live/bfgd/4200000127.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="CCTV8.png",CCTV-8HD
+http://120.76.248.139/live/bfgd/4200000066.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="CCTV9.png",CCTV-9HD
+http://120.76.248.139/live/bfgd/4200000128.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="CCTV10.png",CCTV-10HD
+http://120.76.248.139/live/bfgd/4200000129.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="CCTV11.png",CCTV-11HD
+http://120.76.248.139/live/bfgd/4200000130.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="CCTV12.png",CCTV-12HD
+http://120.76.248.139/live/bfgd/4200000131.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="CCTV13.png",CCTV-13HD
+http://120.76.248.139/live/bfgd/4200000067.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="CCTV14.png",CCTV-14HD
+http://120.76.248.139/live/bfgd/4200000132.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="CCTV15.png",CCTV-15HD
+http://120.76.248.139/live/bfgd/4200000133.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="CCTV17.png",CCTV-17HD
+http://120.76.248.139/live/bfgd/4200000204.m3u8
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="CGTN阿拉伯语.png",CGTN阿拉伯语
+http://120.76.248.139/live/bfgd/4200000308.m3u8
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="CGTN西班牙语.png",CGTN西班牙语
+http://120.76.248.139/live/bfgd/4200000306.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="CGTN法语.png",CGTN法语
+http://120.76.248.139/live/bfgd/4200000307.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="CGTN.png",CGTN
+http://120.76.248.139/live/bfgd/4200000134.m3u8
+#EXTINF:-1 tvg-id="CGTN俄罗斯语" tvg-name="CGTN俄罗斯语" tvg-logo="CGTN俄罗斯语.png",CGTN俄罗斯语
+http://120.76.248.139/live/bfgd/4200000309.m3u8
+#EXTINF:-1 tvg-id="中国教育1" tvg-name="中国教育1" tvg-logo="中国教育1.png",中国教育1
+http://120.76.248.139/live/bfgd/4200000135.m3u8
+#EXTINF:-1 tvg-id="中国教育2" tvg-name="中国教育2" tvg-logo="中国教育2.png",中国教育2
+http://120.76.248.139/live/bfgd/4200000492.m3u8
+#EXTINF:-1 tvg-id="CHC华诚影视" tvg-name="CHC华诚影视" tvg-logo="CHC华诚影视.png",CHC华诚影视
+http://120.76.248.139/live/bfgd/4200000289.m3u8
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-name="安徽卫视HD" tvg-logo="安徽卫视HD.png",安徽卫视HD
+http://120.76.248.139/live/bfgd/4200000096.m3u8
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-name="北京卫视HD" tvg-logo="北京卫视HD.png",北京卫视HD
+http://120.76.248.139/live/bfgd/4200000083.m3u8
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="北京纪实科教.png",北京纪实科教
+http://120.76.248.139/live/bfgd/4200000113.m3u8
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="北京卡酷少儿.png",北京卡酷少儿
+http://120.76.248.139/live/bfgd/4200000106.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="兵团卫视.png",兵团卫视
+http://120.76.248.139/live/bfgd/4200000124.m3u8
+#EXTINF:-1 tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="百姓健康.png",百姓健康
+http://120.76.248.139/live/bfgd/4200000219.m3u8
+#EXTINF:-1 tvg-id="车迷频道" tvg-name="车迷频道" tvg-logo="车迷频道.png",车迷频道
+http://120.76.248.139/live/bfgd/4200000146.m3u8
+#EXTINF:-1 tvg-id="重庆汽摩" tvg-name="重庆汽摩" tvg-logo="重庆汽摩.png",重庆汽摩
+http://120.76.248.139/live/bfgd/4200000168.m3u8
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-name="重庆卫视HD" tvg-logo="重庆卫视HD.png",重庆卫视HD
+http://120.76.248.139/live/bfgd/4200000107.m3u8
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="重温经典.png",重温经典
+http://120.76.248.139/live/bfgd/4200000635.m3u8
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="重温经典.png",重温经典
+http://120.76.248.139/live/bfgd/4200000636.m3u8
+#EXTINF:-1 tvg-id="东方卫视HD" tvg-name="东方卫视HD" tvg-logo="东方卫视HD.png",东方卫视HD
+http://120.76.248.139/live/bfgd/4200000093.m3u8
+#EXTINF:-1 tvg-id="东南卫视HD" tvg-name="东南卫视HD" tvg-logo="东南卫视HD.png",东南卫视HD
+http://120.76.248.139/live/bfgd/4200000483.m3u8
+#EXTINF:-1 tvg-id="CCTV-电视指南" tvg-name="CCTV-电视指南" tvg-logo="CCTV-电视指南.png",CCTV-电视指南
+http://120.76.248.139/live/bfgd/4200000164.m3u8
+#EXTINF:-1 tvg-id="中央新影-发现之旅" tvg-name="中央新影-发现之旅" tvg-logo="中央新影-发现之旅.png",中央新影-发现之旅
+http://120.76.248.139/live/bfgd/4200000151.m3u8
+#EXTINF:-1 tvg-id="CCTV-风云足球" tvg-name="CCTV-风云足球" tvg-logo="CCTV-风云足球.png",CCTV-风云足球
+http://120.76.248.139/live/bfgd/4200000225.m3u8
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="法治天地.png",法治天地
+http://120.76.248.139/live/bfgd/4200000162.m3u8
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-name="广东卫视HD" tvg-logo="广东卫视HD.png",广东卫视HD
+http://120.76.248.139/live/bfgd/4200000092.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-name="甘肃卫视HD" tvg-logo="甘肃卫视HD.png",甘肃卫视HD
+http://120.76.248.139/live/bfgd/4200000119.m3u8
+#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="国学频道.png",国学频道
+http://120.76.248.139/live/bfgd/4200000169.m3u8
+#EXTINF:-1 tvg-id="广西卫视HD" tvg-name="广西卫视HD" tvg-logo="广西卫视HD.png",广西卫视HD
+http://120.76.248.139/live/bfgd/4200000116.m3u8
+#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="天元围棋.png",天元围棋
+http://120.76.248.139/live/bfgd/4200000633.m3u8
+#EXTINF:-1 tvg-id="贵州卫视HD" tvg-name="贵州卫视HD" tvg-logo="贵州卫视HD.png",贵州卫视HD
+http://120.76.248.139/live/bfgd/4200000101.m3u8
+#EXTINF:-1 tvg-id="河南卫视HD" tvg-name="河南卫视HD" tvg-logo="河南卫视HD.png",河南卫视HD
+http://120.76.248.139/live/bfgd/4200000339.m3u8
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-name="湖北卫视HD" tvg-logo="湖北卫视HD.png",湖北卫视HD
+http://120.76.248.139/live/bfgd/4200000102.m3u8
+#EXTINF:-1 tvg-id="河北卫视HD" tvg-name="河北卫视HD" tvg-logo="河北卫视HD.png",河北卫视HD
+http://120.76.248.139/live/bfgd/4200000108.m3u8
+#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV-怀旧剧场" tvg-logo="CCTV-怀旧剧场.png",CCTV-怀旧剧场
+http://120.76.248.139/live/bfgd/4200000224.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-name="黑龙江卫视HD" tvg-logo="黑龙江卫视HD.png",黑龙江卫视HD
+http://120.76.248.139/live/bfgd/4200000095.m3u8
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="茶频道.png",茶频道
+http://120.76.248.139/live/bfgd/4200000181.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="金鹰卡通.png",金鹰卡通
+http://120.76.248.139/live/bfgd/4200000350.m3u8
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="快乐垂钓.png",快乐垂钓
+http://120.76.248.139/live/bfgd/4200000228.m3u8
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-name="湖南卫视HD" tvg-logo="湖南卫视HD.png",湖南卫视HD
+http://120.76.248.139/live/bfgd/4200000086.m3u8
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="先锋乒羽.png",先锋乒羽
+http://120.76.248.139/live/bfgd/4200000349.m3u8
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="环球旅游.png",环球旅游
+http://120.76.248.139/live/bfgd/4200000147.m3u8
+#EXTINF:-1 tvg-id="吉林卫视HD" tvg-name="吉林卫视HD" tvg-logo="吉林卫视HD.png",吉林卫视HD
+http://120.76.248.139/live/bfgd/4200000097.m3u8
+#EXTINF:-1 tvg-id="江苏财富天下" tvg-name="江苏财富天下" tvg-logo="江苏财富天下.png",江苏财富天下
+http://120.76.248.139/live/bfgd/4200000231.m3u8
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-name="江苏卫视HD" tvg-logo="江苏卫视HD.png",江苏卫视HD
+http://120.76.248.139/live/bfgd/4200000085.m3u8
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="家庭理财.png",家庭理财
+http://120.76.248.139/live/bfgd/4200000139.m3u8
+#EXTINF:-1 tvg-id="江西卫视HD" tvg-name="江西卫视HD" tvg-logo="江西卫视HD.png",江西卫视HD
+http://120.76.248.139/live/bfgd/4200000098.m3u8
+#EXTINF:-1 tvg-id="中央新影-老故事" tvg-name="中央新影-老故事" tvg-logo="中央新影-老故事.png",中央新影-老故事
+http://120.76.248.139/live/bfgd/4200000166.m3u8
+#EXTINF:-1 tvg-id="鞍山新闻综合" tvg-name="鞍山新闻综合" tvg-logo="鞍山新闻综合.png",鞍山新闻综合
+http://120.76.248.139/live/bfgd/4200000274.m3u8
+#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="辽宁北方.png",辽宁北方
+http://120.76.248.139/live/bfgd/4200000071.m3u8
+#EXTINF:-1 tvg-id="本溪新闻频道" tvg-name="本溪新闻频道" tvg-logo="本溪新闻频道.png",本溪新闻频道
+http://120.76.248.139/live/bfgd/4200000312.m3u8
+#EXTINF:-1 tvg-id="朝阳新闻综合" tvg-name="朝阳新闻综合" tvg-logo="朝阳新闻综合.png",朝阳新闻综合
+http://120.76.248.139/live/bfgd/4200000282.m3u8
+#EXTINF:-1 tvg-id="辽宁导视" tvg-name="辽宁导视" tvg-logo="辽宁导视.png",辽宁导视
+http://120.76.248.139/live/bfgd/4200000187.m3u8
+#EXTINF:-1 tvg-id="丹东新闻综合" tvg-name="丹东新闻综合" tvg-logo="丹东新闻综合.png",丹东新闻综合
+http://120.76.248.139/live/bfgd/4200000276.m3u8
+#EXTINF:-1 tvg-id="大连新闻综合" tvg-name="大连新闻综合" tvg-logo="大连新闻综合.png",大连新闻综合
+http://120.76.248.139/live/bfgd/4200000273.m3u8
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="辽宁都市.png",辽宁都市
+http://120.76.248.139/live/bfgd/4200000610.m3u8
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="辽宁都市.png",辽宁都市
+http://120.76.248.139/live/bfgd/4200000068.m3u8
+#EXTINF:-1 tvg-id="抚顺新闻综合" tvg-name="抚顺新闻综合" tvg-logo="抚顺新闻综合.png",抚顺新闻综合
+http://120.76.248.139/live/bfgd/4200000275.m3u8
+#EXTINF:-1 tvg-id="阜新新闻综合" tvg-name="阜新新闻综合" tvg-logo="阜新新闻综合.png",阜新新闻综合
+http://120.76.248.139/live/bfgd/4200000279.m3u8
+#EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="辽宁公共.png",辽宁公共
+http://120.76.248.139/live/bfgd/4200000481.m3u8
+#EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="辽宁公共.png",辽宁公共
+http://120.76.248.139/live/bfgd/4200000077.m3u8
+#EXTINF:-1 tvg-id="葫芦岛新闻综合" tvg-name="葫芦岛新闻综合" tvg-logo="葫芦岛新闻综合.png",葫芦岛新闻综合
+http://120.76.248.139/live/bfgd/4200000284.m3u8
+#EXTINF:-1 tvg-id="龙港综合" tvg-name="龙港综合" tvg-logo="龙港综合.png",龙港综合
+http://120.76.248.139/live/bfgd/4200000490.m3u8
+#EXTINF:-1 tvg-id="连山综合" tvg-name="连山综合" tvg-logo="连山综合.png",连山综合
+http://120.76.248.139/live/bfgd/4200000491.m3u8
+#EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="辽宁经济.png",辽宁经济
+http://120.76.248.139/live/bfgd/4200000076.m3u8
+#EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="辽宁经济.png",辽宁经济
+http://120.76.248.139/live/bfgd/4200000480.m3u8
+#EXTINF:-1 tvg-id="辽宁教育青少" tvg-name="辽宁教育青少" tvg-logo="辽宁教育青少.png",辽宁教育青少
+http://120.76.248.139/live/bfgd/4200000075.m3u8
+#EXTINF:-1 tvg-id="锦州新闻综合" tvg-name="锦州新闻综合" tvg-logo="锦州新闻综合.png",锦州新闻综合
+http://120.76.248.139/live/bfgd/4200000277.m3u8
+#EXTINF:-1 tvg-id="辽阳新闻综合" tvg-name="辽阳新闻综合" tvg-logo="辽阳新闻综合.png",辽阳新闻综合
+http://120.76.248.139/live/bfgd/4200000280.m3u8
+#EXTINF:-1 tvg-id="盘锦新闻综合" tvg-name="盘锦新闻综合" tvg-logo="盘锦新闻综合.png",盘锦新闻综合
+http://120.76.248.139/live/bfgd/4200000283.m3u8
+#EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="辽宁生活.png",辽宁生活
+http://120.76.248.139/live/bfgd/4200000073.m3u8
+#EXTINF:-1 tvg-id="沈阳新闻" tvg-name="沈阳新闻" tvg-logo="沈阳新闻.png",沈阳新闻
+http://120.76.248.139/live/bfgd/4200000059.m3u8
+#EXTINF:-1 tvg-id="铁岭综合频道" tvg-name="铁岭综合频道" tvg-logo="铁岭综合频道.png",铁岭综合频道
+http://120.76.248.139/live/bfgd/4200000281.m3u8
+#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="辽宁体育.png",辽宁体育
+http://120.76.248.139/live/bfgd/4200000611.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png",辽宁卫视
+http://120.76.248.139/live/bfgd/4200000141.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png",辽宁卫视
+http://120.76.248.139/live/bfgd/4200000185.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-name="辽宁卫视HD" tvg-logo="辽宁卫视HD.png",辽宁卫视HD
+http://120.76.248.139/live/bfgd/4200000058.m3u8
+#EXTINF:-1 tvg-id="营口新闻频道" tvg-name="营口新闻频道" tvg-logo="营口新闻频道.png",营口新闻频道
+http://120.76.248.139/live/bfgd/4200000278.m3u8
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="辽宁影视剧.png",辽宁影视剧
+http://120.76.248.139/live/bfgd/4200000070.m3u8
+#EXTINF:-1 tvg-id="海南卫视HD" tvg-name="海南卫视HD" tvg-logo="海南卫视HD.png",海南卫视HD
+http://120.76.248.139/live/bfgd/4200000473.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png",内蒙古卫视
+http://120.76.248.139/live/bfgd/4200000110.m3u8
+#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV-女性时尚" tvg-logo="CCTV-女性时尚.png",CCTV-女性时尚
+http://120.76.248.139/live/bfgd/4200000176.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="宁夏卫视.png",宁夏卫视
+http://120.76.248.139/live/bfgd/4200000118.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="青海卫视.png",青海卫视
+http://120.76.248.139/live/bfgd/4200000111.m3u8
+#EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="收藏天下.png",收藏天下
+http://120.76.248.139/live/bfgd/4200000155.m3u8
+#EXTINF:-1 tvg-id="四川卫视HD" tvg-name="四川卫视HD" tvg-logo="四川卫视HD.png",四川卫视HD
+http://120.76.248.139/live/bfgd/4200000103.m3u8
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="山东教育卫视.png",山东教育卫视
+http://120.76.248.139/live/bfgd/4200000112.m3u8
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-name="山东卫视HD" tvg-logo="山东卫视HD.png",山东卫视HD
+http://120.76.248.139/live/bfgd/4200000099.m3u8
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="四海钓鱼.png",四海钓鱼
+http://120.76.248.139/live/bfgd/4200000229.m3u8
+#EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="书画频道.png",书画频道
+http://120.76.248.139/live/bfgd/4200000180.m3u8
+#EXTINF:-1 tvg-id="CCTV-世界地理" tvg-name="CCTV-世界地理" tvg-logo="CCTV-世界地理.png",CCTV-世界地理
+http://120.76.248.139/live/bfgd/4200000177.m3u8
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="农林卫视.png",农林卫视
+http://120.76.248.139/live/bfgd/4200000122.m3u8
+#EXTINF:-1 tvg-id="陕西卫视HD" tvg-name="陕西卫视HD" tvg-logo="陕西卫视HD.png",陕西卫视HD
+http://120.76.248.139/live/bfgd/4200000512.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="山西卫视.png",山西卫视
+http://120.76.248.139/live/bfgd/4200000109.m3u8
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-name="深圳卫视HD" tvg-logo="深圳卫视HD.png",深圳卫视HD
+http://120.76.248.139/live/bfgd/4200000100.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="新疆卫视.png",新疆卫视
+http://120.76.248.139/live/bfgd/4200000150.m3u8
+#EXTINF:-1 tvg-id="新视觉HD" tvg-name="新视觉HD" tvg-logo="新视觉HD.png",新视觉HD
+http://120.76.248.139/live/bfgd/4200000249.m3u8
+#EXTINF:-1 tvg-id="生态环境频道" tvg-name="生态环境频道" tvg-logo="生态环境频道.png",生态环境频道
+http://120.76.248.139/live/bfgd/4200000149.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="西藏卫视.png",西藏卫视
+http://120.76.248.139/live/bfgd/4200000121.m3u8
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="延边卫视.png",延边卫视
+http://120.76.248.139/live/bfgd/4200000117.m3u8
+#EXTINF:-1 tvg-id="云南卫视HD" tvg-name="云南卫视HD" tvg-logo="云南卫视HD.png",云南卫视HD
+http://120.76.248.139/live/bfgd/4200000482.m3u8
+#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="优优宝贝.png",优优宝贝
+http://120.76.248.139/live/bfgd/4200000153.m3u8
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="中华特产.png",中华特产
+http://120.76.248.139/live/bfgd/4200000158.m3u8
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-name="浙江卫视HD" tvg-logo="浙江卫视HD.png",浙江卫视HD
+http://120.76.248.139/live/bfgd/4200000094.m3u8
+#EXTINF:-1 tvg-id="INBM证券服务" tvg-name="INBM证券服务" tvg-logo="INBM证券服务.png",INBM证券服务
+http://120.76.248.139/live/bfgd/4200000601.m3u8
+#EXTINF:-1 tvg-id="纪录片" tvg-name="纪录片" tvg-logo="纪录片.png",纪录片
+http://120.76.248.139/live/bfgd/4200000615.m3u8
+#EXTINF:-1 tvg-id="纪录片" tvg-name="纪录片" tvg-logo="纪录片.png",纪录片
+http://120.76.248.139/live/bfgd/4200000286.m3u8
+#EXTINF:-1 tvg-id="纪录片" tvg-name="纪录片" tvg-logo="纪录片.png",纪录片
+http://120.76.248.139/live/bfgd/4200000287.m3u8
+#EXTINF:-1 tvg-id="纪录片" tvg-name="纪录片" tvg-logo="纪录片.png",纪录片
+http://120.76.248.139/live/bfgd/4200000288.m3u8
+#EXTINF:-1 tvg-id="购物" tvg-name="购物" tvg-logo="购物.png",购物
+http://120.76.248.139/live/bfgd/4200000626.m3u8
+#EXTINF:-1 tvg-id="轮播" tvg-name="轮播" tvg-logo="轮播.png",轮播
+http://120.76.248.139/live/bfgd/4200000290.m3u8
+#EXTINF:-1 tvg-id="轮播" tvg-name="轮播" tvg-logo="轮播.png",轮播
+http://120.76.248.139/live/bfgd/4200000291.m3u8
+#EXTINF:-1 tvg-id="轮播" tvg-name="轮播" tvg-logo="轮播.png",轮播
+http://120.76.248.139/live/bfgd/4200000292.m3u8
+#EXTINF:-1 tvg-id="轮播" tvg-name="轮播" tvg-logo="轮播.png",轮播
+http://120.76.248.139/live/bfgd/4200000293.m3u8
+#EXTINF:-1 tvg-id="轮播" tvg-name="轮播" tvg-logo="轮播.png",轮播
+http://120.76.248.139/live/bfgd/4200000295.m3u8
+#EXTINF:-1 tvg-id="轮播" tvg-name="轮播" tvg-logo="轮播.png",轮播
+http://120.76.248.139/live/bfgd/4200000296.m3u8
+#EXTINF:-1 tvg-id="轮播" tvg-name="轮播" tvg-logo="轮播.png",轮播
+http://120.76.248.139/live/bfgd/4200000297.m3u8
+#EXTINF:-1 tvg-id="轮播" tvg-name="轮播" tvg-logo="轮播.png",轮播
+http://120.76.248.139/live/bfgd/4200000298.m3u8
