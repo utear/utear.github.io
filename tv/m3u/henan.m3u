@@ -1,0 +1,349 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","https://epg.112114.xyz/pp.xml","https://epg.pw/xmltv/epg_lite.xml" 
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="CCTV1.png",CCTV-1
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="CCTV2.png",CCTV-2
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="CCTV3.png",CCTV-3
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="CCTV4.png",CCTV-4
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="CCTV5.png",CCTV-5
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="CCTV5+.png",CCTV5+
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="CCTV6.png",CCTV-6
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="CCTV7.png",CCTV-7
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226678/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="CCTV8.png",CCTV-8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226687/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="CCTV9.png",CCTV-9
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="CCTV10.png",CCTV-10
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226528/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="CCTV11.png",CCTV-11
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="CCTV12.png",CCTV-12
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="CCTV13.png",CCTV-13
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="CCTV14.png",CCTV-14
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="CCTV15.png",CCTV-15
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="CCTV17.png",CCTV-17
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="河南卫视.png",河南卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="河南都市.png",河南都市
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226649/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="民生频道" tvg-name="民生频道" tvg-logo="民生频道.png",民生频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226685/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="法制频道" tvg-name="法制频道" tvg-logo="法制频道.png",法制频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226724/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南电视剧频道" tvg-name="河南电视剧频道" tvg-logo="河南电视剧频道.png",河南电视剧频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226521/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南新闻频道" tvg-name="河南新闻频道" tvg-logo="河南新闻频道.png",河南新闻频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226544/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南公共频道" tvg-name="河南公共频道" tvg-logo="河南公共频道.png",河南公共频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南乡村频道" tvg-name="河南乡村频道" tvg-logo="河南乡村频道.png",河南乡村频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226576/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南国际频道" tvg-name="河南国际频道" tvg-logo="河南国际频道.png",河南国际频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226588/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南移动戏曲" tvg-name="河南移动戏曲" tvg-logo="河南移动戏曲.png",河南移动戏曲
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南文物宝库" tvg-name="河南文物宝库" tvg-logo="河南文物宝库.png",河南文物宝库
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226447/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="河南戏曲.png",河南戏曲
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南中华功夫" tvg-name="河南中华功夫" tvg-logo="河南中华功夫.png",河南中华功夫
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="浙江卫视.png",浙江卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226682/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="东方卫视.png",东方卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226681/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="江苏卫视.png",江苏卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226722/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="北京卫视.png",北京卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226519/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="广东卫视.png",广东卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png",黑龙江卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226533/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="山东卫视.png",山东卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226564/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="安徽卫视.png",安徽卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226578/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png",辽宁卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226586/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="陕西卫视.png",陕西卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="贵州卫视.png",贵州卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226632/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="河北卫视.png",河北卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226611/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="江西卫视.png",江西卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226594/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="湖南卫视.png",湖南卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226659/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="深圳卫视.png",深圳卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226700/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="四川卫视.png",四川卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="湖北卫视.png",湖北卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="天津卫视.png",天津卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226621/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="云南卫视.png",云南卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="重庆卫视.png",重庆卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="吉林卫视.png",吉林卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="宁夏卫视.png",宁夏卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226710/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="东南卫视.png",东南卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226720/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png",内蒙古卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="广西卫视.png",广西卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="山西卫视.png",山西卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="海南卫视.png",海南卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226562/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="甘肃卫视.png",甘肃卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="青海卫视.png",青海卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226584/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="金鹰卡通.png",金鹰卡通
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="嘉佳卡通.png",嘉佳卡通
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226601/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="卡酷动画.png",卡酷动画
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226640/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="炫动卡通.png",炫动卡通
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226596/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="新疆卫视.png",新疆卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226657/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="西藏卫视.png",西藏卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226669/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="优漫卡通.png",优漫卡通
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226606/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="延边卫视.png",延边卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227253/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="康巴卫视.png",康巴卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227259/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="信阳综合频道" tvg-name="信阳综合频道" tvg-logo="信阳综合频道.png",信阳综合频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226646/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="信阳教育台" tvg-name="信阳教育台" tvg-logo="信阳教育台.png",信阳教育台
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226674/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="信阳浉河频道" tvg-name="信阳浉河频道" tvg-logo="信阳浉河频道.png",信阳浉河频道
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226651/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="信阳平桥广电" tvg-name="信阳平桥广电" tvg-logo="信阳平桥广电.png",信阳平桥广电
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226683/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="欢笑剧场.png",欢笑剧场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="纪实人文.png",纪实人文
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="都市剧场.png",都市剧场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="动漫秀场.png",动漫秀场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="快乐垂钓.png",快乐垂钓
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226670/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="光山县一套" tvg-name="光山县一套" tvg-logo="光山县一套.png",光山县一套
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="新县一套" tvg-name="新县一套" tvg-logo="新县一套.png",新县一套
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227090/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="河南卫视4K.png",河南卫视4K
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="中国教育" tvg-name="中国教育" tvg-logo="中国教育.png",中国教育
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226592/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="中国教育" tvg-name="中国教育" tvg-logo="中国教育.png",中国教育
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="中国教育" tvg-name="中国教育" tvg-logo="中国教育.png",中国教育
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="信阳综合频道" tvg-name="信阳综合频道" tvg-logo="信阳综合频道.png",信阳综合频道
+http://222.85.69.6/PLTV/88888888/224/3221226967/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="信阳浉河频道" tvg-name="信阳浉河频道" tvg-logo="信阳浉河频道.png",信阳浉河频道
+http://222.85.69.6/PLTV/88888888/224/3221226950/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="都市剧场.png",都市剧场
+http://222.85.69.6/PLTV/88888888/224/3221227127/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="欢笑剧场.png",欢笑剧场
+http://222.85.69.6/PLTV/88888888/224/3221227134/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="新县一套" tvg-name="新县一套" tvg-logo="新县一套.png",新县一套
+http://222.85.69.6/PLTV/88888888/224/3221227212/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="河南卫视4K.png",河南卫视4K
+http://222.85.69.6/PLTV/88888888/224/3221226954/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="光山县一套" tvg-name="光山县一套" tvg-logo="光山县一套.png",光山县一套
+http://222.85.69.6/PLTV/88888888/224/3221227184/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="河南戏曲.png",河南戏曲
+http://222.85.69.6/PLTV/88888888/224/3221226996/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="河南卫视.png",河南卫视
+http://222.85.69.6/PLTV/88888888/224/3221226984/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="浙江卫视.png",浙江卫视
+http://222.85.69.6/PLTV/88888888/224/3221227008/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="东方卫视.png",东方卫视
+http://222.85.69.6/PLTV/88888888/224/3221227020/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="江苏卫视.png",江苏卫视
+http://222.85.69.6/PLTV/88888888/224/3221227007/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="北京卫视.png",北京卫视
+http://222.85.69.6/PLTV/88888888/224/3221227036/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="广东卫视.png",广东卫视
+http://222.85.69.6/PLTV/88888888/224/3221227033/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png",黑龙江卫视
+http://222.85.69.6/PLTV/88888888/224/3221227039/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="山东卫视.png",山东卫视
+http://222.85.69.6/PLTV/88888888/224/3221227004/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="安徽卫视.png",安徽卫视
+http://222.85.69.6/PLTV/88888888/224/3221227017/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png",辽宁卫视
+http://222.85.69.6/PLTV/88888888/224/3221227014/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="陕西卫视.png",陕西卫视
+http://222.85.69.6/PLTV/88888888/224/3221227011/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="贵州卫视.png",贵州卫视
+http://222.85.69.6/PLTV/88888888/224/3221227001/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="河北卫视.png",河北卫视
+http://222.85.69.6/PLTV/88888888/224/3221227027/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="江西卫视.png",江西卫视
+http://222.85.69.6/PLTV/88888888/224/3221227024/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="湖南卫视.png",湖南卫视
+http://222.85.69.6/PLTV/88888888/224/3221227021/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="深圳卫视.png",深圳卫视
+http://222.85.69.6/PLTV/88888888/224/3221227029/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="四川卫视.png",四川卫视
+http://222.85.69.6/PLTV/88888888/224/3221227026/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="湖北卫视.png",湖北卫视
+http://222.85.69.6/PLTV/88888888/224/3221227057/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="天津卫视.png",天津卫视
+http://222.85.69.6/PLTV/88888888/224/3221227054/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="云南卫视.png",云南卫视
+http://222.85.69.6/PLTV/88888888/224/3221227051/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="重庆卫视.png",重庆卫视
+http://222.85.69.6/PLTV/88888888/224/3221227025/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="吉林卫视.png",吉林卫视
+http://222.85.69.6/PLTV/88888888/224/3221227022/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="宁夏卫视.png",宁夏卫视
+http://222.85.69.6/PLTV/88888888/224/3221227019/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="东南卫视.png",东南卫视
+http://222.85.69.6/PLTV/88888888/224/3221227023/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png",内蒙古卫视
+http://222.85.69.6/PLTV/88888888/224/3221227048/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="广西卫视.png",广西卫视
+http://222.85.69.6/PLTV/88888888/224/3221227045/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="山西卫视.png",山西卫视
+http://222.85.69.6/PLTV/88888888/224/3221227042/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="海南卫视.png",海南卫视
+http://222.85.69.6/PLTV/88888888/224/3221227016/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="甘肃卫视.png",甘肃卫视
+http://222.85.69.6/PLTV/88888888/224/3221227013/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="青海卫视.png",青海卫视
+http://222.85.69.6/PLTV/88888888/224/3221227010/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="金鹰卡通.png",金鹰卡通
+http://222.85.69.6/PLTV/88888888/224/3221227012/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="嘉佳卡通.png",嘉佳卡通
+http://222.85.69.6/PLTV/88888888/224/3221226995/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="卡酷动画.png",卡酷动画
+http://222.85.69.6/PLTV/88888888/224/3221226992/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="炫动卡通.png",炫动卡通
+http://222.85.69.6/PLTV/88888888/224/3221227002/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="新疆卫视.png",新疆卫视
+http://222.85.69.6/PLTV/88888888/224/3221227009/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="西藏卫视.png",西藏卫视
+http://222.85.69.6/PLTV/88888888/224/3221227006/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="优漫卡通.png",优漫卡通
+http://222.85.69.6/PLTV/88888888/224/3221227031/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="超越巅峰" tvg-name="超越巅峰" tvg-logo="超越巅峰.png",超越巅峰
+http://222.85.69.6/88888888/16/20210617/271364290/271364290.ts
+#EXTINF:-1 tvg-id="肇事逃逸" tvg-name="肇事逃逸" tvg-logo="肇事逃逸.png",肇事逃逸
+http://222.85.69.6/88888888/16/20210605/271329254/271329254.ts
+#EXTINF:-1 tvg-id="永夜惊魂" tvg-name="永夜惊魂" tvg-logo="永夜惊魂.png",永夜惊魂
+http://222.85.69.6/88888888/16/20210604/271323833/271323833.ts
+#EXTINF:-1 tvg-id="森林深处4" tvg-name="森林深处4" tvg-logo="森林深处4.png",森林深处4
+http://222.85.69.6/88888888/16/20210528/271299431/271299431.ts
+#EXTINF:-1 tvg-id="浮华宴" tvg-name="浮华宴" tvg-logo="浮华宴.png",浮华宴
+http://222.85.69.6/88888888/16/20210619/271375448/271375448.ts
+#EXTINF:-1 tvg-id="警擦故事2013" tvg-name="警擦故事2013" tvg-logo="警擦故事2013.png",警擦故事2013
+http://222.85.69.6/88888888/16/20210528/271297100/271297100.ts
+#EXTINF:-1 tvg-id="人皮面具" tvg-name="人皮面具" tvg-logo="人皮面具.png",人皮面具
+http://222.85.69.6/88888888/16/20230510/272375525/272375525.ts
+#EXTINF:-1 tvg-id="碟仙ll" tvg-name="碟仙ll" tvg-logo="碟仙ll.png",碟仙ll
+http://222.85.69.6/88888888/16/20230510/272377737/272377737.ts
+#EXTINF:-1 tvg-id="叶问" tvg-name="叶问" tvg-logo="叶问.png",叶问
+http://222.85.69.6/88888888/16/20211027/271736089/271736089.ts
+#EXTINF:-1 tvg-id="异兽来袭" tvg-name="异兽来袭" tvg-logo="异兽来袭.png",异兽来袭
+http://222.85.69.6/88888888/16/20211027/271736193/271736193.ts
+#EXTINF:-1 tvg-id="丛林特工队1" tvg-name="丛林特工队1" tvg-logo="丛林特工队1.png",丛林特工队1
+http://222.85.69.6/88888888/16/20230713/272455404/272455404.ts
+#EXTINF:-1 tvg-id="丛林特工队2" tvg-name="丛林特工队2" tvg-logo="丛林特工队2.png",丛林特工队2
+http://222.85.69.6/88888888/16/20230713/272453261/272453261.ts
+#EXTINF:-1 tvg-id="丛林特工队3" tvg-name="丛林特工队3" tvg-logo="丛林特工队3.png",丛林特工队3
+http://222.85.69.6/88888888/16/20230713/272455401/272455401.ts
+#EXTINF:-1 tvg-id="丛林特工队4" tvg-name="丛林特工队4" tvg-logo="丛林特工队4.png",丛林特工队4
+http://222.85.69.6/88888888/16/20230713/272453902/272453902.ts
+#EXTINF:-1 tvg-id="丛林特工队5" tvg-name="丛林特工队5" tvg-logo="丛林特工队5.png",丛林特工队5
+http://222.85.69.6/88888888/16/20230713/272453264/272453264.ts
+#EXTINF:-1 tvg-id="丛林特工队6" tvg-name="丛林特工队6" tvg-logo="丛林特工队6.png",丛林特工队6
+http://222.85.69.6/88888888/16/20230713/272453899/272453899.ts
+#EXTINF:-1 tvg-id="丛林特工队7" tvg-name="丛林特工队7" tvg-logo="丛林特工队7.png",丛林特工队7
+http://222.85.69.6/88888888/16/20230713/272455398/272455398.ts
+#EXTINF:-1 tvg-id="丛林特工队8" tvg-name="丛林特工队8" tvg-logo="丛林特工队8.png",丛林特工队8
+http://222.85.69.6/88888888/16/20230713/272453896/272453896.ts
+#EXTINF:-1 tvg-id="丛林特工队9" tvg-name="丛林特工队9" tvg-logo="丛林特工队9.png",丛林特工队9
+http://222.85.69.6/88888888/16/20230713/272453258/272453258.ts
+#EXTINF:-1 tvg-id="丛林特工队10" tvg-name="丛林特工队10" tvg-logo="丛林特工队10.png",丛林特工队10
+http://222.85.69.6/88888888/16/20230713/272453267/272453267.ts
+#EXTINF:-1 tvg-id="丛林特工队11" tvg-name="丛林特工队11" tvg-logo="丛林特工队11.png",丛林特工队11
+http://222.85.69.6/88888888/16/20230713/272455392/272455392.ts
+#EXTINF:-1 tvg-id="丛林特工队12" tvg-name="丛林特工队12" tvg-logo="丛林特工队12.png",丛林特工队12
+http://222.85.69.6/88888888/16/20230713/272453255/272453255.ts
+#EXTINF:-1 tvg-id="丛林特工队13" tvg-name="丛林特工队13" tvg-logo="丛林特工队13.png",丛林特工队13
+http://222.85.69.6/88888888/16/20230713/272453905/272453905.ts
+#EXTINF:-1 tvg-id="丛林特工队14" tvg-name="丛林特工队14" tvg-logo="丛林特工队14.png",丛林特工队14
+http://222.85.69.6/88888888/16/20230713/272453252/272453252.ts
+#EXTINF:-1 tvg-id="丛林特工队15" tvg-name="丛林特工队15" tvg-logo="丛林特工队15.png",丛林特工队15
+http://222.85.69.6/88888888/16/20230713/272455395/272455395.ts
+#EXTINF:-1 tvg-id="丛林特工队16" tvg-name="丛林特工队16" tvg-logo="丛林特工队16.png",丛林特工队16
+http://222.85.69.6/88888888/16/20230713/272453893/272453893.ts
+#EXTINF:-1 tvg-id="超级飞侠" tvg-name="超级飞侠" tvg-logo="超级飞侠.png",超级飞侠
+http://222.85.69.6/88888888/16/20231130/272552276/272552276.ts
+#EXTINF:-1 tvg-id="汪汪队" tvg-name="汪汪队" tvg-logo="汪汪队.png",汪汪队
+http://222.85.69.6/88888888/16/20230705/272442418/272442418.ts
+#EXTINF:-1 tvg-id="布鲁克战队" tvg-name="布鲁克战队" tvg-logo="布鲁克战队.png",布鲁克战队
+http://222.85.69.6/88888888/16/20230423/272368467/272368467.ts
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="CCTV1.png",CCTV-1
+http://222.85.69.6/PLTV/88888888/224/3221227279/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="CCTV2.png",CCTV-2
+http://222.85.69.6/PLTV/88888888/224/3221227049/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="CCTV3.png",CCTV-3
+http://222.85.69.6/PLTV/88888888/224/3221227053/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="CCTV4.png",CCTV-4
+http://222.85.69.6/PLTV/88888888/224/3221227050/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="CCTV5.png",CCTV-5
+http://222.85.69.6/PLTV/88888888/224/3221227047/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="CCTV5+.png",CCTV5+
+http://222.85.69.6/PLTV/88888888/224/3221227220/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="CCTV6.png",CCTV-6
+http://222.85.69.6/PLTV/88888888/224/3221227046/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="CCTV7.png",CCTV-7
+http://222.85.69.6/PLTV/88888888/224/3221227084/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="CCTV8.png",CCTV-8
+http://222.85.69.6/PLTV/88888888/224/3221227081/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="CCTV9.png",CCTV-9
+http://222.85.69.6/PLTV/88888888/224/3221227078/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="CCTV10.png",CCTV-10
+http://222.85.69.6/PLTV/88888888/224/3221227043/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="CCTV11.png",CCTV-11
+http://222.85.69.6/PLTV/88888888/224/3221227040/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="CCTV12.png",CCTV-12
+http://222.85.69.6/PLTV/88888888/224/3221227044/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="CCTV13.png",CCTV-13
+http://222.85.69.6/PLTV/88888888/224/3221227041/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="CCTV14.png",CCTV-14
+http://222.85.69.6/PLTV/88888888/224/3221227038/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="CCTV15.png",CCTV-15
+http://222.85.69.6/PLTV/88888888/224/3221227037/index.m3u8?icpid=88888888&amp;servicetype=1
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="CCTV17.png",CCTV-17
+http://222.85.69.6/PLTV/88888888/224/3221227072/index.m3u8?icpid=88888888&amp;servicetype=1
