@@ -918,6 +918,210 @@ http://120.76.248.139/live/bfgd/4200000133.m3u8
 http://120.76.248.139/live/bfgd/4200000204.m3u8
 
 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","https://epg.112114.xyz/pp.xml","https://epg.pw/xmltv/epg_lite.xml" 
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="海南",CCTV-1
+http://111.29.9.33:6610/200000001898/460000089800010011/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="CCTV2.png" group-title="海南",CCTV-2
+http://111.29.9.33:6610/200000001898/460000089800010211/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="海南",CCTV-3
+http://111.29.9.33:6610/200000001898/460000089800010212/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="CCTV4.png" group-title="海南",CCTV-4
+http://111.29.9.33:6610/200000001898/460000089800010017/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="CCTV5.png" group-title="海南",CCTV-5
+http://111.29.9.33:6610/200000001898/460000089800010139/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="CCTV5.png" group-title="海南",CCTV-5+
+http://111.29.9.33:6610/200000001898/460000089800010202/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="海南",CCTV-6
+http://111.29.9.33:6610/200000001898/460000089800010214/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="CCTV7.png" group-title="海南",CCTV-7
+http://111.29.9.33:6610/200000001898/460000089800010215/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="CCTV8.png" group-title="海南",CCTV-8
+http://111.29.9.33:6610/200000001898/460000089800010216/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="CCTV9.png" group-title="海南",CCTV-9
+http://111.29.9.33:6610/200000001898/460000089800010052/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="CCTV10.png" group-title="海南",CCTV-10
+http://111.29.9.33:6610/200000001898/460000089800010203/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="CCTV11.png" group-title="海南",CCTV-11
+http://111.29.9.33:6610/200000001898/460000089800010092/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="CCTV12.png" group-title="海南",CCTV-12
+http://111.29.9.33:6610/200000001898/460000089800010205/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="海南",CCTV-13
+http://111.29.9.33:6610/200000001898/460000089800010093/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="CCTV14.png" group-title="海南",CCTV-14
+http://111.29.9.33:6610/200000001898/460000089800010207/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="CCTV15.png" group-title="海南",CCTV-15
+http://111.29.9.33:6610/200000001898/460000089800010094/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="CCTV16.png" group-title="海南",CCTV-16
+http://111.29.9.33:6610/200000001898/460000089800010142/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="CCTV17.png" group-title="海南",CCTV-17
+http://111.29.9.33:6610/200000001898/460000089800010210/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="海南",CCTV-1
+http://111.29.9.33:6610/200000001898/460000089800010144/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="CCTV5.png" group-title="海南",CCTV-5
+http://111.29.9.33:6610/200000001898/460000089800010145/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="新海南" tvg-name="新海南" tvg-logo="新海南.png" group-title="海南",新海南
+http://111.29.9.33:6610/200000001898/460000089800010090/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="广东珠江.png" group-title="海南",广东珠江
+http://111.29.9.33:6610/200000001898/460000089800010091/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="海南",北京卫视
+http://111.29.9.33:6610/200000001898/460000089800010143/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="湖北卫视.png" group-title="海南",湖北卫视
+http://111.29.9.33:6610/200000001898/460000089800010057/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="海南",安徽卫视
+http://111.29.9.33:6610/200000001898/460000089800010041/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="海南",湖南卫视
+http://111.29.9.33:6610/200000001898/460000089800010058/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="海南",东方卫视
+http://111.29.9.33:6610/200000001898/460000089800010054/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="海南",广东卫视
+http://111.29.9.33:6610/200000001898/460000089800010055/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="海南",黑龙江卫视
+http://111.29.9.33:6610/200000001898/460000089800010056/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="海南",重庆卫视
+http://111.29.9.33:6610/200000001898/460000089800010053/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="海南",江苏卫视
+http://111.29.9.33:6610/200000001898/460000089800010059/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="海南",辽宁卫视
+http://111.29.9.33:6610/200000001898/460000089800010061/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="海南",云南卫视
+http://111.29.9.33:6610/200000001898/460000089800010119/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="甘肃卫视.png" group-title="海南",甘肃卫视
+http://111.29.9.33:6610/200000001898/460000089800010098/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="海南",东南卫视
+http://111.29.9.33:6610/200000001898/460000089800010096/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="海南",深圳卫视
+http://111.29.9.33:6610/200000001898/460000089800010068/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="江西卫视.png" group-title="海南",江西卫视
+http://111.29.9.33:6610/200000001898/460000089800010060/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="海南",浙江卫视
+http://111.29.9.33:6610/200000001898/460000089800010070/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="天津卫视.png" group-title="海南",天津卫视
+http://111.29.9.33:6610/200000001898/460000089800010069/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="山东卫视.png" group-title="海南",山东卫视
+http://111.29.9.33:6610/200000001898/460000089800010066/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="贵州卫视.png" group-title="海南",贵州卫视
+http://111.29.9.33:6610/200000001898/460000089800010100/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="海南",河北卫视
+http://111.29.9.33:6610/200000001898/460000089800010101/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="四川卫视.png" group-title="海南",四川卫视
+http://111.29.9.33:6610/200000001898/460000089800010115/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="广西卫视.png" group-title="海南",广西卫视
+http://111.29.9.33:6610/200000001898/460000089800010099/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="海南",青海卫视
+http://111.29.9.33:6610/200000001898/460000089800010111/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-name="山西卫视SD" tvg-logo="山西卫视SD.png" group-title="海南",山西卫视SD
+http://111.29.9.33:6610/200000001898/460000089800010114/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="陕西卫视SD" tvg-name="陕西卫视SD" tvg-logo="陕西卫视SD.png" group-title="海南",陕西卫视SD
+http://111.29.9.33:6610/200000001898/460000089800010113/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-name="河南卫视SD" tvg-logo="河南卫视SD.png" group-title="海南",河南卫视SD
+http://111.29.9.33:6610/200000001898/460000089800010071/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-name="吉林卫视SD" tvg-logo="吉林卫视SD.png" group-title="海南",吉林卫视SD
+http://111.29.9.33:6610/200000001898/460000089800010075/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-name="内蒙古卫视SD" tvg-logo="内蒙古卫视SD.png" group-title="海南",内蒙古卫视SD
+http://111.29.9.33:6610/200000001898/460000089800010109/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="新疆卫视SD" tvg-name="新疆卫视SD" tvg-logo="新疆卫视SD.png" group-title="海南",新疆卫视SD
+http://111.29.9.33:6610/200000001898/460000089800010116/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="海南卫视SD" tvg-name="海南卫视SD" tvg-logo="海南卫视SD.png" group-title="海南",海南卫视SD
+http://111.29.9.33:6610/200000001898/460000089800010083/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="宁夏卫视SD" tvg-name="宁夏卫视SD" tvg-logo="宁夏卫视SD.png" group-title="海南",宁夏卫视SD
+http://111.29.9.33:6610/200000001898/460000089800010110/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="西藏卫视SD" tvg-name="西藏卫视SD" tvg-logo="西藏卫视SD.png" group-title="海南",西藏卫视SD
+http://111.29.9.33:6610/200000001898/460000089800010123/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="大湾区卫视SD" tvg-name="大湾区卫视SD" tvg-logo="大湾区卫视SD.png" group-title="海南",大湾区卫视SD
+http://111.29.9.33:6610/200000001898/460000089800010108/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="CETV1.png" group-title="海南",CETV-1SD
+http://111.29.9.33:6610/200000001898/460000089800010103/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="CETV2.png" group-title="海南",CETV-2SD
+http://111.29.9.33:6610/200000001898/460000089800010104/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="CETV4.png" group-title="海南",CETV-4SD
+http://111.29.9.33:6610/200000001898/460000089800010105/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CGTN SD" tvg-name="CGTN SD" tvg-logo="CGTN SD.png" group-title="海南",CGTN SD
+http://111.29.9.33:6610/200000001898/460000089800010137/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="CGTN SD" tvg-name="CGTN SD" tvg-logo="CGTN SD.png" group-title="海南",CGTN SD
+http://111.29.9.33:6610/200000001898/460000089800010095/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="黑莓动画.png" group-title="海南",黑莓动画
+http://111.29.9.33:6610/200000001898/460000089800010002/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="古装剧场.png" group-title="海南",古装剧场
+http://111.29.9.33:6610/200000001898/460000089800010004/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="家庭剧场.png" group-title="海南",家庭剧场
+http://111.29.9.33:6610/200000001898/460000089800010074/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="潮妈辣婆.png" group-title="海南",潮妈辣婆
+http://111.29.9.33:6610/200000001898/460000089800010005/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="动作电影.png" group-title="海南",动作电影
+http://111.29.9.33:6610/200000001898/460000089800010003/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="爱情喜剧.png" group-title="海南",爱情喜剧
+http://111.29.9.33:6610/200000001898/460000089800010000/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="东北热剧.png" group-title="海南",东北热剧
+http://111.29.9.33:6610/200000001898/460000089800010021/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="欢乐剧场.png" group-title="海南",欢乐剧场
+http://111.29.9.33:6610/200000001898/460000089800010025/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="精品萌宠.png" group-title="海南",精品萌宠
+http://111.29.9.33:6610/200000001898/460000089800010146/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="咪咕全民热练.png" group-title="海南",咪咕全民热练
+http://111.29.9.33:6610/200000001898/460000089800010147/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="惊悚悬疑.png" group-title="海南",惊悚悬疑
+http://111.29.9.33:6610/200000001898/460000089800010077/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="怡伴健康.png" group-title="海南",怡伴健康
+http://111.29.9.33:6610/200000001898/460000089800010082/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="军事评论.png" group-title="海南",军事评论
+http://111.29.9.33:6610/200000001898/460000089800010080/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="精品体育.png" group-title="海南",精品体育
+http://111.29.9.33:6610/200000001898/460000089800010078/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="超级体育.png" group-title="海南",超级体育
+http://111.29.9.33:6610/200000001898/460000089800010063/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="超级综艺" tvg-name="超级综艺" tvg-logo="超级综艺.png" group-title="海南",超级综艺
+http://111.29.9.33:6610/200000001898/460000089800010062/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="超级电影.png" group-title="海南",超级电影
+http://111.29.9.33:6610/200000001898/460000089800010064/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="黑莓电影.png" group-title="海南",黑莓电影
+http://111.29.9.33:6610/200000001898/460000089800010073/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="军旅剧场.png" group-title="海南",军旅剧场
+http://111.29.9.33:6610/200000001898/460000089800010079/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="电子竞技" tvg-name="电子竞技" tvg-logo="电子竞技.png" group-title="海南",电子竞技
+http://111.29.9.33:6610/200000001898/460000089800010084/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="金牌综艺.png" group-title="海南",金牌综艺
+http://111.29.9.33:6610/200000001898/460000089800010086/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="精品纪录.png" group-title="海南",精品纪录
+http://111.29.9.33:6610/200000001898/460000089800010076/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="精品大剧.png" group-title="海南",精品大剧
+http://111.29.9.33:6610/200000001898/460000089800010072/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="中国功夫.png" group-title="海南",中国功夫
+http://111.29.9.33:6610/200000001898/460000089800010087/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="超级电视剧.png" group-title="海南",超级电视剧
+http://111.29.9.33:6610/200000001898/460000089800010065/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="哒啵赛事.png" group-title="海南",哒啵赛事
+http://111.29.9.33:6610/200000001898/460000089800010120/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="农业致富.png" group-title="海南",农业致富
+http://111.29.9.33:6610/200000001898/460000089800010085/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="热播精选" tvg-name="热播精选" tvg-logo="热播精选.png" group-title="海南",热播精选
+http://111.29.9.33:6610/200000001898/460000089800010121/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="炫舞未来.png" group-title="海南",炫舞未来
+http://111.29.9.33:6610/200000001898/460000089800010039/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="优漫卡通SD" tvg-name="优漫卡通SD" tvg-logo="优漫卡通SD.png" group-title="海南",优漫卡通SD
+http://111.29.9.33:6610/200000001898/460000089800010118/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="金鹰纪实SD" tvg-name="金鹰纪实SD" tvg-logo="金鹰纪实SD.png" group-title="海南",金鹰纪实SD
+http://111.29.9.33:6610/200000001898/460000089800010106/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="嘉佳卡通SD" tvg-name="嘉佳卡通SD" tvg-logo="嘉佳卡通SD.png" group-title="海南",嘉佳卡通SD
+http://111.29.9.33:6610/200000001898/460000089800010102/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="金鹰卡通SD" tvg-name="金鹰卡通SD" tvg-logo="金鹰卡通SD.png" group-title="海南",金鹰卡通SD
+http://111.29.9.33:6610/200000001898/460000089800010107/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="哈哈炫动SD" tvg-name="哈哈炫动SD" tvg-logo="哈哈炫动SD.png" group-title="海南",哈哈炫动SD
+http://111.29.9.33:6610/200000001898/460000089800010117/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="山东教育卫视SD" tvg-name="山东教育卫视SD" tvg-logo="山东教育卫视SD.png" group-title="海南",山东教育卫视SD
+http://111.29.9.33:6610/200000001898/460000089800010112/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="纪实人文.png" group-title="海南",纪实人文
+http://111.29.9.33:6610/200000001898/460000089800010067/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="海南公共.png" group-title="海南",海南公共
+http://111.29.9.33:6610/000000001000/460000100000000057/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="海南少儿.png" group-title="海南",海南少儿
+http://111.29.9.33:6610/000000001000/4600001000000000112/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="海南文旅.png" group-title="海南",海南文旅
+http://111.29.9.33:6610/000000001000/4600001000000000113/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="海南新闻.png" group-title="海南",海南新闻
+http://111.29.9.33:6610/000000001000/4600001000000000111/1.m3u8?IAS=&IASHttpSessionId=
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="海南自贸.png" group-title="海南",海南自贸
+http://111.29.9.33:6610/000000001000/4600001000000000116/1.m3u8?IAS=&IASHttpSessionId=
+
 
 
 #EXTINF:-1 tvg-id="西安新闻综合" tvg-name="西安新闻综合" tvg-logo="西安新闻综合.png" group-title="西安",西安新闻综合
