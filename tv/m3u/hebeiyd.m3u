@@ -1,0 +1,85 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","https://epg.112114.xyz/pp.xml","https://epg.pw/xmltv/epg_lite.xml" 
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-name="CCTV1HD" tvg-logo="CCTV1HD.png" group-title="央视频道",CCTV1HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-1/1.m3u8
+#EXTINF:-1 tvg-id="CCTV2HD" tvg-name="CCTV2HD" tvg-logo="CCTV2HD.png" group-title="央视频道",CCTV2HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-2/1.m3u8
+#EXTINF:-1 tvg-id="CCTV3HD" tvg-name="CCTV3HD" tvg-logo="CCTV3HD.png" group-title="央视频道",CCTV3HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-3/1.m3u8
+#EXTINF:-1 tvg-id="CCTV4HD" tvg-name="CCTV4HD" tvg-logo="CCTV4HD.png" group-title="央视频道",CCTV4HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-4/1.m3u8
+#EXTINF:-1 tvg-id="CCTV5HD" tvg-name="CCTV5HD" tvg-logo="CCTV5HD.png" group-title="央视频道",CCTV5HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-5/1.m3u8
+#EXTINF:-1 tvg-id="CCTV5+HD" tvg-name="CCTV5+HD" tvg-logo="CCTV5+HD.png" group-title="央视频道",CCTV5+HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+#EXTINF:-1 tvg-id="CCTV6HD" tvg-name="CCTV6HD" tvg-logo="CCTV6HD.png" group-title="央视频道",CCTV6HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-6/1.m3u8
+#EXTINF:-1 tvg-id="CCTV7HD" tvg-name="CCTV7HD" tvg-logo="CCTV7HD.png" group-title="央视频道",CCTV7HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-7/1.m3u8
+#EXTINF:-1 tvg-id="CCTV8HD" tvg-name="CCTV8HD" tvg-logo="CCTV8HD.png" group-title="央视频道",CCTV8HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-8/1.m3u8
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-name="CCTV9HD" tvg-logo="CCTV9HD.png" group-title="央视频道",CCTV9HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-news/1.m3u8
+#EXTINF:-1 tvg-id="CCTV10HD" tvg-name="CCTV10HD" tvg-logo="CCTV10HD.png" group-title="央视频道",CCTV10HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-10/1.m3u8
+#EXTINF:-1 tvg-id="CCTV11HD" tvg-name="CCTV11HD" tvg-logo="CCTV11HD.png" group-title="央视频道",CCTV11HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-11/1.m3u8
+#EXTINF:-1 tvg-id="CCTV12HD" tvg-name="CCTV12HD" tvg-logo="CCTV12HD.png" group-title="央视频道",CCTV12HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-12/1.m3u8
+#EXTINF:-1 tvg-id="CCTV13HD" tvg-name="CCTV13HD" tvg-logo="CCTV13HD.png" group-title="央视频道",CCTV13HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-13/1.m3u8
+#EXTINF:-1 tvg-id="CCTV14HD" tvg-name="CCTV14HD" tvg-logo="CCTV14HD.png" group-title="央视频道",CCTV14HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-14/1.m3u8
+#EXTINF:-1 tvg-id="CCTV15HD" tvg-name="CCTV15HD" tvg-logo="CCTV15HD.png" group-title="央视频道",CCTV15HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-15/1.m3u8
+#EXTINF:-1 tvg-id="CCTV16HD" tvg-name="CCTV16HD" tvg-logo="CCTV16HD.png" group-title="央视频道",CCTV16HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-cctv16/1.m3u8
+#EXTINF:-1 tvg-id="CCTV17HD" tvg-name="CCTV17HD" tvg-logo="CCTV17HD.png" group-title="央视频道",CCTV17HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-cctv17/1.m3u8
+#EXTINF:-1 tvg-id="河北卫视HD" tvg-name="河北卫视HD" tvg-logo="河北卫视HD.png" group-title="卫视频道",河北卫视HD
+http://39.135.133.180/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-name="安徽卫视HD" tvg-logo="安徽卫视HD.png" group-title="卫视频道",安徽卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/anhuistv/1.m3u8
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-name="湖南卫视HD" tvg-logo="湖南卫视HD.png" group-title="卫视频道",湖南卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hunanstv/1.m3u8
+#EXTINF:-1 tvg-id="东方卫视HD" tvg-name="东方卫视HD" tvg-logo="东方卫视HD.png" group-title="卫视频道",东方卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongfangstv/1.m3u8
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-name="北京卫视HD" tvg-logo="北京卫视HD.png" group-title="卫视频道",北京卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/beijingstv/1.m3u8
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-name="浙江卫视HD" tvg-logo="浙江卫视HD.png" group-title="卫视频道",浙江卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/zhejiangstv/1.m3u8
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-name="江苏卫视HD" tvg-logo="江苏卫视HD.png" group-title="卫视频道",江苏卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiangsustv/1.m3u8
+#EXTINF:-1 tvg-id="天津卫视HD" tvg-name="天津卫视HD" tvg-logo="天津卫视HD.png" group-title="卫视频道",天津卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/tianjinstv/1.m3u8
+#EXTINF:-1 tvg-id="河南卫视HD" tvg-name="河南卫视HD" tvg-logo="河南卫视HD.png" group-title="卫视频道",河南卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/henanstv/1.m3u8
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-name="重庆卫视HD" tvg-logo="重庆卫视HD.png" group-title="卫视频道",重庆卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/chongqingstv/1.m3u8
+#EXTINF:-1 tvg-id="东南卫视HD" tvg-name="东南卫视HD" tvg-logo="东南卫视HD.png" group-title="卫视频道",东南卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongnanstv/1.m3u8
+#EXTINF:-1 tvg-id="四川卫视HD" tvg-name="四川卫视HD" tvg-logo="四川卫视HD.png" group-title="卫视频道",四川卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/sichuanstv/1.m3u8
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-name="山东卫视HD" tvg-logo="山东卫视HD.png" group-title="卫视频道",山东卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shandongstv/1.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-name="辽宁卫视HD" tvg-logo="辽宁卫视HD.png" group-title="卫视频道",辽宁卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/liaoningstv/1.m3u8
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-name="深圳卫视HD" tvg-logo="深圳卫视HD.png" group-title="卫视频道",深圳卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shenzhenstv/1.m3u8
+#EXTINF:-1 tvg-id="江西卫视HD" tvg-name="江西卫视HD" tvg-logo="江西卫视HD.png" group-title="卫视频道",江西卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiangxistv/1.m3u8
+#EXTINF:-1 tvg-id="贵州卫视HD" tvg-name="贵州卫视HD" tvg-logo="贵州卫视HD.png" group-title="卫视频道",贵州卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guizhoustv/1.m3u8
+#EXTINF:-1 tvg-id="吉林卫视HD" tvg-name="吉林卫视HD" tvg-logo="吉林卫视HD.png" group-title="卫视频道",吉林卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jilinstv/1.m3u8
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-name="广东卫视HD" tvg-logo="广东卫视HD.png" group-title="卫视频道",广东卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guangdongstv/1.m3u8
+#EXTINF:-1 tvg-id="龙江卫视HD" tvg-name="龙江卫视HD" tvg-logo="龙江卫视HD.png" group-title="卫视频道",龙江卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-2500k-1080P-heilongjiangstv/1.m3u8
+#EXTINF:-1 tvg-id="广西卫视HD" tvg-name="广西卫视HD" tvg-logo="广西卫视HD.png" group-title="卫视频道",广西卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guangxistv/1.m3u8
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-name="湖北卫视HD" tvg-logo="湖北卫视HD.png" group-title="卫视频道",湖北卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-2500k-1080P-hubeistv/1.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-name="甘肃卫视HD" tvg-logo="甘肃卫视HD.png" group-title="卫视频道",甘肃卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/gansustv/1.m3u8
+#EXTINF:-1 tvg-id="海南卫视HD" tvg-name="海南卫视HD" tvg-logo="海南卫视HD.png" group-title="卫视频道",海南卫视HD
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hainanstv/1.m3u8
