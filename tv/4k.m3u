@@ -32,3 +32,14 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="南国都市4k" tvg-name="南国都市4K" tvg-logo="南国都市4K.png" group-title="4K",南国都市4K
 https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
+
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="欢笑剧场.png" group-title="数字频道",欢笑剧场4K
+http://14.155.222.235:8181/bst/hxjc4k@15000000.m3u8
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="欢笑剧场.png" group-title="数字频道",欢笑剧场4K
+http://14.155.222.235:8181/bst/hxjchd@4000000.m3u8
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="动漫秀场.png" group-title="数字频道",动漫秀场4K
+http://14.155.222.235:8181/bst/dmxchd@4000000.m3u8
+#EXTINF:-1 tvg-id="BESTV4K" tvg-name="BESTV4K" tvg-logo="BESTV4K.png" group-title="数字频道",BESTV4K
+http://14.155.222.235:8181/bst/dypd4k@15000000.m3u8
+#EXTINF:-1 tvg-id="BES少儿4K" tvg-name="BES少儿4K" tvg-logo="BES少儿4K.png" group-title="数字频道",BES少儿4K
+http://14.155.222.235:8181/bst/sepd4k@15000000.m3u8
