@@ -1,0 +1,907 @@
+#EXTM3U url-tvg="https://gitee.com/Black_crow/xmlgz/raw/master/all.xml.gz"catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1  tvg-id="81" tvg-name="湖南卫视" tvg-logo="logo/weishi/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
+http://39.137.75.234/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="88" tvg-name="浙江卫视" tvg-logo="logo/weishi/浙江卫视.png" group-title="卫视频道🛸",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1  tvg-id="91" tvg-name="江苏卫视" tvg-logo="logo/weishi/江苏卫视.png" group-title="卫视频道🛸",江苏卫视
+http://39.137.75.232/000000001000/1000000001000004684/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="80" tvg-name="东方卫视" tvg-logo="logo/weishi/东方卫视.png" group-title="卫视频道🛸",东方卫视
+http://39.137.75.230/000000001000/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="82" tvg-name="广东卫视" tvg-logo="logo/weishi/广东卫视.png" group-title="卫视频道🛸",广东卫视
+http://39.137.75.230/000000001000/1000000001000028357/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="103" tvg-name="广西卫视" tvg-logo="logo/weishi/广西卫视.png" group-title="卫视频道🛸",广西卫视
+http://39.137.75.230/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="83" tvg-name="深圳卫视" tvg-logo="logo/weishi/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
+http://39.137.75.234/000000001000/1000000005000265028/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="90" tvg-name="北京卫视" tvg-logo="logo/weishi/北京卫视.png" group-title="卫视频道🛸",北京卫视
+http://39.137.75.230/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="96" tvg-name="东南卫视" tvg-logo="logo/weishi/东南卫视.png" group-title="卫视频道🛸",东南卫视
+http://39.137.75.230/000000001000/1000000002000009263/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="78" tvg-name="四川卫视" tvg-logo="logo/weishi/四川卫视.png" group-title="卫视频道🛸",四川卫视
+http://39.137.75.234/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="84" tvg-name="天津卫视" tvg-logo="logo/weishi/天津卫视.png" group-title="卫视频道🛸",天津卫视
+http://39.137.75.230/000000001000/1000000001000003475/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="99" tvg-name="甘肃卫视" tvg-logo="logo/weishi/甘肃卫视.png" group-title="卫视频道🛸",甘肃卫视
+http://39.137.75.234/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="87" tvg-name="安徽卫视" tvg-logo="logo/weishi/安徽卫视.png" group-title="卫视频道🛸",安徽卫视
+http://39.137.75.234/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="95" tvg-name="江西卫视" tvg-logo="logo/weishi/江西卫视.png" group-title="卫视频道🛸",江西卫视
+http://39.137.75.229/000000001000/1000000005000265032/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="93" tvg-name="河北卫视" tvg-logo="logo/weishi/河北卫视.png" group-title="卫视频道🛸",河北卫视
+http://39.137.75.234/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="97" tvg-name="海南卫视" tvg-logo="logo/weishi/海南卫视.png" group-title="卫视频道🛸",海南卫视
+http://39.137.75.229/000000001000/1000000002000023773/index.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="85" tvg-name="湖北卫视" tvg-logo="logo/weishi/湖北卫视.png" group-title="卫视频道🛸",湖北卫视
+http://39.137.75.230/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="79" tvg-name="贵州卫视" tvg-logo="logo/weishi/贵州卫视.png" group-title="卫视频道🛸",贵州卫视
+http://39.137.75.234/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="86" tvg-name="辽宁卫视" tvg-logo="logo/weishi/辽宁卫视.png" group-title="卫视频道🛸",辽宁卫视
+http://39.137.75.230/000000001000/1000000002000024033/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="77" tvg-name="重庆卫视" tvg-logo="logo/weishi/重庆卫视.png" group-title="卫视频道🛸",重庆卫视
+http://39.137.75.234/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="98" tvg-name="吉林卫视" tvg-logo="logo/weishi/吉林卫视.png" group-title="卫视频道🛸",吉林卫视
+http://39.137.75.229/000000001000/1000000002000027730/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="92" tvg-name="黑龙江卫视" tvg-logo="logo/weishi/黑龙江卫视.png" group-title="卫视频道🛸",黑龙江卫视
+http://39.137.75.230/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="94" tvg-name="云南卫视" tvg-logo="logo/weishi/云南卫视.png" group-title="卫视频道🛸",云南卫视
+http://39.137.75.232/000000001000/1000000002000024694/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="104" tvg-name="青海卫视" tvg-logo="logo/weishi/青海卫视.png" group-title="卫视频道🛸",青海卫视
+http://39.137.75.229/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="101" tvg-name="内蒙古卫视" tvg-logo="logo/weishi/内蒙古卫视.png" group-title="卫视频道🛸",内蒙古卫视
+http://39.137.75.234/000000001000/1000000002000014080/index.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=no
+
+#EXTINF:-1  tvg-id="112" tvg-name="延边卫视" tvg-logo="logo/weishi/延边卫视.png" group-title="卫视频道🛸",延边卫视
+https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
+#EXTINF:-1  tvg-id="107" tvg-name="厦门卫视" tvg-logo="logo/weishi/厦门卫视.png" group-title="卫视频道🛸",厦门卫视
+http://39.137.75.234/000000001000/1000000005000266006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=no
+
+#EXTINF:-1  tvg-id="344" tvg-name="黑莓电影" tvg-logo="logo/shuzifufei/黑莓电影.png" group-title="数字付费🎞️",黑莓电影
+http://39.137.75.230/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="345" tvg-name="黑莓动画" tvg-logo="logo/shuzifufei/黑莓动画.png" group-title="数字付费🎞️",黑莓动画
+http://39.137.75.230/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="357" tvg-name="哒啵电竞" tvg-logo="logo/shuzifufei/哒啵电竞.png" group-title="数字付费🎞️",哒啵电竞
+http://111.22.153.159:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
+#EXTINF:-1  tvg-id="350" tvg-name="动作电影" tvg-logo="logo/shuzifufei/NewTV动作电影.png" group-title="数字付费🎞️",NewTV动作电影
+http://39.137.75.229/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="355" tvg-name="潮妈辣婆" tvg-logo="logo/shuzifufei/NewTV潮妈辣婆.png" group-title="数字付费🎞️",NewTV潮妈辣婆
+http://111.43.126.240:9003/hls/94/index.m3u8
+#EXTINF:-1  tvg-id="358" tvg-name="军事评论" tvg-logo="logo/shuzifufei/NewTV军事评论.png" group-title="数字付费🎞️",NewTV军事评论
+http://111.43.126.240:9003/hls/91/index.m3u8
+#EXTINF:-1  tvg-id="359" tvg-name="炫舞未来" tvg-logo="logo/shuzifufei/NewTV炫舞未来.png" group-title="数字付费🎞️",NewTV炫舞未来
+http://39.137.75.230/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="360" tvg-name="古装剧场" tvg-logo="logo/shuzifufei/NewTV古装剧场.png" group-title="数字付费🎞️",NewTV古装剧场
+http://111.43.126.240:9003/hls/81/index.m3u8
+#EXTINF:-1  tvg-id="361" tvg-name="军旅剧场" tvg-logo="logo/shuzifufei/NewTV军旅剧场.png" group-title="数字付费🎞️",NewTV军旅剧场
+http://111.43.126.240:9003/hls/82/index.m3u8
+#EXTINF:-1  tvg-id="362" tvg-name="家庭剧场" tvg-logo="logo/shuzifufei/NewTV家庭剧场.png" group-title="数字付费🎞️",NewTV家庭剧场
+http://39.137.75.230/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="363" tvg-name="爱情喜剧" tvg-logo="logo/shuzifufei/NewTV爱情喜剧.png" group-title="数字付费🎞️",NewTV爱情喜剧
+http://111.43.126.240:9003/hls/76/index.m3u8
+#EXTINF:-1  tvg-id="364" tvg-name="热播精选" tvg-logo="logo/shuzifufei/NewTV热播精选.png" group-title="数字付费🎞️",NewTV热播精选
+http://111.43.126.240:9003/hls/98/index.m3u8
+#EXTNF:-1  tvg-id="365" tvg-name="明星大片" tvg-logo="logo/shuzifufei/NewTV明星大片.png" group-title="数字付费🎞️",NewTV明星大片
+http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
+#EXTINF:-1  tvg-id="366" tvg-name="惊悚悬疑" tvg-logo="logo/shuzifufei/NewTV惊悚悬疑.png" group-title="数字付费🎞️",NewTV惊悚悬疑
+http://39.137.75.229/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="367" tvg-name="金牌综艺" tvg-logo="logo/shuzifufei/NewTV金牌综艺.png" group-title="数字付费🎞️",NewTV金牌综艺
+http://111.43.126.240:9003/hls/90/index.m3u8
+#EXTINF:-1  tvg-id="368" tvg-name="精品记录" tvg-logo="logo/shuzifufei/NewTV精品记录.png" group-title="数字付费🎞️",NewTV精品记录
+http://111.43.126.240:9003/hls/88/index.m3u8
+#EXTINF:-1  tvg-id="369" tvg-name="精品大剧" tvg-logo="logo/shuzifufei/NewTV精品大剧.png" group-title="数字付费🎞️", NewTV精品大剧
+http://39.137.75.229/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="370" tvg-name="精品体育" tvg-logo="logo/shuzifufei/NewTV精品体育.png" group-title="数字付费🎞️",NewTV精品体育
+http://39.137.75.230/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="371" tvg-name="精品萌宠" tvg-logo="logo/shuzifufei/NewTV精品萌宠.png" group-title="数字付费🎞️",NewTV精品萌宠
+http://39.137.75.230/000000001000/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="373" tvg-name="中国功夫" tvg-logo="logo/shuzifufei/NewTV中国功夫.png" group-title="数字付费🎞️",NewTV中国功夫
+http://111.43.126.240:9003/hls/96/index.m3u8
+#EXTINF:-1  tvg-id="374" tvg-name="怡伴健康" tvg-logo="logo/shuzifufei/NewTV怡伴健康.png" group-title="数字付费🎞️",NewTV怡伴健康
+http://111.43.126.240:9003/hls/93/index.m3u8
+#EXTINF:-1  tvg-id="427" tvg-name="超级综艺" tvg-logo="logo/shuzifufei/NewTV超级综艺.png" group-title="数字付费🎞️",NewTV超级综艺
+http://39.137.75.234/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="428" tvg-name="超级电影" tvg-logo="logo/shuzifufei/NewTV超级电影.png" group-title="数字付费🎞️",NewTV超级电影
+http://39.137.75.230/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="429" tvg-name="超级电视剧" tvg-logo="logo/shuzifufei/NewTV超级电视剧.png" group-title="数字付费🎞️",NewTV超级电视剧
+http://39.137.75.230/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="526" tvg-name="超级体育" tvg-logo="logo/shuzifufei/NewTV超级体育.png" group-title="数字付费🎞️",NewTV超级体育
+http://39.137.75.230/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=no
+#EXTINF:-1  tvg-id="430" tvg-name="农业致富" tvg-logo="logo/shuzifufei/NewTV农业致富.png" group-title="数字付费🎞️",NewTV农业致富
+http://111.43.126.240:9003/hls/92/index.m3u8
+#EXTINF:-1  tvg-id="431" tvg-name="东北热剧" tvg-logo="logo/shuzifufei/NewTV东北热剧.png" group-title="数字付费🎞️",NewTV东北热剧
+http://111.43.126.240:9003/hls/78/index.m3u8
+#EXTINF:-1  tvg-id="432" tvg-name="欢乐剧场" tvg-logo="logo/shuzifufei/NewTV欢乐剧场.png" group-title="数字付费🎞️",NewTV欢乐剧场
+http://111.43.126.240:9003/hls/79/index.m3u8
+
+#EXTINF:-1  tvg-id="536" tvg-name="魅力潇湘" tvg-logo="logo/shuzifufei/NewTV魅力潇湘.png" group-title="数字付费🎞️",NewTV魅力潇湘
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000041&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1  tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="logo/shuzifufei/NewTV海外剧场.png" group-title="数字付费🎞️",NewTV海外剧场
+http://107.174.52.32/itv.php?id=%e6%b5%b7%e5%a4%96%e5%89%a7%e5%9c%ba
+#EXTINF:-1  tvg-id="武搏世界" tvg-name="武搏世界" tvg-logo="logo/shuzifufei/NewTV武搏世界.png" group-title="数字付费🎞️",NewTV武搏世界
+http://111.43.126.240:9003/hls/95/index.m3u8
+#EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="logo/shuzifufei/求索动物.png" group-title="数字付费🎞️",求索动物
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="logo/shuzifufei/求索科学.png" group-title="数字付费🎞️",求索科学
+http://ygbh.site/php/bfgd.php?id=286
+#EXTINF:-1 tvg-id="171" tvg-name="求索生活" tvg-logo="logo/shuzifufei/求索生活.png" group-title="数字付费🎞️",求索生活
+http://ygbh.site/php/bfgd.php?id=288
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="186" tvg-logo="logo/shuzifufei/魅力足球.png" group-title="数字付费🎞️", 魅力足球
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-MLZQ-HD/index.m3u8
+#EXTINF:-1 tvg-name="劲爆体育" tvg-id="176" tvg-logo="logo/shuzifufei/劲爆体育.png" group-title="数字付费🎞️", 劲爆体育
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-JBTY-HD/index.m3u8
+#EXTINF:-1 tvg-name="生活时尚" tvg-id="188" tvg-logo="logo/shuzifufei/SITV生活时尚.png" group-title="数字付费🎞️", SITV生活时尚
+http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-SHSS-HD/index.m3u8
+#EXTINF:-1  tvg-name="睛彩中原" tvg-id="329" tvg-logo="logo/shuzifufei/睛彩中原.png" group-title="数字付费🎞️",睛彩中原
+http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=4b189e4cdc580d06592bde7267e8d7f8&wsTime=1746025257
+#EXTINF:-1 tvg-name="iHOT爱院线" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱院线.png" group-title="数字付费🎞️", iHOT爱院线
+http://171.213.235.71:5555/udp/239.93.42.11:5140
+#EXTINF:-1 tvg-name="iHOT爱科幻" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱科幻.png" group-title="数字付费🎞️", iHOT爱科幻
+http://171.213.235.71:5555/udp/239.93.42.10:5140
+#EXTINF:-1 tvg-name="iHOT爱浪漫" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱浪漫.png" group-title="数字付费🎞️", iHOT爱浪漫
+http://171.213.235.71:5555/udp/239.93.42.21:5140
+#EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱喜剧.png" group-title="数字付费🎞️", iHOT爱喜剧
+http://171.213.235.71:5555/udp/239.93.42.9:5140
+#EXTINF:-1 tvg-name="iHOT爱悬疑" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱悬疑.png" group-title="数字付费🎞️", iHOT爱悬疑
+http://171.213.235.71:5555/udp/239.93.42.12:5140
+#EXTINF:-1 tvg-name="iHOT爱赛车" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱赛车.png" group-title="数字付费🎞️", iHOT爱赛车
+http://171.213.235.71:5555/udp/239.93.42.20:5140
+#EXTINF:-1 tvg-name="iHOT爱体育" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱体育.png" group-title="数字付费🎞️", iHOT爱体育
+http://171.213.235.71:5555/udp/239.93.42.19:5140
+#EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱奇谈.png" group-title="数字付费🎞️", iHOT爱奇谈
+http://171.213.235.71:5555/udp/239.93.42.22:5140
+#EXTINF:-1 tvg-name="iHOT爱玩具" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱玩具.png" group-title="数字付费🎞️", iHOT爱玩具
+http://171.213.235.71:5555/udp/239.93.42.18:5140
+#EXTINF:-1 tvg-name="iHOT爱旅行" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱旅行.png" group-title="数字付费🎞️", iHOT爱旅行
+http://171.213.235.71:5555/udp/239.93.42.16:5140
+#EXTINF:-1 tvg-name="iHOT爱幼教" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱幼教.png" group-title="数字付费🎞️", iHOT爱幼教
+http://171.213.235.71:5555/udp/239.93.42.17:5140
+#EXTINF:-1 tvg-name="iHOT爱谍战" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱谍战.png" group-title="数字付费🎞️", iHOT爱谍战
+http://171.213.235.71:5555/udp/239.93.42.14:5140
+#EXTINF:-1 tvg-name="iHOT爱历史" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱历史.png" group-title="数字付费🎞️", iHOT爱历史
+http://171.213.235.71:5555/udp/239.93.42.13:5140
+#EXTINF:-1 tvg-name="iHOT爱科学" tvg-id="" tvg-logo="logo/shuzifufei/iHOT爱科学.png" group-title="数字付费🎞️", iHOT爱科学
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1  tvg-id="346" tvg-name="纯享4K" tvg-logo="logo/shuzifufei/纯享4K.png" group-title="数字付费🎞️",纯享4K
+http://111.22.153.159:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
+#EXTINF:-1  tvg-id="" tvg-name="北京4K" tvg-logo="logo/shuzifufei/华数4K.png" group-title="数字付费🎞️",北京4K
+http://58.39.190.143:35455/bptv/10000100000000050000000003887500.m3u8
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="logo/shuzifufei/重温经典.png" group-title="数字付费🎞️",重温经典
+http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
+#EXTINF:-1 tvg-id="418" tvg-name="1905环球经典" tvg-logo="logo/shuzifufei/1905电影.png" group-title="数字付费🎞️",1905环球经典
+http://150.138.77.132:10037/1905电影网.php?id=1905a
+#EXTINF:-1 tvg-id="454" tvg-name="1905力量影院" tvg-logo="logo/shuzifufei/1905电影.png" group-title="数字付费🎞️",1905力量影院
+http://php.jdshipin.com:8880/1905.php?id=1905dy
+#EXTINF:-1 tvg-name="发现之旅" tvg-id="237" tvg-logo="logo/shuzifufei/发现之旅.png" group-title="数字付费🎞️", 发现之旅
+http://175.22.226.131:888/hls/79/index.m3u8
+#EXTINF:-1 tvg-name="书画" tvg-id="241" tvg-logo="logo/shuzifufei/书画.png" group-title="数字付费🎞️", 书画
+http://39.164.174.139:5000/nl.m3u8?id=SH
+#EXTINF:-1 tvg-name="中华美食" tvg-id="262" tvg-logo="logo/shuzifufei/中华美食.png" group-title="数字付费🎞️", 中华美食
+http://jiaojirentv.top/2020/yy.php?id=1354930954
+#EXTINF:-1 tvg-name="中华特产" tvg-id="264" tvg-logo="logo/shuzifufei/中华特产.png" group-title="数字付费🎞️", 中华特产
+http://120.76.248.139/live/bfgd/4200000158.m3u8
+#EXTINF:-1 tvg-name="新动漫" tvg-id="283" tvg-logo="logo/shuzifufei/新动漫.png" group-title="数字付费🎞️", 新动漫
+http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.106:5540
+#EXTINF:-1 tvg-name="中国交通" tvg-id="424" tvg-logo="logo/shuzifufei/中国交通.png" group-title="数字付费🎞️", 中国交通
+http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.226:5540
+#EXTINF:-1 tvg-name="收藏天下" tvg-id="424" tvg-logo="logo/shuzifufei/收藏天下.png" group-title="数字付费🎞️", 收藏天下
+http://120.76.248.139/live/bfgd/4200000155.m3u8
+#EXTINF:-1 tvg-name="中学生" tvg-id="437" tvg-logo="logo/shuzifufei/中学生.png" group-title="数字付费🎞️", 中学生
+http://aiony.top:35455/mgtv/708869532.m3u8
+#EXTINF:-1 tvg-name="财富天下" tvg-id="" tvg-logo="logo/shuzifufei/财富天下.png" group-title="数字付费🎞️", 财富天下
+http://aiony.top:35455/bst/cftx@2500000.m3u8
+#EXTINF:-1 tvg-name="精彩影视" tvg-id="" tvg-logo="logo/shuzifufei/精彩影视.png" group-title="数字付费🎞️", 精彩影视
+http://59.52.59.5:8008/udp/239.252.220.223:5140
+#EXTINF:-1 tvg-name="漫游世界" tvg-id="" tvg-logo="logo/shuzifufei/华数TV.png" group-title="数字付费🎞️", 漫游世界
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000017&livemode=1&stbId=3
+
+
+#EXTINF:-1 tvg-name="HKS" tvg-id="378923" tvg-logo="logo/haiwai/HKS香港卫视.png" group-title="港澳频道🇭🇰",HKS 香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门莲花" tvg-id="322473" tvg-logo="logo/haiwai/澳门莲花.png" group-title="港澳频道🇭🇰",澳门莲花
+http://8.138.7.223/tv/lotustv.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="368336" tvg-logo="logo/haiwai/TVB翡翠.png" group-title="港澳频道🇭🇰",TVB 翡翠
+https://cdn3.163189.xyz/live/fct/stream.m3u8
+#EXTINF:-1 tvg-name="黃金翡翠台" tvg-id="368358" tvg-logo="logo/haiwai/TVB翡翠.png" group-title="港澳频道🇭🇰",TVB 黄金翡翠
+http://jxiptv.dpdns.org/stream/4gtv/null-7/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-name="明珠台" tvg-id="368369" tvg-logo="logo/haiwai/TVB明珠.png" group-title="港澳频道🇭🇰",TVB 明珠
+http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+#EXTINF:-1 tvg-name="TVB星河" tvg-id="3493" tvg-logo="logo/haiwai/TVB星河.png" group-title="港澳频道🇭🇰",TVB 星河
+http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-id="368359" tvg-logo="logo/haiwai/TVB无线新闻.png" group-title="港澳频道🇭🇰",TVB 无线新闻
+http://jxiptv.dpdns.org/stream/4gtv/null-2/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-name="娛樂新聞台" tvg-id="368323" tvg-logo="logo/haiwai/TVB娱乐新闻.png" group-title="港澳频道🇭🇰",TVB 娱乐新闻
+http://jxiptv.dpdns.org/stream/4gtv/null-6/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-name="千禧經典台" tvg-id="368325" tvg-logo="logo/haiwai/TVB千禧经典.png" group-title="港澳频道🇭🇰",千禧经典
+http://php.jdshipin.com/smt.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361"  tvg-logo="logo/haiwai/TVBPlus.png" group-title="港澳频道🇭🇰",TVB Plus
+https://cdn.163189.xyz/live/tvbp/stream.m3u8
+#EXTINF:-1 tvg-name="SUPER FREE" tvg-id="368376" tvg-logo="logo/haiwai/戏曲台.png" group-title="港澳频道🇭🇰",Super Free
+http://jxiptv.dpdns.org/stream/4gtv/mytvsuperfree/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-name="PopC" tvg-id="368322" tvg-logo="logo/haiwai/popc.png" group-title="港澳频道🇭🇰",Pop C
+https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-name="美亞電影台" tvg-id="368348" tvg-logo="logo/haiwai/美亚电影.png" group-title="港澳频道🇭🇰",美亚电影台
+http://jxiptv.dpdns.org/stream/4gtv/null-10/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-name="天映经典频道" tvg-id="" tvg-logo="logo/haiwai/天映经典频道.png" group-title="港澳频道🇭🇰",天映经典频道
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映频道" tvg-id="" tvg-logo="logo/haiwai/天映频道.png" group-title="港澳频道🇭🇰",天映频道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-id="368355" tvg-logo="logo/haiwai/LoveNarure.png" group-title="港澳频道🇭🇰",Love Nature
+https://s1.m16tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-name="ViuTV" tvg-id="368897" tvg-logo="logo/haiwai/ViuTV.png" group-title="港澳频道🇭🇰",Viu TV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-name="ViuTV Six" tvg-id="368905" tvg-logo="logo/haiwai/ViuTVSix.png" group-title="港澳频道🇭🇰",ViuTV Six
+http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=0e3278c91e170da7eff1f918e81773b5
+#EXTINF:-1 tvg-name="HOY 國際財經台" tvg-id="368904" tvg-logo="logo/haiwai/HOY76.png" group-title="港澳频道🇭🇰",HOY 国际财经
+http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b47-golive.flv
+#EXTINF:-1 tvg-name="HOY TV" tvg-id="368903" tvg-logo="logo/haiwai/HOY77.png" group-title="港澳频道🇭🇰",HOY TV
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
+#EXTINF:-1 tvg-name="HOY TV 資訊台" tvg-id="368898" tvg-logo="logo/haiwai/HOY78.png" group-title="港澳频道🇭🇰",HOY 资讯
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
+#EXTINF:-1 tvg-name="港台電視 31" tvg-id="368901" tvg-logo="logo/haiwai/RTHK31.png" group-title="港澳频道🇭🇰",RTHK 31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-name="港台电视32" tvg-id="368551" tvg-logo="logo/haiwai/RTHK32.png" group-title="港澳频道🇭🇰",RTHK 32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-name="港台电视33" tvg-id="368552" tvg-logo="logo/haiwai/RTHK33.png" group-title="港澳频道🇭🇰",RTHK 33
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 tvg-name="港台电视34" tvg-id="368553" tvg-logo="logo/haiwai/RTHK34.png" group-title="港澳频道🇭🇰",RTHK 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="港台电视35" tvg-id="368554" tvg-logo="logo/haiwai/RTHK35.png" group-title="港澳频道🇭🇰",RTHK 35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-id="410407" tvg-logo="logo/haiwai/NBA.png" group-title="港澳频道🇭🇰",NBA TV
+http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+#EXTINF:-1 tvg-name="曼聯電視頻道" tvg-id="410407" tvg-logo="logo/haiwai/曼联电视.png" group-title="港澳频道🇭🇰",曼联电视
+http://aktv_stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-id="368334" tvg-logo="logo/haiwai/有线18台.png" group-title="港澳频道🇭🇰",18台
+https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-name="ROCK Action" tvg-id="369171" tvg-logo="logo/haiwai/ROCKAction.png" group-title="港澳频道🇭🇰",ROCK Action
+https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="370192" tvg-logo="logo/haiwai/ROCKEntertainment.png" group-title="港澳频道🇭🇰",ROCK Entertainment
+https://gongyi.vip-tptv.xyz/CRTE
+#EXTINF:-1 tvg-name="28AI智慧賽馬" tvg-id="394087" tvg-logo="logo/haiwai/28AI 智慧赛马.png" group-title="港澳频道🇭🇰",28AI 智慧赛马
+https://live.tvfix.org/live/c28/2/v200000/index.m3u8
+#EXTINF:-1 tvg-name="有线新闻" tvg-id="" tvg-logo="logo/haiwai/有线新闻.png" group-title="港澳频道🇭🇰",有线新闻
+p3p://173.208.176.178:31809/655bd22c000147307fdff68936807320
+#EXTINF:-1 tvg-name="星空卫视" tvg-id="518" tvg-logo="logo/haiwai/星空卫视.png" group-title="港澳频道🇭🇰",星空卫视
+https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-id="368326" tvg-logo="logo/haiwai/TVN.png" group-title="港澳频道🇭🇰",tvN
+https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-id="368333" tvg-logo="logo/haiwai/Animax.png" group-title="港澳频道🇭🇰",Animax
+https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-id="368365" tvg-logo="logo/haiwai/AXN.png" group-title="港澳频道🇭🇰",AXN
+https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
+#EXTINF:-1 tvg-name="亞洲新聞台" tvg-id="368377" tvg-logo="logo/haiwai/亚洲新闻.png" group-title="港澳频道🇭🇰",CNA亚洲新闻
+http://198.16.100.186:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
+#EXTINF:-1 tvg-name="無線衛星亞洲台" tvg-id="368357" tvg-logo="logo/haiwai/TVBS亚洲.png" group-title="港澳频道🇭🇰",TVBS Asia
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+
+#EXTINF:-1 tvg-name="France 24" tvg-id="368342" tvg-logo="logo/haiwai/France24.png" group-title="港澳频道🇭🇰",France 24
+http://aktv_stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 tvg-name="粵語片台" tvg-id="368381" tvg-logo="logo/haiwai/粤语片台.png" group-title="港澳频道🇭🇰",TVB 粤语片台
+http://jxiptv.dpdns.org/stream/4gtv/null-11/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-name="SUPER Kids Channel" tvg-id="368380" tvg-logo="logo/haiwai/Super Kids Channel.png" group-title="港澳频道🇭🇰",Super Kids Channel
+http://jxiptv.dpdns.org/stream/4gtv/superkidschannel/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-name="亚洲武侠" tvg-id="" tvg-logo="logo/haiwai/功夫台.png" group-title="港澳频道🇭🇰",TVB 功夫
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 tvg-name="无线生活" tvg-id="" tvg-logo="logo/haiwai/TVB生活台.png" group-title="港澳频道🇭🇰",TVB 无线生活
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+#EXTINF:-1 tvg-name="Now爆谷星影台" tvg-id="410286" tvg-logo="logo/haiwai/Now星影.png" group-title="港澳频道🇭🇰",Now星影
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogef31fdg31g1gdg.flv
+#EXTINF:-1 tvg-name="Now 爆谷台" tvg-id="410285" tvg-logo="logo/haiwai/Now爆谷.png" group-title="港澳频道🇭🇰",Now爆谷
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
+#EXTINF:-1 tvg-name="Now新聞台" tvg-id="410344" tvg-logo="logo/haiwai/Now新闻.png" group-title="港澳频道🇭🇰",Now新闻
+http://mytv.cdn.com.mp/live/now/stream.m3u8
+#EXTINF:-1 tvg-name="Now財經台" tvg-id="410345" tvg-logo="logo/haiwai/Now财经.png" group-title="港澳频道🇭🇰",Now财经
+p3p://173.208.176.178:31809/6256e47a0007a6bb0665fa1971252f50
+#EXTINF:-1 tvg-name="Now Sports 1" tvg-id="410396" tvg-logo="logo/haiwai/Now Sports 1.png" group-title="港澳频道🇭🇰",Now Sports 1
+https://gdfire2.67890123.cn:8088/live/nowty2.m3u8
+#EXTINF:-1 tvg-name="Now Sports 2" tvg-id="410397" tvg-logo="logo/haiwai/Now Sports 2.png" group-title="港澳频道🇭🇰",Now Sports 2
+https://gdfire2.67890123.cn:8088/live/nowty1.m3u8
+#EXTINF:-1 tvg-name="Now Sports 3" tvg-id="410398" tvg-logo="logo/haiwai/Now Sports 3.png" group-title="港澳频道🇭🇰",Now Sports 3
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/439047
+#EXTINF:-1 tvg-name="Now Sports 4" tvg-id="410399" tvg-logo="logo/haiwai/Now Sports 4.png" group-title="港澳频道🇭🇰",Now Sports 4
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/439046
+#EXTINF:-1 tvg-name="Now Sports 5" tvg-id="410400" tvg-logo="logo/haiwai/Now Sports 5.png" group-title="港澳频道🇭🇰",Now Sports 5
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/439045
+#EXTINF:-1 tvg-name="Now Sports 6" tvg-id="410401" tvg-logo="logo/haiwai/Now Sports 6.png" group-title="港澳频道🇭🇰",Now Sports 6
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/439044
+#EXTINF:-1 tvg-name="Now Sports 7" tvg-id="410402" tvg-logo="logo/haiwai/Now Sports 7.png" group-title="港澳频道🇭🇰",Now Sports 7 
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/439043
+#EXTINF:-1 tvg-name="Now Sports Plus" tvg-id="410419" tvg-logo="logo/haiwai/Now Sports Plus.png" group-title="港澳频道🇭🇰",Now Sports Plus
+p3p://173.208.176.178:31809/65a442ed000e5f029ad7146558606385
+#EXTINF:-1 tvg-name="Now Sports 精選" tvg-id="410395" tvg-logo="logo/haiwai/Now Sports Prime.png" group-title="港澳频道🇭🇰",Now Sports Prime
+p3p://173.208.176.178:31809/644edbcc0004d5a765428da71f967a86
+#EXTINF:-1 tvg-name="澳视澳门" tvg-id="519" tvg-logo="logo/haiwai/澳视澳门.png" group-title="港澳频道🇭🇰",澳视澳门
+http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳视葡文" tvg-id="" tvg-logo="logo/haiwai/澳视葡文.png" group-title="港澳频道🇭🇰",澳视葡文
+http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳视体育" tvg-id="" tvg-logo="logo/haiwai/澳视体育.png" group-title="港澳频道🇭🇰",澳视体育
+http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳视资讯" tvg-id="" tvg-logo="logo/haiwai/澳视资讯.png" group-title="港澳频道🇭🇰",澳视资讯
+http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳视综艺" tvg-id="" tvg-logo="logo/haiwai/澳视综艺.png" group-title="港澳频道🇭🇰",澳视综艺
+http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳门Macau" tvg-id="" tvg-logo="logo/haiwai/澳门Macau.png" group-title="港澳频道🇭🇰",澳门Macau
+http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-name="澳亚卫视" tvg-id="" tvg-logo="logo/haiwai/澳亚卫视.png" group-title="港澳频道🇭🇰",澳亚卫视
+https://pi.0472.org/tv/aoya.php?auth=2309081833
+#EXTINF:-1 tvg-name="面包台" tvg-id="" tvg-logo="logo/haiwai/面包台.png" group-title="港澳频道🇭🇰",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-name="DW德國之聲" tvg-id="370254" tvg-logo="logo/haiwai/DW德国之声.png" group-title="港澳频道🇭🇰",DW 德国之声
+http://m3u8ts.vip-tptv.xyz:50515/4gtv-live071/index.m3u8
+#EXTINF:-1 tvg-name="美国之音" tvg-id="" tvg-logo="logo/haiwai/美国之音.png" group-title="港澳频道🇭🇰",美国之音
+http://m3u8ts.vip-tptv.xyz:50515/litv-ftv03/index.m3u8
+#EXTINF:-1 tvg-name="亚太第一卫视" tvg-id="" tvg-logo="logo/haiwai/亚太第一卫视.png" group-title="港澳频道🇭🇰",亚太第一卫视
+https://stream1.freetv.fun/di-yi-wei-shi-1.m3u8
+#EXTINF:-1 tvg-name="环球电视台" tvg-id="" tvg-logo="logo/haiwai/环球电视.png" group-title="港澳频道🇭🇰",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-name="亚洲卫视" tvg-id="" tvg-logo="logo/haiwai/亚洲电视.png" group-title="港澳频道🇭🇰",亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+#EXTINF:-1 tvg-name="Channel V HD" tvg-id="" tvg-logo="logo/haiwai/Channel[V].png" group-title="港澳频道🇭🇰",Channel[V]
+https://stream1.freetv.fun/channel-v-1.ctv
+
+#EXTINF:-1 tvg-name="TVBS" tvg-id="369245" tvg-logo="logo/haiwai/TVBS.png" group-title="台湾频道🏞️",TVBS
+http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 tvg-name="TVBS歡樂台" tvg-id="369225" tvg-logo="logo/haiwai/TVBS欢乐.png" group-title="台湾频道🏞️",TVBS 欢乐
+http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+#EXTINF:-1 tvg-name="TVBS 新聞台" tvg-id="369244" tvg-logo="logo/haiwai/TVBS新闻.png" group-title="台湾频道🏞️",TVBS 新闻
+http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
+#EXTINF:-1 tvg-name="東森超視" tvg-id="369189" tvg-logo="logo/haiwai/东森超视.png" group-title="台湾频道🏞️",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="東森電影台" tvg-id="369263" tvg-logo="logo/haiwai/东森电影.png" group-title="台湾频道🏞️",东森电影
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+#EXTINF:-1 tvg-name="東森綜合台" tvg-id="369188" tvg-logo="logo/haiwai/东森综合.png" group-title="台湾频道🏞️",东森综合
+http://198.16.100.186:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+#EXTINF:-1 tvg-name="東森戲劇台" tvg-id="369227" tvg-logo="logo/haiwai/东森戏剧.png" group-title="台湾频道🏞️",东森戏剧
+http://198.16.100.186:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+#EXTINF:-1 tvg-name="東森洋片台" tvg-id="369267" tvg-logo="logo/haiwai/东森洋片.png" group-title="台湾频道🏞️",东森洋片
+http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+#EXTINF:-1 tvg-name="東森幼幼台" tvg-id="368941" tvg-logo="logo/haiwai/东森幼幼.png" group-title="台湾频道🏞️",东森幼幼
+https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
+#EXTINF:-1 tvg-name="三立新聞台" tvg-id="369243" tvg-logo="logo/haiwai/三立新闻.png" group-title="台湾频道🏞️",三立新闻
+http://108.181.20.197/livehttpplay?channel_id=10126
+#EXTINF:-1 tvg-name="三立綜合台" tvg-id="368761" tvg-logo="logo/haiwai/三立综合.png" group-title="台湾频道🏞️",三立综合
+http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+#EXTINF:-1 tvg-name="三立台灣台" tvg-id="368952" tvg-logo="logo/haiwai/三立台湾.png" group-title="台湾频道🏞️",三立台湾
+http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 tvg-name="三立戲劇台HD" tvg-id="368788" tvg-logo="logo/haiwai/三立戏剧.png" group-title="台湾频道🏞️",三立戏剧
+http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+#EXTINF:-1 tvg-name="三立都會台" tvg-id="369190" tvg-logo="logo/haiwai/三立都会.png" group-title="台湾频道🏞️",三立都会
+http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+#EXTINF:-1 tvg-name="華視" tvg-id="368922" tvg-logo="logo/haiwai/华视.png" group-title="台湾频道🏞️",华视 HD
+http://198.16.100.186:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
+#EXTINF:-1 tvg-name="中視新聞台" tvg-id="369324" tvg-logo="logo/haiwai/中视新闻.png" group-title="台湾频道🏞️",中视新闻
+http://198.16.100.186:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+#EXTINF:-1 tvg-name="中視" tvg-id="369325" tvg-logo="logo/haiwai/中视.png" group-title="台湾频道🏞️",中视 HD
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-name="中視經典台HD" tvg-id="368768" tvg-logo="logo/haiwai/中视经典.png" group-title="台湾频道🏞️",中视经典
+http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=MECE1189477111894771&ct=19234&tsum=582d215df269921b0c0ce288b5fac94a
+#EXTINF:-1 tvg-name="中天新聞台" tvg-id="370177" tvg-logo="logo/haiwai/中天新闻.png" group-title="台湾频道🏞️",中天新闻
+http://198.16.100.186:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+#EXTINF:-1 tvg-name="中天娛樂台" tvg-id="369183" tvg-logo="logo/haiwai/中天娱乐.png" group-title="台湾频道🏞️",中天娱乐
+http://198.16.100.186:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+#EXTINF:-1 tvg-name="中天綜合台" tvg-id="369192" tvg-logo="logo/haiwai/中天综合.png" group-title="台湾频道🏞️",中天综合
+http://198.16.100.186:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
+#EXTINF:-1 tvg-name="中天亚洲" tvg-id="" tvg-logo="logo/haiwai/中天亚洲.png" group-title="台湾频道🏞️",中天亚洲
+http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+#EXTINF:-1 tvg-name="民視新聞台HD" tvg-id="368818" tvg-logo="logo/haiwai/民视新闻.png" group-title="台湾频道🏞️",民视新闻
+http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
+#EXTINF:-1 tvg-name="民視無線台" tvg-id="369322" tvg-logo="logo/haiwai/民视.png" group-title="台湾频道🏞️",民视 HD
+http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+#EXTINF:-1 tvg-name="民視第一台" tvg-id="369283" tvg-logo="logo/haiwai/民视第一台.png" group-title="台湾频道🏞️",民视第一
+https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-name="民視台灣台" tvg-id="369239" tvg-logo="logo/haiwai/民视台湾.png" group-title="台湾频道🏞️",民视台湾
+http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
+#EXTINF:-1 tvg-name="公視(HD)" tvg-id="368562" tvg-logo="logo/haiwai/公视.png" group-title="台湾频道🏞️",公视
+http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
+#EXTINF:-1 tvg-name="公視三台" tvg-id="369330" tvg-logo="logo/haiwai/公视3台.png" group-title="台湾频道🏞️",公视3台
+P2p://starvod.xyz:19806/b8364fd0726c4c69ae60d91f9343d42e
+#EXTINF:-1 tvg-name="公視台語台" tvg-id="368925" tvg-logo="logo/haiwai/公视台语.png" group-title="台湾频道🏞️",公视台语
+http://50.7.234.10:8278/ctv_taiwan/plam3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
+#EXTINF:-1 tvg-name="台視" tvg-id="369320" tvg-logo="logo/haiwai/台视.png" group-title="台湾频道🏞️",台视 HD
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-name="台視綜合台" tvg-id="369252" tvg-logo="logo/haiwai/台视综合.png" group-title="台湾频道🏞️",台视综合
+https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
+#EXTINF:-1 tvg-name="緯來綜合台" tvg-id="368944" tvg-logo="logo/haiwai/纬来综合.png" group-title="台湾频道🏞️",纬来综合
+https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
+#EXTINF:-1 tvg-name="緯來戲劇台" tvg-id="369224" tvg-logo="logo/haiwai/纬来戏剧.png" group-title="台湾频道🏞️",纬来戏剧
+http://122.117.71.103:8532/http/61.222.53.250:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 tvg-name="緯來日本台" tvg-id="369284" tvg-logo="logo/haiwai/纬来日本.png" group-title="台湾频道🏞️",纬来日本
+http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBEB7017910870179108&ct=19346&tsum=f7186077b9ae7cdb1970969bd90a4d0a
+#EXTINF:-1 tvg-name="緯來電影台" tvg-id="369262" tvg-logo="logo/haiwai/纬来电影.png" group-title="台湾频道🏞️",纬来电影
+https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+#EXTINF:-1 tvg-name="緯來體育台" tvg-id="369287" tvg-logo="logo/haiwai/纬来体育.png" group-title="台湾频道🏞️",纬来体育
+https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-name="緯來育樂台" tvg-id="369289" tvg-logo="logo/haiwai/纬来育乐.png" group-title="台湾频道🏞️",纬来音乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-name="緯來精采HD" tvg-id="368773" tvg-logo="logo/haiwai/纬来精采.png" group-title="台湾频道🏞️",纬来精彩
+http://smt.iktv.ddns-ip.net/Smart.php?id=videolandspecial_twn
+#EXTINF:-1 tvg-name="龍華戲劇HD" tvg-id="368790" tvg-logo="logo/haiwai/龙华戏剧.png" group-title="台湾频道🏞️",龙华戏剧
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+#EXTINF:-1 tvg-name="龍華電影HD" tvg-id="368838" tvg-logo="logo/haiwai/龙华电影.png" group-title="台湾频道🏞️",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-name="龍華日韓台" tvg-id="370230" tvg-logo="logo/haiwai/龙华日韩.png" group-title="台湾频道🏞️",龙华日韩
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1 tvg-name="龍華卡通台" tvg-id="370166" tvg-logo="logo/haiwai/龙华卡通.png" group-title="台湾频道🏞️",龙华卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+#EXTINF:-1 tvg-name="龍華偶像HD" tvg-id="368791" tvg-logo="logo/haiwai/龙华偶像.png" group-title="台湾频道🏞️",龙华偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 tvg-name="龍華經典HD" tvg-id="368846" tvg-logo="logo/haiwai/龙华经典.png" group-title="台湾频道🏞️",龙华经典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 tvg-name="龍華洋片HD" tvg-id="368841" tvg-logo="logo/haiwai/龙华洋片.png" group-title="台湾频道🏞️",龙华洋片
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-name="Discovery Asia HD" tvg-id="369275" tvg-logo="logo/haiwai/DiscoveryAsia.png" group-title="台湾频道🏞️",Discovery Asia
+https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-name="Discovery" tvg-id="368930" tvg-logo="logo/haiwai/Discovery.png" group-title="台湾频道🏞️",Discovery
+http://mytv.cdn.com.mp/live/d/stream.m3u8
+#EXTINF:-1 tvg-name="NATGEO" tvg-id="" tvg-logo="logo/haiwai/国家地理.png" group-title="台湾频道🏞️",国家地理
+http://108.181.20.197/livehttpplay?channel_id=20037
+#EXTINF:-1 tvg-name="DMAX HD" tvg-id="368632" tvg-logo="logo/haiwai/DMAX.png" group-title="台湾频道🏞️",DMAX
+http://198.16.100.186:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
+#EXTINF:-1 tvg-name="Discovery科學頻道" tvg-id="369274" tvg-logo="logo/haiwai/Discovery科学.png" group-title="台湾频道🏞️",Discovery科学
+http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA5A1483878814838788&ct=19234&tsum=0ddc2f194c37e1b7d091efc180f3de7a
+#EXTINF:-1 tvg-name="八大戲劇台" tvg-id="369226" tvg-logo="logo/haiwai/八大戏剧.png" group-title="台湾频道🏞️",八大戏剧
+http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
+#EXTINF:-1 tvg-name="八大綜合台" tvg-id="368953" tvg-logo="logo/haiwai/八大综合.png" group-title="台湾频道🏞️",八大综合
+http://198.16.100.186:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
+#EXTINF:-1 tvg-name="八大第一台" tvg-id="368943" tvg-logo="logo/haiwai/八大第一.png" group-title="台湾频道🏞️",八大第一
+http://198.16.100.186:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-id="369238" tvg-logo="logo/haiwai/靖天卡通.png" group-title="台湾频道🏞️",靖天卡通
+http://198.16.100.186:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+#EXTINF:-1 tvg-name="KLT-靖天國際台HD" tvg-id="368690" tvg-logo="logo/haiwai/靖天国际.png" group-title="台湾频道🏞️",靖天国际
+http://198.16.100.186:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+#EXTINF:-1 tvg-name="亞洲美食頻道" tvg-id="368721" tvg-logo="logo/haiwai/AsianFood.png" group-title="台湾频道🏞️",Asian Food
+https://pixman.mytvsuper.com.mp/Smart.php?id=afc_twn
+#EXTINF:-1 tvg-name="美食星球HD" tvg-id="368714" tvg-logo="logo/haiwai/美食星球.png" group-title="台湾频道🏞️",美食星球
+https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
+#EXTINF:-1 tvg-name="Food Network 美食台HD" tvg-id="368727" tvg-logo="logo/haiwai/FoodNetwork.png" group-title="台湾频道🏞️",Food Network
+https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
+#EXTINF:-1 tvg-name="AXN" tvg-id="369266" tvg-logo="logo/haiwai/AXN.png" group-title="台湾频道🏞️",AXN
+http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+#EXTINF:-1 tvg-name="美亞電影HD" tvg-id="334984" tvg-logo="logo/haiwai/美亚电影.png" group-title="台湾频道🏞️",美亚电影
+https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="華藝MBC綜合台" tvg-id="369191" tvg-logo="logo/haiwai/华艺MBC综合.png" group-title="台湾频道🏞️",华艺MBC综合
+https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
+#EXTINF:-1 tvg-name="ETtoday綜合台" tvg-id="368775" tvg-logo="logo/haiwai/ETtoday综合.png" group-title="台湾频道🏞️",ETtoday综合
+P2p://starvod.xyz:19806/255f176eaad242b0a79a18d291b095ea
+#EXTINF:-1 tvg-name="高點電視台" tvg-id="369223" tvg-logo="logo/haiwai/高点综合.png" group-title="台湾频道🏞️",高点综合
+P2p://starvod.xyz:19806/5d7656b21e794b24a8ce14c1887fe1c3
+#EXTINF:-1 tvg-name="MOMO綜合台4K" tvg-id="369286" tvg-logo="logo/haiwai/momo综合.png" group-title="台湾频道🏞️",MOMO 综合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 tvg-name="TLC旅遊生活頻道" tvg-id="368945" tvg-logo="logo/haiwai/TLC旅游生活.png" group-title="台湾频道🏞️",TLC旅游生活
+http://198.16.100.186:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+#EXTINF:-1 tvg-name="HBO" tvg-id="369264" tvg-logo="logo/haiwai/HBO电影.png" group-title="台湾频道🏞️",HBO 电影
+http://jxiptv.dpdns.org/stream/4gtv/hbohd/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-name="HBO 溫馨家庭" tvg-id="368911" tvg-logo="logo/haiwai/HBO温馨家庭.png" group-title="台湾频道🏞️",HBO 温馨家庭
+https://smart.pendy.dpdns.org/Smart.php?id=fyi_twn
+#EXTINF:-1 tvg-name="HBO 原創鉅獻" tvg-id="369197" tvg-logo="logo/haiwai/HBO原创巨献.png" group-title="台湾频道🏞️",HBO 原创巨献
+http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 tvg-name="HBO 強檔鉅獻" tvg-id="369199" tvg-logo="logo/haiwai/HBO强档巨献.png" group-title="台湾频道🏞️",HBO 强档巨献
+https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
+#EXTINF:-1 tvg-name="東風衛視" tvg-id="369193" tvg-logo="logo/haiwai/东风卫视.png" group-title="台湾频道🏞️",东风卫视
+http://122.117.71.103:8527/http/61.222.53.250:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 tvg-name="卡通頻道" tvg-id="369326" tvg-logo="logo/haiwai/CN卡通.png" group-title="台湾频道🏞️",CN卡通
+http://198.16.100.186:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
+#EXTINF:-1 tvg-name="TaiwanPlus" tvg-id="369296" tvg-logo="logo/haiwai/TaiWanPlus.png" group-title="台湾频道🏞️",Taiwan Plus
+http://dreator800.top/iptv/tw.php?id=1674
+#EXTINF:-1 tvg-name="壹電視新聞台" tvg-id="369218" tvg-logo="logo/haiwai/壹新闻.png" group-title="台湾频道🏞️",壹新闻
+http://live4play.uk/livehttpplay?channel_id=20028
+#EXTINF:-1 tvg-name="壹電視資訊綜合台" tvg-id="369218" tvg-logo="logo/haiwai/壹综合.png" group-title="台湾频道🏞️",壹综合
+http://106.53.99.30/iptv.php?id=86
+#EXTINF:-1 tvg-name="壹電視電影台" tvg-id="369237" tvg-logo="logo/haiwai/壹电影.png" group-title="台湾频道🏞️",壹电影
+P2p://starvod.xyz:19806/423c530a8d8e406b9e5ff5f84bb4717a
+#EXTINF:-1 tvg-name="年代新聞台" tvg-id="369247" tvg-logo="logo/haiwai/年代新闻.png" group-title="台湾频道🏞️",年代新闻
+http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+#EXTINF:-1 tvg-name="年代MUCH TV" tvg-id="369182" tvg-logo="logo/haiwai/年代MUCH.png" group-title="台湾频道🏞️",年代Much TV
+http://122.117.71.103:8528/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="370179" tvg-logo="logo/haiwai/寰宇新闻.png" group-title="台湾频道🏞️",寰宇新闻
+http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3db965a62a2076260e55840cc2f47ff1
+#EXTINF:-1 tvg-name="寰宇財經台" tvg-id="370182" tvg-logo="logo/haiwai/寰宇财经.png" group-title="台湾频道🏞️",寰宇财经
+https://smart.pendy.dpdns.org/Smart.php
+#EXTINF:-1 tvg-name="戲劇免費看 1台" tvg-id="370263" tvg-logo="logo/haiwai/戏剧免费看1台.png" group-title="台湾频道🏞️",戏剧免费看1台
+http://m3u8ts.vip-tptv.xyz:50515/4gtv-live010/index.m3u8
+#EXTINF:-1 tvg-name="戲劇免費看 2台" tvg-id="370264" tvg-logo="logo/haiwai/戏剧免费看2台.png" group-title="台湾频道🏞️",戏剧免费看2台
+https://tv.iill.top/4gtv/244
+#EXTINF:-1 tvg-name="電影免費看 2台" tvg-id="370265" tvg-logo="logo/haiwai/电影免费看2台.png" group-title="台湾频道🏞️",电影免费看2台
+https://tv.iill.top/4gtv/245
+#EXTINF:-1 tvg-name="CATCHPLAY電影台" tvg-id="369260" tvg-logo="logo/haiwai/Catchplay电影.png" group-title="台湾频道🏞️",CatchPlay 电影
+http://108.181.20.197/livehttpplay?channel_id=10127
+#EXTINF:-1 tvg-name="好萊塢電影台" tvg-id="369269" tvg-logo="logo/haiwai/好莱坞电影台.png" group-title="台湾频道🏞️",好莱坞电影台
+https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-name="罪案偵緝頻道HD" tvg-id="368653" tvg-logo="logo/haiwai/罪案侦缉频道.png" group-title="台湾频道🏞️",Crime Investigation罪案侦缉
+http://50.7.234.10:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+#EXTINF:-1 tvg-name="JStar極限台電影頻道" tvg-id="369157" tvg-logo="logo/haiwai/JStar.png" group-title="台湾频道🏞️",极限电影
+p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3
+#EXTINF:-1 tvg-name="ARIRANG阿里郎頻道" tvg-id="370152" tvg-logo="logo/haiwai/阿里郎.png" group-title="台湾频道🏞️",Arirang 阿里郎
+http://198.16.100.186:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+#EXTINF:-1 tvg-name="動物星球" tvg-id="368948" tvg-logo="logo/haiwai/动物星球.png" group-title="台湾频道🏞️",动物星球
+http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME5E9654770896547708&ct=19338&tsum=775367f2f591f704aaf1489d70434b49
+#EXTINF:-1 tvg-name="博斯運動一台" tvg-id="369230" tvg-logo="logo/haiwai/博斯运动Ⅰ.png" group-title="台湾频道🏞️",博斯运动Ⅰ
+http://198.16.100.186:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+#EXTINF:-1 tvg-name="博斯運動二台" tvg-id="369217" tvg-logo="logo/haiwai/博斯运动Ⅱ.png" group-title="台湾频道🏞️",博斯运动Ⅱ
+http://198.16.100.186:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1 tvg-name="博斯無限台" tvg-id="369235" tvg-logo="logo/haiwai/博斯无限Ⅰ.png" group-title="台湾频道🏞️",博斯无限Ⅰ
+https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
+#EXTINF:-1 tvg-name="博斯無限二台" tvg-id="369229" tvg-logo="logo/haiwai/博斯无限Ⅱ.png" group-title="台湾频道🏞️",博斯无限Ⅱ
+https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
+#EXTINF:-1 tvg-name="博斯高球1台" tvg-id="369233" tvg-logo="logo/haiwai/博斯高球Ⅰ.png" group-title="台湾频道🏞️",博斯高球Ⅰ
+http://198.16.100.186:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+#EXTINF:-1 tvg-name="博斯網球台" tvg-id="369216" tvg-logo="logo/haiwai/博斯网球.png" group-title="台湾频道🏞️",博斯网球
+https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
+#EXTINF:-1 tvg-name="愛爾達綜合台HD" tvg-id="368760" tvg-logo="logo/haiwai/艾尔达综合.png" group-title="台湾频道🏞️",艾尔达综合
+https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-id="368589" tvg-logo="logo/haiwai/艾尔达体育Ⅰ.png" group-title="台湾频道🏞️",艾尔达体育Ⅰ
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-id="368590" tvg-logo="logo/haiwai/艾尔达体育Ⅱ.png" group-title="台湾频道🏞️",艾尔达体育Ⅱ
+http://198.16.100.186:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-id="368591" tvg-logo="logo/haiwai/艾尔达体育Ⅲ.png" group-title="台湾频道🏞️",艾尔达体育Ⅲ
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="愛爾達體育4台" tvg-id="368592" tvg-logo="logo/haiwai/艾尔达体育Ⅲ.png" group-title="台湾频道🏞️",艾尔达体育Ⅳ
+https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
+#EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-id="370149" tvg-logo="logo/haiwai/艾尔达娱乐.png" group-title="台湾频道🏞️",艾尔达娱乐
+http://m3u8ts.vip-tptv.xyz:50515/4gtv-4gtv070/index.m3u8
+#EXTINF:-1 tvg-name="愛爾達影劇台HD" tvg-id="368793" tvg-logo="logo/haiwai/艾尔达影剧.png" group-title="台湾频道🏞️",艾尔达影剧
+https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
+#EXTINF:-1 tvg-name="DAZN 1" tvg-id="369288" tvg-logo="logo/haiwai/DAZN1.png" group-title="台湾频道🏞️",DAZN 1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-name="DAZN 2" tvg-id="369285" tvg-logo="logo/haiwai/DAZN2.png" group-title="台湾频道🏞️",DAZN 2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-name="NHK" tvg-id="368940" tvg-logo="logo/haiwai/NHK.png" group-title="台湾频道🏞️",NHK 新闻资讯
+http://aktv_stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 tvg-name="非凡新聞台" tvg-id="369240" tvg-logo="logo/haiwai/非凡新闻.png" group-title="台湾频道🏞️",非凡新闻
+http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+#EXTINF:-1 tvg-name="Z頻道" tvg-id="369186" tvg-logo="logo/haiwai/Z频道.png" group-title="台湾频道🏞️",Z频道
+P2p://starvod.xyz:19806/d4c9297b510841e5be2e06f1037d8912
+#EXTINF:-1 tvg-name="信吉電視台" tvg-id="369315" tvg-logo="logo/haiwai/信吉卫视.png" group-title="台湾频道🏞️",信吉卫视
+https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
+#EXTINF:-1 tvg-name="LSTime电影台" tvg-id="392630" tvg-logo="logo/haiwai/龙祥时代电影.png" group-title="台湾频道🏞️",龙祥时代电影
+http://jxiptv.dpdns.org/stream/4gtv/null-12/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 tvg-name="EYE TV戲劇台HD" tvg-id="368796" tvg-logo="logo/haiwai/EYETV戏剧.png" group-title="台湾频道🏞️",EYETV戏剧
+http://198.16.100.186:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+#EXTINF:-1 tvg-name="EYE TV旅遊台HD" tvg-id="368739" tvg-logo="logo/haiwai/EYETV旅游.png" group-title="台湾频道🏞️",EYETV旅游
+http://198.16.100.186:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+#EXTINF:-1 tvg-name="TechStorm" tvg-id="370212" tvg-logo="logo/haiwai/TechStorm.png" group-title="台湾频道🏞️",TechStorm
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/455.m3u8
+#EXTINF:-1 tvg-name="Warner TV" tvg-id="369177" tvg-logo="logo/haiwai/Warner.png" group-title="台湾频道🏞️",Warner TV
+http://50.7.234.10:8278/WarnerTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=cba8fbd0d48bb35836fc4843c498b8b9
+#EXTINF:-1 tvg-name="韓國娛樂台KMTV" tvg-id="368912" tvg-logo="logo/haiwai/韩国娱乐.png" group-title="台湾频道🏞️",韩国娱乐台KMTV
+https://ali.hlspull.yximgs.com/live/diyp_hanguoyuletai.flv
+#EXTINF:-1 tvg-name="EVE" tvg-id="368932" tvg-logo="logo/haiwai/EVE.png" group-title="台湾频道🏞️",EVE
+P2p://starvod.xyz:19806/ef743b41cc2c4381821f0df839db8b47
+#EXTINF:-1 tvg-name="國興衛視" tvg-id="369291" tvg-logo="logo/haiwai/国兴卫视.png" group-title="台湾频道🏞️",国兴卫视
+http://108.181.20.197/livehttpplay?channel_id=20164
+#EXTINF:-1 tvg-name="TV5MONDE" tvg-id="368859" tvg-logo="logo/haiwai/TV5Monde.png" group-title="台湾频道🏞️",TV5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-id="368919" tvg-logo="logo/haiwai/Mtv综合.png" group-title="台湾频道🏞️",MTV 综合
+http://50.7.234.10:8278/mtvhd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b2cc2b287f244ecf2567892c6e60c503
+#EXTINF:-1 tvg-name="Fashion TV HD" tvg-id="368752" tvg-logo="logo/haiwai/FashionTV.png" group-title="台湾频道🏞️",Fashion TV
+https://pixman.mytvsuper.com.mp/Smart.php?id=fashiontv_twn
+#EXTINF:-1 tvg-name="霹靂台灣台" tvg-id="368891" tvg-logo="logo/haiwai/霹雳台湾台.png" group-title="台湾频道🏞️",霹雳台湾台
+P2p://starvod.xyz:19806/a0b26422b0684852a0a247b793caca27
+#EXTINF:-1 tvg-name="BBC News" tvg-id="369234" tvg-logo="logo/haiwai/BBCNews.png" group-title="台湾频道🏞️",BBC News
+http://198.16.100.186:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
+#EXTINF:-1 tvg-name="BBC Earth" tvg-id="368929" tvg-logo="logo/haiwai/BBC Earth.png" group-title="台湾频道🏞️",BBC Earth
+http://108.181.20.197/livehttpplay?channel_id=20044
+#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-id="369292" tvg-logo="logo/haiwai/BBC Lifestyle.png" group-title="台湾频道🏞️",BBC Lifestyle
+https://pixman.mytvsuper.com.mp/Smart.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-name="Cinemax" tvg-id="369290" tvg-logo="logo/haiwai/Cinemax.png" group-title="台湾频道🏞️",Cinemax
+http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+#EXTINF:-1 tvg-name="JET綜合台" tvg-id="369222" tvg-logo="logo/haiwai/JET综合.png" group-title="台湾频道🏞️",JET综合
+p3p://108.181.32.169:23371/6425254d000d3abeea7339f47b5d4bf5
+#EXTINF:-1 tvg-name="HGTV居家樂活頻道" tvg-id="368708" tvg-logo="logo/haiwai/HGTV居家乐活.png" group-title="台湾频道🏞️",HGTV居家乐活
+https://pixman.mytvsuper.com.mp/Smart.php?id=HGTV
+#EXTINF:-1 tvg-name="星卫电影台" tvg-id="" tvg-logo="logo/haiwai/星卫电影台.png" group-title="台湾频道🏞️",星卫电影台
+http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+#EXTINF:-1 tvg-name="BBC NEWS HD" tvg-id="368825" tvg-logo="logo/haiwai/BBC World News.png" group-title="台湾频道🏞️",BBC World News
+http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 tvg-name="CNBC Asia 財經台" tvg-id="370253" tvg-logo="logo/haiwai/CNBCAsia.png" group-title="台湾频道🏞️",CNBC Asia 财经
+http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-id="369271" tvg-logo="logo/haiwai/亚洲旅游.png" group-title="台湾频道🏞️",亚洲旅游台
+http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+#EXTINF:-1 tvg-name="大立電視台 HD" tvg-id="368784" tvg-logo="logo/haiwai/大立电视.png" group-title="台湾频道🏞️",Dali TV大立
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-name="Global Trekker" tvg-id="370153" tvg-logo="logo/haiwai/GlobalTrekker.png" group-title="台湾频道🏞️",Global Trekker
+http://198.16.100.186:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
+#EXTINF:-1 tvg-name="天良綜合台" tvg-id="369185" tvg-logo="logo/haiwai/天良电视.png" group-title="台湾频道🏞️",天良综合
+http://60.248.91.20:8000/main
+#EXTINF:-1 tvg-name="番薯衛星電視台" tvg-id="369184" tvg-logo="logo/haiwai/番薯台.png" group-title="台湾频道🏞️",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 tvg-name="彭博財經台" tvg-id="368949" tvg-logo="logo/haiwai/Bloomberg.png" group-title="台湾频道🏞️",彭博财经
+http://198.16.100.186:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+#EXTINF:-1 tvg-name="CNN" tvg-id="369321" tvg-logo="logo/haiwai/CNN.png" group-title="台湾频道🏞️",CNN
+http://198.16.100.186:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+#EXTINF:-1 tvg-name="中旺电视" tvg-id="" tvg-logo="logo/haiwai/中旺电视.png" group-title="台湾频道🏞️",中旺电视
+http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
+#EXTINF:-1 tvg-name="生命電視HD" tvg-id="368857" tvg-logo="logo/haiwai/生命电视.png" group-title="台湾频道🏞️",生命电视
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 tvg-name="好消息2台" tvg-id="370248" tvg-logo="logo/haiwai/好消息Ⅱ.png" group-title="台湾频道🏞️",好消息Ⅱ
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="湖南经视" tvg-id="331" tvg-logo="logo/hunan/湖南经视.png" group-title="湖南频道🌏", 湖南经视
+http://110.52.99.109:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-name="湖南都市" tvg-id="332" tvg-logo="logo/hunan/湖南都市.png" group-title="湖南频道🌏", 湖南都市
+http://110.52.99.109:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-id="336" tvg-logo="logo/hunan/湖南爱晚.png" group-title="湖南频道🌏", 湖南爱晚
+http://p2.vzan.com/527645544/149039617847513156/live.m3u8
+#EXTINF:-1 tvg-name="湖南国际" tvg-id="406" tvg-logo="logo/hunan/湖南国际.png" group-title="湖南频道🌏", 湖南国际
+http://110.52.99.109:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-id="333" tvg-logo="logo/hunan/湖南娱乐.png" group-title="湖南频道🌏", 湖南娱乐
+http://110.52.99.109:9901/tsfile/live/1032_1.m3u8
+#EXTINF:-1 tvg-name="湖南电影" tvg-id="334" tvg-logo="logo/hunan/湖南电影.png" group-title="湖南频道🌏", 湖南电影
+http://110.52.99.109:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-id="335" tvg-logo="logo/hunan/湖南电视剧.png" group-title="湖南频道🌏", 湖南电视剧
+http://110.52.99.109:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 tvg-name="湖南教育" tvg-id="337" tvg-logo="logo/hunan/湖南教育.png" group-title="湖南频道🌏", 湖南教育
+http://110.52.99.109:9901/tsfile/live/1026_1.m3u8
+
+
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="209" tvg-logo="logo/shanghai/哈哈炫动.png" group-title="上海频道🌏", 哈哈炫动
+http://180.156.182.53:8888/udp/239.45.1.55:5140
+#EXTINF:-1 tvg-name="五星体育" tvg-id="170" tvg-logo="logo/shanghai/五星体育.png" group-title="上海频道🌏", 五星体育
+http://218.78.182.69:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-id="199" tvg-logo="logo/shanghai/上海新闻综合.png" group-title="上海频道🌏", 上海新闻综合
+http://aiony.top:35455/mgtv/651632657.m3u8
+#EXTINF:-1 tvg-name="上海都市" tvg-id="263" tvg-logo="logo/shanghai/上海都市.png" group-title="上海频道🌏", 上海都市
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226753/index.m3u8
+#EXTINF:-1 tvg-name="第一财经" tvg-id="198" tvg-logo="logo/shanghai/第一财经.png" group-title="上海频道🌏", 第一财经
+http://aiony.top:35455/mgtv/608780988.m3u8
+#EXTINF:-1 tvg-name="上海外语" tvg-id="197" tvg-logo="logo/shanghai/上海外语.png" group-title="上海频道🌏", 上海外语
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-name="纪实人文" tvg-id="196" tvg-logo="logo/shanghai/纪实人文.png" group-title="上海频道🌏", 纪实人文
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226174/index.m3u8
+#EXTINF:-1 tvg-name="上海教育" tvg-id="419" tvg-logo="logo/shanghai/上海教育.png" group-title="上海频道🌏", 上海教育
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000107/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000107&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="东方财经" tvg-id="东方财经" tvg-logo="logo/shanghai/东方财经.png" group-title="上海频道🌏", 东方财经
+http://aiony.top:35455/bst/dfcjhd4m@4000000.m3u8
+
+
+#EXTINF:-1 tvg-name="浙江新闻" tvg-id="204" tvg-logo="logo/zhejiang/浙江新闻.png" group-title="浙江频道🌏", 浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="205" tvg-logo="logo/zhejiang/浙江少儿.png" group-title="浙江频道🌏", 浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="之江纪录" tvg-id="207" tvg-logo="logo/zhejiang/之江记录.png" group-title="浙江频道🌏", 之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江国际" tvg-id="206" tvg-logo="logo/zhejiang/浙江国际.png" group-title="浙江频道🌏", 浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-id="201" tvg-logo="logo/zhejiang/浙江经济生活.png" group-title="浙江频道🌏", 浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-id="202" tvg-logo="logo/zhejiang/浙江科教影视.png" group-title="浙江频道🌏", 浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-id="203" tvg-logo="logo/zhejiang/浙江民生休闲.png" group-title="浙江频道🌏", 浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-name="钱江都市" tvg-id="200" tvg-logo="logo/zhejiang/钱江都市.png" group-title="浙江频道🌏", 钱江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-name="绍兴新闻综合" tvg-id="551" tvg-logo="logo/zhejiang/绍兴新闻综合.png" group-title="浙江频道🌏", 绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1 tvg-name="绍兴公共频道🌏" tvg-id="552" tvg-logo="logo/zhejiang/绍兴公共.png" group-title="浙江频道🌏", 绍兴公共
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 tvg-name="绍兴文化影视" tvg-id="553" tvg-logo="logo/zhejiang/绍兴文化影视.png" group-title="浙江频道🌏", 绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-id="136" tvg-logo="logo/beijing/北京纪实科教.png" group-title="北京频道🌏", 北京纪实科教
+http://39.137.75.230/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=no
+
+
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="158" tvg-logo="logo/guangdong/广东新闻.png" group-title="广东频道🌏", 广东新闻
+http://113.64.146.94:2024/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-id="319" tvg-logo="logo/guangdong/广东民生.png" group-title="广东频道🌏", 广东民生
+http://113.64.146.94:2024/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="广东影视" tvg-id="162" tvg-logo="logo/guangdong/广东影视.png" group-title="广东频道🌏", 广东影视
+http://113.64.146.94:2024/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-id="156" tvg-logo="logo/guangdong/广东体育.png" group-title="广东频道🌏", 广东体育
+http://113.64.146.94:2024/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="广东综艺" tvg-id="161" tvg-logo="logo/guangdong/广东综艺.png" group-title="广东频道🌏", 广东综艺
+http://113.118.13.45:808/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="广东少儿" tvg-id="164" tvg-logo="logo/guangdong/广东少儿.png" group-title="广东频道🌏", 广东少儿
+http://113.64.94.248:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="广东经济科教" tvg-id="160" tvg-logo="logo/guangdong/广东经济科教.png" group-title="广东频道🌏", 广东经济科教
+http://113.64.146.94:2024/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-id="155" tvg-logo="logo/guangdong/广东珠江.png" group-title="广东频道🌏", 广东珠江
+http://113.64.146.94:2024/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="广州综合" tvg-id="广州综合" tvg-logo="logo/guangdong/广州综合.png" group-title="广东频道🌏", 广州综合
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+#EXTINF:-1 tvg-name="广州新闻" tvg-id="广州新闻" tvg-logo="logo/guangdong/广州新闻.png" group-title="广东频道🌏", 广州新闻
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
+#EXTINF:-1 tvg-name="广州法治" tvg-id="广州法治" tvg-logo="logo/guangdong/广州法治.png" group-title="广东频道🌏", 广州法治
+https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
+#EXTINF:-1 tvg-name="广州竞赛" tvg-id="广州竞赛" tvg-logo="logo/guangdong/广州竞赛.png" group-title="广东频道🌏", 广州竞赛
+https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
+#EXTINF:-1 tvg-name="广州影视" tvg-id="广州影视" tvg-logo="logo/guangdong/广州影视.png" group-title="广东频道🌏", 广州影视
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
+#EXTINF:-1 tvg-name="南国都市" tvg-id="南国都市" tvg-logo="logo/guangdong/南国都市.png" group-title="广东频道🌏", 南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1 tvg-name="潮州民生" tvg-id="潮州民生" tvg-logo="logo/guangdong/潮州民生.png" group-title="广东频道🌏", 潮州民生
+http://113.64.146.94:2024/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="汕头新闻综合" tvg-id="347" tvg-logo="logo/guangdong/汕头新闻综合.png" group-title="广东频道🌏",汕头综合
+http://113.64.146.94:2024/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="汕头经济生活" tvg-id="348" tvg-logo="logo/guangdong/汕头经济生活.png" group-title="广东频道🌏", 汕头经济生活
+http://113.64.146.94:2024/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="汕头文旅体育" tvg-id="349" tvg-logo="logo/guangdong/汕头文旅体育.png" group-title="广东频道🌏", 汕头文旅体育
+http://183.53.109.165:9090/udp/239.77.1.132:5146
+#EXTINF:-1 tvg-name="深圳都市" tvg-id="532" tvg-logo="logo/guangdong/深圳都市.png" group-title="广东频道🌏", 深圳都市
+http://113.64.94.248:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="岭南戏曲" tvg-id="165" tvg-logo="logo/guangdong/岭南戏曲.png" group-title="广东频道🌏", 岭南戏曲
+http://113.64.146.94:2024/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="现代教育" tvg-id="506" tvg-logo="logo/guangdong/现代教育.png" group-title="广东频道🌏", 现代教育
+http://113.64.146.94:2024/hls/49/index.m3u8
+
+#EXTINF:-1 tvg-name="苏州新闻综合" tvg-id="220" tvg-logo="logo/jiangsu/苏州新闻综合.png" group-title="江苏频道🌏", 苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-name="苏州社会经济" tvg-id="220" tvg-logo="logo/jiangsu/苏州社会经济.png" group-title="江苏频道🌏", 苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-id="220" tvg-logo="logo/jiangsu/苏州文化生活.png" group-title="江苏频道🌏", 苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 tvg-name="苏州生活资讯" tvg-id="220" tvg-logo="logo/jiangsu/苏州生活资讯.png" group-title="江苏频道🌏", 苏州生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+
+#EXTINF:-1 tvg-name="海南新闻" tvg-id="287" tvg-logo="logo/hainan/海南新闻.png" group-title="海南频道🌏", 海南新闻
+http://nn.7x9d.cn/%E5%9C%B0%E6%96%B9%E5%8F%B08563/%E6%B5%B7%E5%8D%97.php?id=xwpd
+#EXTINF:-1 tvg-name="海南自贸" tvg-id="286" tvg-logo="logo/hainan/海南经济.png" group-title="海南频道🌏", 海南自贸
+http://nn.7x9d.cn/%E5%9C%B0%E6%96%B9%E5%8F%B08563/%E6%B5%B7%E5%8D%97.php?id=jjpd
+#EXTINF:-1 tvg-name="海南文旅" tvg-id="290" tvg-logo="logo/hainan/海南文旅.png" group-title="海南频道🌏", 海南文旅
+http://nn.7x9d.cn/%E5%9C%B0%E6%96%B9%E5%8F%B08563/%E6%B5%B7%E5%8D%97.php?id=wlpd
+#EXTINF:-1 tvg-name="海南公共" tvg-id="288" tvg-logo="logo/hainan/海南公共.png" group-title="海南频道🌏", 海南公共
+http://nn.7x9d.cn/%E5%9C%B0%E6%96%B9%E5%8F%B08563/%E6%B5%B7%E5%8D%97.php?id=ggpd
+#EXTINF:-1 tvg-name="海南少儿" tvg-id="291" tvg-logo="logo/hainan/海南少儿.png" group-title="海南频道🌏", 海南少儿
+http://nn.7x9d.cn/%E5%9C%B0%E6%96%B9%E5%8F%B08563/%E6%B5%B7%E5%8D%97.php?id=sepd
+
+#EXTINF:-1 tvg-name="广西新闻" tvg-id="212" tvg-logo="logo/guangxi/广西新闻.png" group-title="广西频道🌏", 广西新闻
+http://182.91.124.224:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="广西影视" tvg-id="211" tvg-logo="logo/guangxi/广西影视.png" group-title="广西频道🌏", 广西影视
+http://36.136.38.87:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西都市" tvg-id="210" tvg-logo="logo/guangxi/广西都市.png" group-title="广西频道🌏", 广西都市
+http://36.136.38.87:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西综艺旅游" tvg-id="397" tvg-logo="logo/guangxi/广西综艺旅游.png" group-title="广西频道🌏", 广西综艺旅游
+http://36.136.38.87:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西国际" tvg-id="213" tvg-logo="logo/guangxi/广西国际.png" group-title="广西频道🌏", 广西国际
+http://222.84.235.130:4022/udp/239.81.0.8:4056
+
+
+#EXTINF:-1 tvg-name="福建综合" tvg-id="266" tvg-logo="logo/fujian/福建综合.png" group-title="福建频道🌏", 福建综合
+http://110.81.206.138:49231/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建公共" tvg-id="267" tvg-logo="logo/fujian/福建公共.png" group-title="福建频道🌏", 福建公共
+http://110.81.206.138:49231/tsfile/live/23024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建新闻" tvg-id="268" tvg-logo="logo/fujian/福建新闻.png" group-title="福建频道🌏", 福建新闻
+http://110.81.206.138:49231/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建电视剧" tvg-id="269" tvg-logo="logo/fujian/福建电视剧.png" group-title="福建频道🌏", 福建电视剧
+http://110.81.206.138:49231/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建旅游" tvg-id="270" tvg-logo="logo/fujian/福建旅游.png" group-title="福建频道🌏", 福建旅游
+http://110.81.206.138:49231/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建文体" tvg-id="271" tvg-logo="logo/fujian/福建文体.png" group-title="福建频道🌏",福建文体
+http://110.81.206.138:49231/tsfile/live/23029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建经济" tvg-id="272" tvg-logo="logo/fujian/福建经济.png" group-title="福建频道🌏",福建经济
+http://110.81.206.138:49231/tsfile/live/23028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建少儿" tvg-id="273" tvg-logo="logo/fujian/福建少儿.png" group-title="福建频道🌏", 福建少儿
+http://110.81.206.138:49231/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建教育" tvg-id="433" tvg-logo="logo/fujian/福建教育.png" group-title="福建频道🌏", 福建教育
+http://110.81.206.138:49231/tsfile/live/23031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="厦门一套" tvg-id="433" tvg-logo="logo/fujian/厦门一套.png" group-title="福建频道🌏", 厦门一套
+http://106.53.99.30/dl/xmtv.php?id=xm1
+#EXTINF:-1 tvg-name="厦门二套" tvg-id="433" tvg-logo="logo/fujian/厦门二套.png" group-title="福建频道🌏", 厦门二套
+http://106.53.99.30/dl/xmtv.php?id=xm2
+#EXTINF:-1 tvg-name="厦门移动" tvg-id="433" tvg-logo="logo/fujian/厦门移动.png" group-title="福建频道🌏", 厦门移动
+http://106.53.99.30/dl/xmtv.php?id=xmyd
+
+
+#EXTINF:-1 tvg-name="江西新闻" tvg-id="249" tvg-logo="logo/jiangxi/江西新闻.png" group-title="江西频道🌏", 江西新闻
+http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?t=t&token=t
+#EXTINF:-1 tvg-name="江西少儿" tvg-id="250" tvg-logo="logo/jiangxi/江西少儿.png" group-title="江西频道🌏", 江西少儿
+http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?t=t&token=t
+#EXTINF:-1 tvg-name="江西公共" tvg-id="251" tvg-logo="logo/jiangxi/江西公共.png" group-title="江西频道🌏", 江西公共
+http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?t=t&token=t
+#EXTINF:-1 tvg-name="江西影视" tvg-id="252" tvg-logo="logo/jiangxi/江西影视.png" group-title="江西频道🌏", 江西影视
+http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?t=t&token=t
+#EXTINF:-1 tvg-name="江西都市" tvg-id="253" tvg-logo="logo/jiangxi/江西都市.png" group-title="江西频道🌏", 江西都市
+http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?t=t&token=t
+#EXTINF:-1 tvg-name="江西经济" tvg-id="254" tvg-logo="logo/jiangxi/江西经济.png" group-title="江西频道🌏", 江西经济
+http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?t=t&token=t
+
+
+
+#EXTINF:-1 tvg-name="河南都市" tvg-id="321" tvg-logo="logo/henan/河南都市.png" group-title="河南频道🌏",河南都市
+http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=a1024a172c271a975a17086611f881cb&wsTime=1746025257
+#EXTINF:-1 tvg-name="河南民生" tvg-id="322" tvg-logo="logo/henan/河南民生.png" group-title="河南频道🌏",河南民生
+http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=1df6f74e4abdc8143bdc560d1b63381f&wsTime=1746025257
+#EXTINF:-1 tvg-name="河南法治" tvg-id="323" tvg-logo="logo/henan/河南法治.png" group-title="河南频道🌏",河南法治
+http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=9e4f4a21f0bb17b88b43729140b2a9a8&wsTime=1746025257
+#EXTINF:-1 tvg-name="河南电视剧" tvg-id="324" tvg-logo="logo/henan/河南电视剧.png" group-title="河南频道🌏",河南电视剧
+http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=50e458de2ced2491b1ca086e2f57240b&wsTime=1746025257
+#EXTINF:-1 tvg-name="河南新闻" tvg-id="325" tvg-logo="logo/henan/河南新闻.png" group-title="河南频道🌏",河南新闻
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=46cf6b973547ecfa41e786475263858d&wsTime=1746025257
+#EXTINF:-1 tvg-name="河南公共" tvg-id="326" tvg-logo="logo/henan/河南公共.png" group-title="河南频道🌏",河南公共
+http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=6eca75e5888db30e6c3197aaecf95a92&wsTime=1746025257
+#EXTINF:-1 tvg-name="河南乡村" tvg-id="327" tvg-logo="logo/henan/河南乡村.png" group-title="河南频道🌏",河南乡村
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=2841a27414d4edce08b840d35199113d&wsTime=1746025257
+#EXTINF:-1 tvg-name="移动戏曲" tvg-id="330" tvg-logo="logo/henan/河南都市.png" group-title="河南频道🌏",移动戏曲
+https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=18439665a1173cd4dcf7cac645ed6a92&wsTime=1746025257
+
+#EXTINF:-1 tvg-name="山东教育" tvg-id="221" tvg-logo="logo/shandong/山东教育.png" group-title="山东频道🌏",山东教育
+http://39.137.75.230/000000001000/1000000002000004097/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=no
+
+
+#EXTINF:-1 tvg-name="NHK総合1" tvg-id="365911" tvg-logo="logo/haiwai/NHK総合1.png" group-title="日本频道🇯🇵",NHK総合1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="NHKEテレ" tvg-id="365912" tvg-logo="logo/haiwai/NHKEテレ.png" group-title="日本频道🇯🇵",NHKEテレ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="日本テレビ" tvg-id="10752" tvg-logo="logo/haiwai/日本テレビ.png" group-title="日本频道🇯🇵",日本テレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="TBS" tvg-id="10693" tvg-logo="logo/haiwai/TBS.png" group-title="日本频道🇯🇵",TBS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="フジテレビ" tvg-id="10816" tvg-logo="logo/haiwai/フジテレビ.png" group-title="日本频道🇯🇵",フジテレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="テレビ朝日" tvg-id="10805" tvg-logo="logo/haiwai/テレビ朝日.png" group-title="日本频道🇯🇵",テレビ朝日
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="テレビ東京" tvg-id="10736" tvg-logo="logo/haiwai/テレビ東京.png" group-title="日本频道🇯🇵",テレビ東京
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="NHK BS4K" tvg-id="10770" tvg-logo="logo/haiwai/NHK BS.png" group-title="日本频道🇯🇵",NHK BS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="NHK BS4K" tvg-id="10770" tvg-logo="logo/haiwai/NHK BS4K.png" group-title="日本频道🇯🇵",NHK BS4K
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BS日テレ" tvg-id="368867" tvg-logo="logo/haiwai/BS日テレ.png" group-title="日本频道🇯🇵",BS日テレ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ＢＳ朝日１" tvg-id="10803" tvg-logo="logo/haiwai/ＢＳ朝日１.png" group-title="日本频道🇯🇵",ＢＳ朝日１
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BS-TBS" tvg-id="365927" tvg-logo="logo/haiwai/BS-TBS.png" group-title="日本频道🇯🇵",BS-TBS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BSテレ東" tvg-id="10700" tvg-logo="logo/haiwai/BSテレ東.png" group-title="日本频道🇯🇵",BSテレ東
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BSフジ 4K" tvg-id="10800" tvg-logo="logo/haiwai/BSフジ.png" group-title="日本频道🇯🇵",BSフジ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ＷＯＷＯＷプライム" tvg-id="10786" tvg-logo="logo/haiwai/ＷＯＷＯＷプライム.png" group-title="日本频道🇯🇵",ＷＯＷＯＷプライム
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="WOWOWライブ" tvg-id="365931" tvg-logo="logo/haiwai/WOWOWライブ.png" group-title="日本频道🇯🇵",WOWOWライブ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="WOWOWシネマ" tvg-id="365932" tvg-logo="logo/haiwai/WOWOWシネマ.png" group-title="日本频道🇯🇵",WOWOWシネマ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スターチャンネル1" tvg-id="10812" tvg-logo="logo/haiwai/スターチャンネル1.png" group-title="日本频道🇯🇵",スターチャンネル1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BSアニマックス" tvg-id="365939" tvg-logo="logo/haiwai/Animax.png" group-title="日本频道🇯🇵",BSアニマックス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BS釣りビジョン" tvg-id="365944" tvg-logo="logo/haiwai/BS釣りビジョン.png" group-title="日本频道🇯🇵",BS釣りビジョン
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="Mnet" tvg-id="365981" tvg-logo="logo/haiwai/Mnet.png" group-title="日本频道🇯🇵",Mnet
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="J SPORTS 1 HD" tvg-id="10761" tvg-logo="logo/haiwai/J SPORTS.png" group-title="日本频道🇯🇵",J SPORTS 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="J SPORTS 2 HD" tvg-id="10768" tvg-logo="logo/haiwai/J SPORTS.png" group-title="日本频道🇯🇵",J SPORTS 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="J SPORTS 3 HD" tvg-id="10822" tvg-logo="logo/haiwai/J SPORTS.png" group-title="日本频道🇯🇵",J SPORTS 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="J SPORTS 4 HD" tvg-id="10829" tvg-logo="logo/haiwai/J SPORTS.png" group-title="日本频道🇯🇵",J SPORTS 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="日本映画専門チャンネル　HD" tvg-id="10739" tvg-logo="logo/haiwai/日本映画専門チャンネル.png" group-title="日本频道🇯🇵",日本映画専門チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="Dlife" tvg-id="365977" tvg-logo="logo/haiwai/Dlife.png" group-title="日本频道🇯🇵",Dlife
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="チャンネル銀河　歴史ドラマ・サスペンス・日本のうた" tvg-id="10712" tvg-logo="logo/haiwai/チャンネル銀河.png" group-title="日本频道🇯🇵",チャンネル銀河
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ファミリー劇場HD" tvg-id="10788" tvg-logo="logo/haiwai/ファミリー劇場.png" group-title="日本频道🇯🇵",ファミリー劇場
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="GAORA SPORTS HD" tvg-id="10772" tvg-logo="logo/haiwai/GAORA SPORTS.png" group-title="日本频道🇯🇵",GAORA SPORTS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ゴルフネットワーク" tvg-id="10806" tvg-logo="logo/haiwai/ゴルフネットワーク.png" group-title="日本频道🇯🇵",ゴルフネットワーク
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="歌謡ポップスチャンネル" tvg-id="10731" tvg-logo="logo/haiwai/歌謡ポップスチャンネル.png" group-title="日本频道🇯🇵",歌謡ポップスチャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ホームドラマチャンネルＨＤ 韓流・時代劇・国内ドラマ" tvg-id="10811" tvg-logo="logo/haiwai/ホームドラマチャンネル.png" group-title="日本频道🇯🇵",ホームドラマチャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="女性チャンネル♪LaLa TV" tvg-id="10796" tvg-logo="logo/haiwai/LaLa TV.png" group-title="日本频道🇯🇵",LaLa TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="日テレジータス HD" tvg-id="10714" tvg-logo="logo/haiwai/日テレジータス.png" group-title="日本频道🇯🇵",日テレジータス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="映画･チャンネルNECO-HD" tvg-id="10824" tvg-logo="logo/haiwai/映画･チャンネルNECO.png" group-title="日本频道🇯🇵",映画･チャンネルNECO
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ムービープラス" tvg-id="10831" tvg-logo="logo/haiwai/ムービープラス.png" group-title="日本频道🇯🇵",ムービープラス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="東映チャンネルHD" tvg-id="10711" tvg-logo="logo/haiwai/東映チャンネル.png" group-title="日本频道🇯🇵",東映チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="時代劇専門チャンネル HD" tvg-id="10727" tvg-logo="logo/haiwai/時代劇専門チャンネル.png" group-title="日本频道🇯🇵",時代劇専門チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="囲碁・将棋チャンネル" tvg-id="10763" tvg-logo="logo/haiwai/囲碁・将棋チャンネル.png" group-title="日本频道🇯🇵",囲碁・将棋チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スーパー" tvg-id="365975" tvg-logo="logo/haiwai/スーパー.png" group-title="日本频道🇯🇵",スーパー
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スカイA" tvg-id="10825" tvg-logo="logo/haiwai/スカイA.png" group-title="日本频道🇯🇵",スカイA
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+
