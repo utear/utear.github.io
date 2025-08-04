@@ -1,16 +1,9 @@
 #EXTINF
 
-#EXTINF:-1 tvg-id="LOVENATURE4K" tvg-name="LOVENATURE4K" tvg-logo="LoveNature4K.png" group-title="4K",Love Nature 4K「自然」
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Loupe" tvg-name="Loupe" tvg-logo="Loupe4K.png" group-title="4K",Loupe 4K「视觉」
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="4K",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="4K",咪咕直播4K「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="4K",咪咕直播4K「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 
 
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="纯享4K.png" group-title="4K",纯享·4K「IPV6」
@@ -18,10 +11,7 @@ http://111.29.9.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=y
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="纯享4K.png" group-title="4K",纯享·4K「IPV6」
 http://111.29.9.44:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="深圳4K" tvg-name="深圳4K" tvg-logo="深圳4K.png" group-title="4K",深圳4K
-http://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
-#EXTINF:-1 tvg-id="深圳4K" tvg-name="深圳4K" tvg-logo="深圳4K.png" group-title="4K",深圳4K
-http://livepull-tcyzb.sztv.com.cn/live/sz4Kpgm.m3u8
+
 #EXTINF:-1 tvg-id="苏州" tvg-name="苏州_4k" tvg-logo="苏州_4k.png" group-title="4K",苏州_4k
 http://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="苏州" tvg-name="苏州_4k" tvg-logo="苏州_4k.png" group-title="4K",苏州_4k
@@ -33,13 +23,3 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="南国都市4k" tvg-name="南国都市4K" tvg-logo="南国都市4K.png" group-title="4K",南国都市4K
 https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="欢笑剧场.png" group-title="数字频道",欢笑剧场4K
-http://14.155.222.235:8181/bst/hxjc4k@15000000.m3u8
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="欢笑剧场.png" group-title="数字频道",欢笑剧场4K
-http://14.155.222.235:8181/bst/hxjchd@4000000.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="动漫秀场.png" group-title="数字频道",动漫秀场4K
-http://14.155.222.235:8181/bst/dmxchd@4000000.m3u8
-#EXTINF:-1 tvg-id="BESTV4K" tvg-name="BESTV4K" tvg-logo="BESTV4K.png" group-title="数字频道",BESTV4K
-http://14.155.222.235:8181/bst/dypd4k@15000000.m3u8
-#EXTINF:-1 tvg-id="BES少儿4K" tvg-name="BES少儿4K" tvg-logo="BES少儿4K.png" group-title="数字频道",BES少儿4K
-http://14.155.222.235:8181/bst/sepd4k@15000000.m3u8

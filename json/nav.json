@@ -89,16 +89,11 @@
     { "type": "proxy", "name": "ghproxy", "address": "https://ghfast.top/", "desc": "" },
     { "type": "proxy", "name": "ghproxy.net", "address": "https://ghproxy.net/", "desc": "" },
     { "type": "proxy", "name": "gh-proxy", "address": "https://gh-proxy.com/", "desc": "" },
-    { "type": "proxy", "name": "moeyy", "address": "https://moeyy.cn/gh-proxy/", "desc": "" },
-    { "type": "proxy", "name": "moeyy", "address": "https://github.moeyy.xyz/", "desc": "" },
-    { "type": "proxy", "name": "moeyy", "address": "https://ghproxy.homeboyc.cn/", "desc": "" },
     { "type": "proxy", "name": "moeyy", "address": "https://tool.mintimate.cn/gh/", "desc": "" },
 
-    { "type": "proxy", "name": "moeyy", "address": "https://git.886.be/", "desc": "" },
-    { "type": "proxy", "name": "gh", "address": "https://ui.ghproxy.cc/", "desc": "" },
-    { "type": "proxy", "name": "gh", "address": "https://gh-proxy.ygxz.in/", "desc": "" },
-    { "type": "proxy", "name": "gh", "address": "https://gh-proxy.net/", "desc": "" },
-    { "type": "proxy", "name": "gh", "address": "https://goppx.com/", "desc": "" }
+    
+    { "type": "proxy", "name": "gh", "address": "https://tvv.tw/", "desc": "" },
+    { "type": "proxy", "name": "gh", "address": "https://ui.ghproxy.cc/", "desc": "" }
 
     
 ]
