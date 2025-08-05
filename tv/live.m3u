@@ -50,6 +50,114 @@ http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227510/index.m3u
 #EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="CCTV16-4K.png" group-title="央视频道",CCTV16-4K
 http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8
 
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="三沙卫视.png" group-title="卫视频道",三沙卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="卫视频道",东南卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225833/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="卫视频道",东方卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225828/index.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="兵团卫视.png" group-title="卫视频道",兵团卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227168/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="卫视频道",北京卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="卫视频道",北京卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="卫视频道",吉林卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225851/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="四川卫视.png" group-title="卫视频道",四川卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="四川卫视.png" group-title="卫视频道",四川卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="四川卫视.png" group-title="卫视频道",四川卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227182/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="天津卫视.png" group-title="卫视频道",天津卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225830/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="天津卫视.png" group-title="卫视频道",天津卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225830/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="卫视频道",安徽卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="卫视频道",安徽卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="山东卫视.png" group-title="卫视频道",山东卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="山东卫视.png" group-title="卫视频道",山东卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="山东教育.png" group-title="卫视频道",山东教育
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227474/index.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="山西卫视.png" group-title="卫视频道",山西卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225839/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="广东卫视4K.png" group-title="卫视频道",广东卫视4K
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="卫视频道",广东卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="卫视频道",广东卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="广西卫视.png" group-title="卫视频道",广西卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227250/index.m3u8
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="康巴卫视.png" group-title="卫视频道",康巴卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225856/index.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="新疆卫视.png" group-title="卫视频道",新疆卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225852/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="卫视频道",江苏卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="卫视频道",江苏卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="江西卫视.png" group-title="卫视频道",江西卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="江西卫视.png" group-title="卫视频道",江西卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="卫视频道",河南卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225842/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="卫视频道",河南卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225842/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视频道",浙江卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="卫视频道",浙江卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="海峡卫视.png" group-title="卫视频道",海峡卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227198/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视频道",深圳卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227489/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="卫视频道",深圳卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225848/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="湖北卫视.png" group-title="卫视频道",湖北卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225840/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视频道",湖南卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="卫视频道",湖南卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225845/index.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="西藏卫视.png" group-title="卫视频道",西藏卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227217/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="贵州卫视.png" group-title="卫视频道",贵州卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="贵州卫视.png" group-title="卫视频道",贵州卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227201/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="贵州卫视.png" group-title="卫视频道",贵州卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="卫视频道",重庆卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227240/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="卫视频道",重庆卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225831/index.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="陕西卫视.png" group-title="卫视频道",陕西卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225850/index.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="卫视频道",青海卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225841/index.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="卫视频道",青海卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227119/index.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225846/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
+
+
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="河南edu",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -180,24 +288,14 @@ http://111.43.126.240:9003/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
 http://111.43.126.240:9003/hls/12/index.m3u8
 
-#EXTINF:-1 tvg-id="LOVENATURE4K" tvg-name="LOVENATURE4K" tvg-logo="LoveNature4K.png" group-title="4K",Love Nature 4K「自然」
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Loupe" tvg-name="Loupe" tvg-logo="Loupe4K.png" group-title="4K",Loupe 4K「视觉」
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-logo="FashionTV.png" group-title="4K",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="咪咕.png" group-title="4K",咪咕直播4K「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="咪咕.png" group-title="4K",咪咕直播4K「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="纯享4K.png" group-title="4K",纯享·4K「IPV6」
 http://111.29.9.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="纯享4K.png" group-title="4K",纯享·4K「IPV6」
 http://111.29.9.44:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="深圳4K" tvg-name="深圳4K" tvg-logo="深圳4K.png" group-title="4K",深圳4K
-http://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
-#EXTINF:-1 tvg-id="深圳4K" tvg-name="深圳4K" tvg-logo="深圳4K.png" group-title="4K",深圳4K
-http://livepull-tcyzb.sztv.com.cn/live/sz4Kpgm.m3u8
 #EXTINF:-1 tvg-id="苏州" tvg-name="苏州_4k" tvg-logo="苏州_4k.png" group-title="4K",苏州_4k
 http://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="苏州" tvg-name="苏州_4k" tvg-logo="苏州_4k.png" group-title="4K",苏州_4k
@@ -206,8 +304,6 @@ http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 #EXTINF:-1 tvg-id="河北4k" tvg-name="河北4K" tvg-logo="河北4K.png" group-title="4K",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 tvg-id="南国都市4k" tvg-name="南国都市4K" tvg-logo="南国都市4K.png" group-title="4K",南国都市4K
-https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 
 
 
@@ -495,3 +591,13 @@ http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 #EXTINF:-1 tvg-logo="杭州余杭综合.png" group-title="浙江",杭州余杭综合
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
