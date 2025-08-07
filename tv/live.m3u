@@ -262,12 +262,7 @@ http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="CCTV14.png" group-title="河南edu",CCTV14
 http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="CCTV15.png" group-title="河南edu",CCTV15
-http://iptv.huuc.edu.cn/hls/cctv15hd.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="CCTV16.png" group-title="河南edu",CCTV16
-http://iptv.huuc.edu.cn/hls/cctv16hd.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="CCTV17.png" group-title="河南edu",CCTV17
-http://iptv.huuc.edu.cn/hls/cctv17hd.m3u8
+
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="河南edu",安徽卫视
 https://iptv.huuc.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="北京财经.png" group-title="河南edu",北京财经
