@@ -1,16 +1,11 @@
 #EXTINF
-
-#EXTINF:-1 tvg-id="Loupe" tvg-name="Loupe" tvg-logo="Loupe4K.png" group-title="4K",Loupe 4K「视觉」
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-logo="FashionTV.png" group-title="4K",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="纯享4K.png" group-title="4K",纯享·4K「IPV6」
 http://111.29.9.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="纯享4K.png" group-title="4K",纯享·4K「IPV6」
 http://111.29.9.44:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-
 
 #EXTINF:-1 tvg-id="苏州" tvg-name="苏州_4k" tvg-logo="苏州_4k.png" group-title="4K",苏州_4k
 http://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
