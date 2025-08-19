@@ -1,198 +1,198 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","https://epg.112114.xyz/pp.xml","https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="央视",CCTV1
-http://117.114.153.18:8182/hls/TV00000000000000000099@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000099@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="CCTV2.png" group-title="央视",CCTV2
-http://117.114.153.18:8182/hls/TV00000000000000000140@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000140@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="央视",CCTV3
-http://117.114.153.18:8182/hls/TV00000000000000000104@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000104@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="CCTV4.png" group-title="央视",CCTV4
-http://117.114.153.18:8182/hls/TV00000000000000000001@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000001@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="CCTV5.png" group-title="央视",CCTV5
-http://117.114.153.18:8182/hls/TV00000000000000000105@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000105@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV5p" tvg-name="CCTV5p" tvg-logo="CCTV5p.png" group-title="央视",CCTV5p
-http://117.114.153.18:8182/hls/TV00000000000000000066@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="央视",CCTV6
-http://117.114.153.18:8182/hls/TV00000000000000000091@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000091@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="CCTV7.png" group-title="央视",CCTV7
-http://117.114.153.18:8182/hls/TV00000000000000000141@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000141@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="CCTV8.png" group-title="央视",CCTV8
-http://117.114.153.18:8182/hls/TV00000000000000000106@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000106@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="CCTV9.png" group-title="央视",CCTV9
-http://117.114.153.18:8182/hls/TV00000000000000000142@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000142@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="CCTV10.png" group-title="央视",CCTV10
-http://117.114.153.18:8182/hls/TV00000000000000000143@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000143@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="CCTV11.png" group-title="央视",CCTV11
-http://117.114.153.18:8182/hls/TV00000000000000000002@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000002@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="CCTV12.png" group-title="央视",CCTV12
-http://117.114.153.18:8182/hls/TV00000000000000000144@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000144@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="CCTV13.png" group-title="央视",CCTV13
-http://117.114.153.18:8182/hls/TV00000000000000000003@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000003@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="CCTV14.png" group-title="央视",CCTV14
-http://117.114.153.18:8182/hls/TV00000000000000000005@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000005@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="CCTV15.png" group-title="央视",CCTV15
-http://117.114.153.18:8182/hls/TV00000000000000000004@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000004@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="CCTV16.png" group-title="央视",CCTV16
-http://117.114.153.18:8182/hls/TV00000000000000000136@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000136@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="CCTV17.png" group-title="央视",CCTV17
-http://117.114.153.18:8182/hls/TV00000000000000000021@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000021@HHZT.m3u8
 #EXTINF:-1 tvg-id="cetv1" tvg-name="cetv1" tvg-logo="cetv1.png" group-title="卫视",cetv1
-http://117.114.153.18:8182/hls/TV00000000000000000007@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000007@HHZT.m3u8
 #EXTINF:-1 tvg-id="cetv4" tvg-name="cetv4" tvg-logo="cetv4.png" group-title="卫视",cetv4
-http://117.114.153.18:8182/hls/TV00000000000000000012@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000012@HHZT.m3u8
 #EXTINF:-1 tvg-id="nmws" tvg-name="nmws" tvg-logo="nmws.png" group-title="卫视",nmws
-http://117.114.153.18:8182/hls/TV00000000000000000010@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000010@HHZT.m3u8
 #EXTINF:-1 tvg-id="hbws" tvg-name="hbws" tvg-logo="hbws.png" group-title="卫视",hbws
-http://117.114.153.18:8182/hls/TV00000000000000000013@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000013@HHZT.m3u8
 #EXTINF:-1 tvg-id="gsws" tvg-name="gsws" tvg-logo="gsws.png" group-title="卫视",gsws
-http://117.114.153.18:8182/hls/TV00000000000000000014@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000014@HHZT.m3u8
 #EXTINF:-1 tvg-id="hnws" tvg-name="hnws" tvg-logo="hnws.png" group-title="卫视",hnws
-http://117.114.153.18:8182/hls/TV00000000000000000016@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000016@HHZT.m3u8
 #EXTINF:-1 tvg-id="nxws" tvg-name="nxws" tvg-logo="nxws.png" group-title="卫视",nxws
-http://117.114.153.18:8182/hls/TV00000000000000000018@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000018@HHZT.m3u8
 #EXTINF:-1 tvg-id="jxws" tvg-name="jxws" tvg-logo="jxws.png" group-title="卫视",jxws
-http://117.114.153.18:8182/hls/TV00000000000000000019@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000019@HHZT.m3u8
 #EXTINF:-1 tvg-id="bjjskj" tvg-name="bjjskj" tvg-logo="bjjskj.png" group-title="卫视",bjjskj
-http://117.114.153.18:8182/hls/TV00000000000000000020@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000020@HHZT.m3u8
 #EXTINF:-1 tvg-id="bjys" tvg-name="bjys" tvg-logo="bjys.png" group-title="卫视",bjys
-http://117.114.153.18:8182/hls/TV00000000000000000022@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000022@HHZT.m3u8
 #EXTINF:-1 tvg-id="bjsh" tvg-name="bjsh" tvg-logo="bjsh.png" group-title="卫视",bjsh
-http://117.114.153.18:8182/hls/TV00000000000000000023@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000023@HHZT.m3u8
 #EXTINF:-1 tvg-id="bjwy" tvg-name="bjwy" tvg-logo="bjwy.png" group-title="卫视",bjwy
-http://117.114.153.18:8182/hls/TV00000000000000000024@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000024@HHZT.m3u8
 #EXTINF:-1 tvg-id="bjxw" tvg-name="bjxw" tvg-logo="bjxw.png" group-title="卫视",bjxw
-http://117.114.153.18:8182/hls/TV00000000000000000025@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000025@HHZT.m3u8
 #EXTINF:-1 tvg-id="kkse" tvg-name="kkse" tvg-logo="kkse.png" group-title="卫视",kkse
-http://117.114.153.18:8182/hls/TV00000000000000000026@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000026@HHZT.m3u8
 #EXTINF:-1 tvg-id="gdws" tvg-name="gdws" tvg-logo="gdws.png" group-title="卫视",gdws
-http://117.114.153.18:8182/hls/TV00000000000000000027@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000027@HHZT.m3u8
 #EXTINF:-1 tvg-id="ynws" tvg-name="ynws" tvg-logo="ynws.png" group-title="卫视",ynws
-http://117.114.153.18:8182/hls/TV00000000000000000028@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000028@HHZT.m3u8
 #EXTINF:-1 tvg-id="sxiws" tvg-name="sxiws" tvg-logo="sxiws.png" group-title="卫视",sxiws
-http://117.114.153.18:8182/hls/TV00000000000000000030@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000030@HHZT.m3u8
 #EXTINF:-1 tvg-id="xjws" tvg-name="xjws" tvg-logo="xjws.png" group-title="卫视",xjws
-http://117.114.153.18:8182/hls/TV00000000000000000031@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000031@HHZT.m3u8
 #EXTINF:-1 tvg-id="scws" tvg-name="scws" tvg-logo="scws.png" group-title="卫视",scws
-http://117.114.153.18:8182/hls/TV00000000000000000033@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000033@HHZT.m3u8
 #EXTINF:-1 tvg-id="qhws" tvg-name="qhws" tvg-logo="qhws.png" group-title="卫视",qhws
-http://117.114.153.18:8182/hls/TV00000000000000000034@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000034@HHZT.m3u8
 #EXTINF:-1 tvg-id="xzws" tvg-name="xzws" tvg-logo="xzws.png" group-title="卫视",xzws
-http://117.114.153.18:8182/hls/TV00000000000000000035@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000035@HHZT.m3u8
 #EXTINF:-1 tvg-id="sdjy" tvg-name="sdjy" tvg-logo="sdjy.png" group-title="卫视",sdjy
-http://117.114.153.18:8182/hls/TV00000000000000000036@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000036@HHZT.m3u8
 #EXTINF:-1 tvg-id="gxws" tvg-name="gxws" tvg-logo="gxws.png" group-title="卫视",gxws
-http://117.114.153.18:8182/hls/TV00000000000000000037@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000037@HHZT.m3u8
 #EXTINF:-1 tvg-id="sxws" tvg-name="sxws" tvg-logo="sxws.png" group-title="卫视",sxws
-http://117.114.153.18:8182/hls/TV00000000000000000038@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000038@HHZT.m3u8
 #EXTINF:-1 tvg-id="jlws" tvg-name="jlws" tvg-logo="jlws.png" group-title="卫视",jlws
-http://117.114.153.18:8182/hls/TV00000000000000000039@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000039@HHZT.m3u8
 #EXTINF:-1 tvg-id="gzws" tvg-name="gzws" tvg-logo="gzws.png" group-title="卫视",gzws
-http://117.114.153.18:8182/hls/TV00000000000000000040@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000040@HHZT.m3u8
 #EXTINF:-1 tvg-id="ssws" tvg-name="ssws" tvg-logo="ssws.png" group-title="卫视",ssws
-http://117.114.153.18:8182/hls/TV00000000000000000041@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000041@HHZT.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="43" tvg-logo="43.png" group-title="卫视",43
-http://117.114.153.18:8182/hls/TV00000000000000000043@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000043@HHZT.m3u8
 #EXTINF:-1 tvg-id="xmws" tvg-name="xmws" tvg-logo="xmws.png" group-title="卫视",xmws
-http://117.114.153.18:8182/hls/TV00000000000000000044@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000044@HHZT.m3u8
 #EXTINF:-1 tvg-id="[V]" tvg-name="[V]" tvg-logo="[V].png" group-title="卫视",[V]
-http://117.114.153.18:8182/hls/TV00000000000000000067@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000067@HHZT.m3u8
 #EXTINF:-1 tvg-id="fhzx" tvg-name="fhzx" tvg-logo="fhzx.png" group-title="卫视",fhzx
-http://117.114.153.18:8182/hls/TV00000000000000000068@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000068@HHZT.m3u8
 #EXTINF:-1 tvg-id="fhzw" tvg-name="fhzw" tvg-logo="fhzw.png" group-title="卫视",fhzw
-http://117.114.153.18:8182/hls/TV00000000000000000069@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000069@HHZT.m3u8
 #EXTINF:-1 tvg-id="SPORTS" tvg-name="SPORTS" tvg-logo="SPORTS.png" group-title="卫视",SPORTS
-http://117.114.153.18:8182/hls/TV00000000000000000070@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000070@HHZT.m3u8
 #EXTINF:-1 tvg-id="xkws" tvg-name="xkws" tvg-logo="xkws.png" group-title="卫视",xkws
-http://117.114.153.18:8182/hls/TV00000000000000000071@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000071@HHZT.m3u8
 #EXTINF:-1 tvg-id="fhdy" tvg-name="fhdy" tvg-logo="fhdy.png" group-title="卫视",fhdy
-http://117.114.153.18:8182/hls/TV00000000000000000072@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000072@HHZT.m3u8
 #EXTINF:-1 tvg-id="BHO" tvg-name="BHO" tvg-logo="BHO.png" group-title="卫视",BHO
-http://117.114.153.18:8182/hls/TV00000000000000000074@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000074@HHZT.m3u8
 #EXTINF:-1 tvg-id="XWS" tvg-name="XWS" tvg-logo="XWS.png" group-title="卫视",XWS
-http://117.114.153.18:8182/hls/TV00000000000000000075@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000075@HHZT.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="AXN.png" group-title="卫视",AXN
-http://117.114.153.18:8182/hls/TV00000000000000000076@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000076@HHZT.m3u8
 #EXTINF:-1 tvg-id="D" tvg-name="D" tvg-logo="D.png" group-title="卫视",D
-http://117.114.153.18:8182/hls/TV00000000000000000077@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000077@HHZT.m3u8
 #EXTINF:-1 tvg-id="sdws" tvg-name="sdws" tvg-logo="sdws.png" group-title="卫视",sdws
-http://117.114.153.18:8182/hls/TV00000000000000000083@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000083@HHZT.m3u8
 #EXTINF:-1 tvg-id="hljws" tvg-name="hljws" tvg-logo="hljws.png" group-title="卫视",hljws
-http://117.114.153.18:8182/hls/TV00000000000000000084@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000084@HHZT.m3u8
 #EXTINF:-1 tvg-id="tjws" tvg-name="tjws" tvg-logo="tjws.png" group-title="卫视",tjws
-http://117.114.153.18:8182/hls/TV00000000000000000085@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000085@HHZT.m3u8
 #EXTINF:-1 tvg-id="hubws" tvg-name="hubws" tvg-logo="hubws.png" group-title="卫视",hubws
-http://117.114.153.18:8182/hls/TV00000000000000000086@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000086@HHZT.m3u8
 #EXTINF:-1 tvg-id="ahws" tvg-name="ahws" tvg-logo="ahws.png" group-title="卫视",ahws
-http://117.114.153.18:8182/hls/TV00000000000000000087@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000087@HHZT.m3u8
 #EXTINF:-1 tvg-id="jsws" tvg-name="jsws" tvg-logo="jsws.png" group-title="卫视",jsws
-http://117.114.153.18:8182/hls/TV00000000000000000089@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000089@HHZT.m3u8
 #EXTINF:-1 tvg-id="bjws" tvg-name="bjws" tvg-logo="bjws.png" group-title="卫视",bjws
-http://117.114.153.18:8182/hls/TV00000000000000000090@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000090@HHZT.m3u8
 #EXTINF:-1 tvg-id="chcjt" tvg-name="chcjt" tvg-logo="chcjt.png" group-title="卫视",chcjt
-http://117.114.153.18:8182/hls/TV00000000000000000092@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000092@HHZT.m3u8
 #EXTINF:-1 tvg-id="chcdz" tvg-name="chcdz" tvg-logo="chcdz.png" group-title="卫视",chcdz
-http://117.114.153.18:8182/hls/TV00000000000000000093@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000093@HHZT.m3u8
 #EXTINF:-1 tvg-id="chcym" tvg-name="chcym" tvg-logo="chcym.png" group-title="卫视",chcym
-http://117.114.153.18:8182/hls/TV00000000000000000094@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000094@HHZT.m3u8
 #EXTINF:-1 tvg-id="bjcj" tvg-name="bjcj" tvg-logo="bjcj.png" group-title="卫视",bjcj
-http://117.114.153.18:8182/hls/TV00000000000000000095@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000095@HHZT.m3u8
 #EXTINF:-1 tvg-id="bjwy" tvg-name="bjwy" tvg-logo="bjwy.png" group-title="卫视",bjwy
-http://117.114.153.18:8182/hls/TV00000000000000000100@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000100@HHZT.m3u8
 #EXTINF:-1 tvg-id="szws" tvg-name="szws" tvg-logo="szws.png" group-title="卫视",szws
-http://117.114.153.18:8182/hls/TV00000000000000000101@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000101@HHZT.m3u8
 #EXTINF:-1 tvg-id="zjws" tvg-name="zjws" tvg-logo="zjws.png" group-title="卫视",zjws
-http://117.114.153.18:8182/hls/TV00000000000000000102@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000102@HHZT.m3u8
 #EXTINF:-1 tvg-id="btws" tvg-name="btws" tvg-logo="btws.png" group-title="卫视",btws
-http://117.114.153.18:8182/hls/TV00000000000000000107@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000107@HHZT.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="CNN.png" group-title="卫视",CNN
-http://117.114.153.18:8182/hls/TV00000000000000000108@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000108@HHZT.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="CINEMAX.png" group-title="卫视",CINEMAX
-http://117.114.153.18:8182/hls/TV00000000000000000109@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000109@HHZT.m3u8
 #EXTINF:-1 tvg-id="fhzw" tvg-name="fhzw" tvg-logo="fhzw.png" group-title="卫视",fhzw
-http://117.114.153.18:8182/hls/TV00000000000000000110@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000110@HHZT.m3u8
 #EXTINF:-1 tvg-id="SPORTS" tvg-name="SPORTS" tvg-logo="SPORTS.png" group-title="卫视",SPORTS
-http://117.114.153.18:8182/hls/TV00000000000000000111@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000111@HHZT.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="NATIONAL GEOGRAPHIC.png" group-title="卫视",NATIONAL GEOGRAPHIC
-http://117.114.153.18:8182/hls/TV00000000000000000112@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000112@HHZT.m3u8
 #EXTINF:-1 tvg-id="chcym" tvg-name="chcym" tvg-logo="chcym.png" group-title="卫视",chcym
-http://117.114.153.18:8182/hls/TV00000000000000000115@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000115@HHZT.m3u8
 #EXTINF:-1 tvg-id="lnws" tvg-name="lnws" tvg-logo="lnws.png" group-title="卫视",lnws
-http://117.114.153.18:8182/hls/TV00000000000000000119@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000119@HHZT.m3u8
 #EXTINF:-1 tvg-id="cqws" tvg-name="cqws" tvg-logo="cqws.png" group-title="卫视",cqws
-http://117.114.153.18:8182/hls/TV00000000000000000120@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000120@HHZT.m3u8
 #EXTINF:-1 tvg-id="dfws" tvg-name="dfws" tvg-logo="dfws.png" group-title="卫视",dfws
-http://117.114.153.18:8182/hls/TV00000000000000000138@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000138@HHZT.m3u8
 #EXTINF:-1 tvg-id="hunws" tvg-name="hunws" tvg-logo="hunws.png" group-title="卫视",hunws
-http://117.114.153.18:8182/hls/TV00000000000000000148@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000148@HHZT.m3u8
 #EXTINF:-1 tvg-id="hunws" tvg-name="hunws" tvg-logo="hunws.png" group-title="卫视",hunws
-http://117.114.153.18:8182/hls/TV00000000000000000150@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000150@HHZT.m3u8
 #EXTINF:-1 tvg-id="dnws" tvg-name="dnws" tvg-logo="dnws.png" group-title="卫视",dnws
-http://117.114.153.18:8182/hls/TV00000000000000000156@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000156@HHZT.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="NHK.png" group-title="卫视",NHK
-http://117.114.153.18:8182/hls/TV00000000000000000161@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000161@HHZT.m3u8
 #EXTINF:-1 tvg-id="TV5 MONDE" tvg-name="TV5 MONDE" tvg-logo="TV5 MONDE.png" group-title="卫视",TV5 MONDE
-http://117.114.153.18:8182/hls/TV00000000000000000162@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000162@HHZT.m3u8
 #EXTINF:-1 tvg-id="Bloomberg Television" tvg-name="Bloomberg Television" tvg-logo="Bloomberg Television.png" group-title="卫视",Bloomberg Television
-http://117.114.153.18:8182/hls/TV00000000000000000163@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000163@HHZT.m3u8
 #EXTINF:-1 tvg-id="BKBS WORLD" tvg-name="BKBS WORLD" tvg-logo="BKBS WORLD.png" group-title="卫视",BKBS WORLD
-http://117.114.153.18:8182/hls/TV00000000000000000166@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000166@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="卫视",CCTV3
-http://117.114.153.18:8182/hls/TV00000000000000000181@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000181@HHZT.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="CCTV5.png" group-title="卫视",CCTV5
-http://117.114.153.18:8182/hls/TV00000000000000000182@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000182@HHZT.m3u8
 #EXTINF:-1 tvg-id="bjws" tvg-name="bjws" tvg-logo="bjws.png" group-title="卫视",bjws
-http://117.114.153.18:8182/hls/TV00000000000000000184@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000184@HHZT.m3u8
 #EXTINF:-1 tvg-id="tjws" tvg-name="tjws" tvg-logo="tjws.png" group-title="卫视",tjws
-http://117.114.153.18:8182/hls/TV00000000000000000187@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000187@HHZT.m3u8
 #EXTINF:-1 tvg-id="chcjt" tvg-name="chcjt" tvg-logo="chcjt.png" group-title="卫视",chcjt
-http://117.114.153.18:8182/hls/TV00000000000000000195@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000195@HHZT.m3u8
 #EXTINF:-1 tvg-id="bjtyxx" tvg-name="bjtyxx" tvg-logo="bjtyxx.png" group-title="卫视",bjtyxx
-http://117.114.153.18:8182/hls/TV00000000000000000196@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000196@HHZT.m3u8
 #EXTINF:-1 tvg-id="zjws" tvg-name="zjws" tvg-logo="zjws.png" group-title="卫视",zjws
-http://117.114.153.18:8182/hls/TV00000000000000000197@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000197@HHZT.m3u8
 #EXTINF:-1 tvg-id="szws" tvg-name="szws" tvg-logo="szws.png" group-title="卫视",szws
-http://117.114.153.18:8182/hls/TV00000000000000000198@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000198@HHZT.m3u8
 #EXTINF:-1 tvg-id="bjtyxx" tvg-name="bjtyxx" tvg-logo="bjtyxx.png" group-title="卫视",bjtyxx
-http://117.114.153.18:8182/hls/TV00000000000000000200@HHZT.m3u8
+http://117.114.153.26:8182/hls/TV00000000000000000200@HHZT.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1.png" group-title="央视频道",CCTV-1
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227607/1.m3u8?HlsProfileId=
