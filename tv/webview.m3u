@@ -23,15 +23,18 @@ webview://https://tv.cctv.com/live/cctv6/
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
 webview://https://yangshipin.cn/tv/home?pid=600004092
 webview://https://tv.cctv.com/live/cctv7/
+https://ysxw.cctv.cn/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=8516529981177953694&channelId=1215&ban=1
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
 webview://https://yangshipin.cn/tv/home?pid=600001803
 webview://https://tv.cctv.com/live/cctv8/
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
 webview://https://yangshipin.cn/tv/home?pid=600004078
 webview://https://tv.cctv.com/live/cctvjilu/
+https://ysxw.cctv.cn/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=7252237247689203957&channelId=1215&ban=1
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视",CCTV-10 科教
 webview://https://yangshipin.cn/tv/home?pid=600001805
 webview://https://tv.cctv.com/live/cctv10/
+https://ysxw.cctv.cn/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=14589146016461298119&channelId=1215&ban=1
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
 webview://https://yangshipin.cn/tv/home?pid=600001806
 webview://https://tv.cctv.com/live/cctv11/
@@ -54,6 +57,9 @@ webview://https://tv.cctv.com/live/cctv16/
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 webview://https://yangshipin.cn/tv/home?pid=600001810
 webview://https://tv.cctv.com/live/cctv17/
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视",CCTV-4K
+https://ysxw.cctv.cn/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=2127841942201075403&channelId=1215&ban=1
+
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="安徽",安徽卫视
 webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 webview://https://yangshipin.cn/tv/home?pid=600002532
