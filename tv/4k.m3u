@@ -15,5 +15,6 @@ http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 #EXTINF:-1 tvg-id="河北4k" tvg-name="河北4K" tvg-logo="河北4K.png" group-title="4K",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-
+#EXTINF:-1 tvg-id="江苏4k" tvg-name="江苏4K" tvg-logo="江苏4K.png" group-title="4K",江苏4K
+http://free.cnlive.club/channel/n59e8ed26/index.m3u8
 
