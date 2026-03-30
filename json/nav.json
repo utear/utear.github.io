@@ -48,8 +48,7 @@
     { "type": "bt", "name": "bt111", "address": "https://www.bttt11.com/", "desc": "" },
     { "type": "bt", "name": "rarbg", "address": "https://www.rarbg.tw/", "desc": "" },
 
-    { "type": "tv", "name": "IPTV search", "address": "https://www.foodieguide.com/iptvsearch/", "desc": "" },
-    { "type": "tv", "name": "IPTV search", "address": "https://www.iptv-search.com/zh-hans/", "desc": "" },
+
     { "type": "tv", "name": "IPTV", "address": "http://tonkiang.us/", "desc": "" },
     { "type": "tv", "name": "tvbox线路", "address": "https://utear.github.io/tvbox.html", "desc": "" },
 
